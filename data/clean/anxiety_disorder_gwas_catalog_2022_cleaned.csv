@@ -1,0 +1,25 @@
+,variant_and_allele,p_value,trait,gene
+40,rs10959883-<b>C</b>,3e-11,anxiety disorder,UNKNOWN
+43,rs2861139-<b>C</b>,3.0000000000000004e-09,anxiety disorder,LINC01938
+41,rs1187280-<b>G</b>,7.000000000000001e-09,anxiety disorder,NTRK2
+45,rs1709393-<b>C</b>,2e-08,anxiety disorder,LINC02085
+42,rs4855559-<b>T</b>,4e-08,anxiety disorder,MYH15
+44,rs3807866-<b>A</b>,5e-08,anxiety disorder,TMEM106B
+46,rs7528604-<b>?</b>,3e-07,anxiety disorder,PDE4B
+32,rs4692589-<b>C</b>,9e-07,anxiety disorder,MFAP3L
+33,rs10893268-<b>T</b>,1e-06,anxiety disorder,OR8A1
+34,rs12153327-<b>C</b>,2e-06,anxiety disorder,UNKNOWN
+28,rs12120353-<b>A</b>,3e-06,anxiety disorder,LINC01646
+39,rs2115691-<b>?</b>,4e-06,anxiety disorder,HNRNPA1P55
+39,rs2115691-<b>?</b>,4e-06,anxiety disorder,CXCL1
+35,rs2170820-<b>C</b>,4.9999999999999996e-06,anxiety disorder,TMEM132D
+29,rs10762651-<b>?</b>,6e-06,anxiety disorder,DUSP29
+25,rs7141336-<b>C</b>,6e-06,anxiety disorder,LINC02321
+25,rs7141336-<b>C</b>,6e-06,anxiety disorder,TTC7B
+36,rs1551277-<b>A</b>,7e-06,anxiety disorder,PKD1L1
+30,rs17105932-<b>?</b>,7e-06,anxiety disorder,GUCY1A2
+37,rs12703441-<b>C</b>,7e-06,anxiety disorder,MGAM2
+31,rs6799682-<b>A</b>,8e-06,anxiety disorder,LINC00578
+38,rs4736192-<b>A</b>,9e-06,anxiety disorder,COL22A1
+27,rs241257-<b>A</b>,9e-06,anxiety disorder,LINC01646
+26,rs17548918-<b>C</b>,9e-06,anxiety disorder,VENTXP7
