@@ -1,0 +1,29 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Background trait(s)","Study accession",Location
+rs113507694-<b>G</b>,"2 x 10-7",,0.0346,2.8376844,'-,[2.44-3.23],DPPA3,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,12:7714013
+rs11110253-<b>A</b>,"4 x 10-6",,0.8255,1.5641,'-,[1.37-1.75],'-,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,12:78524661
+rs675828-<b>G</b>,"8 x 10-6",,0.49,1.3340448,'-,[1.21-1.46],"CCDC168, METTL21C","Borderline personality disorder","Borderline personality disorder",'-,GCST004641,13:102698383
+rs9520569-<b>T</b>,"8 x 10-6",,0.7353,1.4449,'-,[1.28-1.61],FAM155A,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,13:107750203
+rs187058036-<b>C</b>,"8 x 10-6",,0.0234,2.6260505,'-,[2.20-3.05],LINC02296,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,14:87426463
+rs76695126-<b>T</b>,"3 x 10-6",,0.44,1.3671,'-,[1.23-1.50],STX8,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,17:9523407
+rs1985762-<b>T</b>,"8 x 10-6",,0.0832,1.6842,'-,[1.46-1.91],"TMEM92-AS1, XYLT2","Borderline personality disorder","Borderline personality disorder",'-,GCST004641,17:50326715
+rs8104156-<b>T</b>,"5 x 10-6",,0.3394,1.3601,'-,[1.23-1.49],"MIR1283-1, MIR520A","Borderline personality disorder","Borderline personality disorder",'-,GCST004641,19:53689916
+rs187785463-<b>G</b>,"7 x 10-6",,0.9261,2.0263424,'-,[1.72-2.33],DPYD,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,1:97686569
+rs57726666-<b>A</b>,"2 x 10-6",,0.9125,1.8855,'-,[1.62-2.15],GACAT3,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,2:16063204
+rs115689122-<b>A</b>,"8 x 10-6",,0.0054,6.1189,'-,[5.32-6.92],LINC01867,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,2:52378941
+rs62127626-<b>A</b>,"7 x 10-6",,0.0057,5.9639,'-,[5.18-6.74],"CRTC1P1, GGCTP3","Borderline personality disorder","Borderline personality disorder",'-,GCST004641,2:52492153
+rs150592717-<b>T</b>,"9 x 10-6",,0.869,2.2187,'-,[1.87-2.57],"IGKV1D-35, IGKV3D-34","Borderline personality disorder","Borderline personality disorder",'-,GCST004641,2:89897307
+chr2:159476445-<b>?</b>,"2 x 10-6",,0.4908,1.3685,'-,[1.24-1.5],'-,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,"Mapping not available"
+chr3:77677315-<b>?</b>,"9 x 10-6",,0.0986,1.554243,'-,[1.36-1.75],'-,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,"Mapping not available"
+rs283386-<b>G</b>,"7 x 10-6",,0.1042,1.6398821,'-,[1.42-1.86],GAP43,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,3:115696987
+rs13136239-<b>G</b>,"6 x 10-6",,0.6466,1.3711778,'-,[1.23-1.51],MAML3,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,4:139987601
+rs34416917-<b>G</b>,"7 x 10-6",,0.8439,1.5832804,'-,[1.38-1.78],RNA5SP181,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,5:36406516
+rs2145737-<b>T</b>,"7 x 10-6",,0.5422,1.3526,'-,[1.22-1.48],TRDN,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,6:123558777
+rs6922614-<b>T</b>,"4 x 10-6",,0.888,1.7794,'-,[1.53-2.03],SNX9,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,6:157785332
+rs6975373-<b>T</b>,"6 x 10-6",,0.0793,1.7113,'-,[1.48-1.94],CYP3A54P,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,7:4427848
+rs114497090-<b>A</b>,"9 x 10-6",,0.005,6.1683,'-,[5.36-6.97],FERD3L,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,7:19177901
+chr7:27669577-<b>?</b>,"8 x 10-6",,0.2951,1.3789,'-,[1.24-1.52],'-,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,"Mapping not available"
+chr7:76213662-<b>?</b>,"5 x 10-6",,0.189,1.4694,'-,[1.3-1.63],'-,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,"Mapping not available"
+rs11784341-<b>T</b>,"2 x 10-6",,0.0118,4.2643,'-,[3.67-4.86],SRSF3P2,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,8:95945502
+rs7859734-<b>C</b>,"7 x 10-6",,0.6101,1.3681762,'-,[1.23-1.51],GAS1,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,9:86947439
+rs184224980-<b>C</b>,"3 x 10-6",,0.1707,1.6196955,'-,[1.42-1.82],CAMK1D,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,10:12623139
+rs7074356-<b>A</b>,"5 x 10-6",,0.1251,1.5278,'-,[1.35-1.71],'-,"Borderline personality disorder","Borderline personality disorder",'-,GCST004641,"Mapping not available"
