@@ -1,0 +1,31 @@
+,variant_and_allele,p_value,trait,gene
+126,rs2377339-<b>G</b>,1e-11,drug dependence,UNKNOWN
+127,"rs4851870-<b>C</b>, rs12043259-<b>A</b>, rs6747023-<b>G</b>, rs7589342-<b>T</b>, rs2377339-<b>G</b>, rs7589561-<b>T</b>, rs1465641-<b>A</b>, rs1465639-<b>G</b>, rs2163349-<b>T</b>, rs12995849-<b>T</b>, rs12995333-<b>T</b>, rs6741172-<b>A</b>, rs2163350-<b>C</b>, rs4851095-<b>C</b>",2e-11,drug dependence,NCK2; No mapped genes; No mapped genes; No mapped genes; No mapped genes; No mapped genes; No mapped genes; No mapped genes; No mapped genes; No mapped genes; No mapped genes; No mapped genes; No mapped genes; No mapped genes
+118,rs9829896-<b>?</b>,4e-10,drug dependence,KAT2B
+148,rs2394476-<b>T</b>,1e-09,drug dependence,SLC25A16
+130,rs116544709-<b>T</b>,2e-08,drug dependence,LITAF
+130,rs116544709-<b>T</b>,2e-08,drug dependence,RMI2
+129,rs12284594-<b>G</b>,7e-08,drug dependence,PKNOX2
+119,rs118129027-<b>C</b>,8e-08,drug dependence,POU6F2
+119,rs118129027-<b>C</b>,8e-08,drug dependence,YAE1
+139,rs116441240-<b>T</b>,1e-07,drug dependence,GNAO1
+149,rs11500237-<b>C</b>,3e-07,drug dependence,KCNA4
+143,rs55670624-<b>T</b>,3e-07,drug dependence,RRN3P4
+136,rs11764430-<b>T</b>,3e-07,drug dependence,CPVL
+120,rs1417205-<b>A</b>,8e-07,drug dependence,GNG5P5
+134,rs16857949-<b>A</b>,1e-06,drug dependence,UNKNOWN
+135,rs6906329-<b>T</b>,2e-06,drug dependence,OFCC1
+132,rs148995264-<b>C</b>,2e-06,drug dependence,UNKNOWN
+121,rs9900808-<b>A</b>,2e-06,drug dependence,UNKNOWN
+144,rs79245542-<b>A</b>,2e-06,drug dependence,HOMER1
+137,rs77338073-<b>A</b>,4e-06,drug dependence,RPL9P21
+122,rs1573535-<b>A</b>,4e-06,drug dependence,NELL1
+142,rs272043-<b>T</b>,4e-06,drug dependence,DPP10
+123,rs4789400-<b>A</b>,4.9999999999999996e-06,drug dependence,Metazoa_SRP
+123,rs4789400-<b>A</b>,4.9999999999999996e-06,drug dependence,MGAT5B
+124,rs10455657-<b>T</b>,6e-06,drug dependence,LINC02549
+141,rs115062292-<b>T</b>,7e-06,drug dependence,NRXN1
+125,rs9458975-<b>T</b>,7e-06,drug dependence,SYNJ2
+125,rs9458975-<b>T</b>,7e-06,drug dependence,SNX9
+151,rs1460212-<b>A</b>,8e-06,drug dependence,MYCBPAP
+151,rs1460212-<b>A</b>,8e-06,drug dependence,RSAD1
