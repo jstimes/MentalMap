@@ -12,8 +12,10 @@ OUTPUT_DIR = '../data/clean/'
 # assumed these file name prefixes are the main/parent trait name.
 # E.g. `schizophrenia_gwas_catalog_2022.csv` -> schizophrenia
 TRAIT_FILE_SUFFIX = '_gwas_catalog_2022.csv'
+METADATA_FILE = 'gwas_trait_metadata.csv'
 
 UNKNOWN_GENE = 'UNKNOWN'
+CHILD_TRAIT_DELIMITER = ';'
 
 
 def main():
@@ -31,11 +33,19 @@ def get_input_trait_files_():
 
 
 def process_file_(input_file_path):
-    trait = get_trait_from_file_path_(input_file_path)
-    print(f'Cleaning file {input_file_path} for trait {trait}.')
+    main_trait = get_trait_from_file_path_(input_file_path)
+    traits_to_retain = get_child_traits_(main_trait)
+    traits_to_retain.append(main_trait)
+    print(f'Cleaning file {input_file_path} for trait {main_trait}.')
 
-    clean_df = clean_file_(input_file_path, trait)
-    write_to_file_(trait, clean_df)
+    clean_df = clean_file_(input_file_path, traits_to_retain)
+    write_to_file_(main_trait, clean_df)
+
+
+def get_child_traits_(main_trait):
+    metadata_df = pd.read_csv(INPUT_DIR + METADATA_FILE)
+    trait_row = metadata_df.loc[metadata_df['Trait'] == main_trait]
+    return trait_row['Child traits'].astype(str).tolist()[0].split(CHILD_TRAIT_DELIMITER)
 
 
 def get_trait_from_file_path_(file_path):
@@ -44,7 +54,7 @@ def get_trait_from_file_path_(file_path):
     return trait
 
 
-def clean_file_(input_file_path, trait):
+def clean_file_(input_file_path, traits_to_retain):
     df = pd.read_csv(input_file_path)
 
     # Parse P-values as numbers.
@@ -53,7 +63,7 @@ def clean_file_(input_file_path, trait):
     # Filter to only records with the canonical trait.
     # It's important this step occurs before the gene normalization
     # as that step intentionally creates duplicate variant entries.
-    df = filter_by_trait_(df, trait)
+    df = filter_by_traits_(df, traits_to_retain)
 
     # Sanity-check that all duplicated variants have same mapped-gene value.
     sanity_check_duplicate_variants_(df)
@@ -73,11 +83,12 @@ def pval_to_num_(pval):
   return float(parts[0]) * pow(10, -float(parts[1]))
 
 
-def filter_by_trait_(df, trait):
+def filter_by_traits_(df, traits_to_retain):
     # First normalize trait column (un-capitalize)
     df['Trait(s)'] = df['Trait(s)'].map(lambda t: t.lower())
     original_total_rows = len(df)
-    filtered_df = df[df['Trait(s)'] == trait]
+    df['is_retained_trait'] = df['Trait(s)'].map(lambda t: t in traits_to_retain)
+    filtered_df = df[df['is_retained_trait'] == True]
     filtered_rows = len(df) - len(filtered_df)
     print(f'Trait filtering removed {filtered_rows} rows ({original_total_rows} originally).')
     return filtered_df
