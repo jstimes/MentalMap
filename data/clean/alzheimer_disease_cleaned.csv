@@ -6,6 +6,7 @@
 419,rs2075650-<b>?</b>,2e-157,alzheimer disease,TOMM40
 389,rs4420638-<b>?</b>,8e-149,alzheimer disease,APOC1P1
 389,rs4420638-<b>?</b>,8e-149,alzheimer disease,APOC1
+6,rs7412-<b>?</b>,3e-105,late-onset alzheimers disease,APOE
 382,rs157580-<b>?</b>,8e-89,alzheimer disease,TOMM40
 608,rs769449-<b>?</b>,2e-83,alzheimer disease,APOE
 585,rs56131196-<b>?</b>,5.9999999999999996e-77,alzheimer disease,APOC1P1
@@ -15,6 +16,10 @@
 638,rs483082-<b>?</b>,1e-62,alzheimer disease,APOC1
 638,rs483082-<b>?</b>,1e-62,alzheimer disease,APOE
 303,rs440446-<b>G</b>,9e-59,alzheimer disease,APOE
+168,rs4663105-<b>?</b>,4e-58,late-onset alzheimers disease,NIFKP9
+168,rs4663105-<b>?</b>,4e-58,late-onset alzheimers disease,BIN1
+203,rs10119-<b>?</b>,2e-57,late-onset alzheimers disease,TOMM40
+0,APOE-<b>?</b>,1e-49,late-onset alzheimers disease,UNKNOWN
 473,rs6733839-<b>T</b>,7e-44,alzheimer disease,BIN1
 473,rs6733839-<b>T</b>,7e-44,alzheimer disease,NIFKP9
 406,rs519113-<b>G</b>,5e-39,alzheimer disease,NECTIN2
@@ -23,23 +28,31 @@
 717,rs405509-<b>G</b>,3e-38,alzheimer disease,TOMM40
 320,rs4803764-<b>C</b>,1e-34,alzheimer disease,NECTIN2
 301,rs7412-<b>C</b>,3e-33,alzheimer disease,APOE
+184,rs1582763-<b>?</b>,3e-33,late-onset alzheimers disease,MS4A4A
 718,rs7412-<b>T</b>,2e-31,alzheimer disease,APOE
 295,rs6733839-<b>?</b>,3.0000000000000003e-30,alzheimer disease,BIN1
 295,rs6733839-<b>?</b>,3.0000000000000003e-30,alzheimer disease,NIFKP9
 223,rs4663105-<b>C</b>,4e-29,alzheimer disease,NIFKP9
 223,rs4663105-<b>C</b>,4e-29,alzheimer disease,BIN1
+185,rs561655-<b>?</b>,1e-26,late-onset alzheimers disease,PICALM
+185,rs561655-<b>?</b>,1e-26,late-onset alzheimers disease,RNU6-560P
 478,rs10792832-<b>G</b>,9e-26,alzheimer disease,RNU6-560P
 478,rs10792832-<b>G</b>,9e-26,alzheimer disease,LINC02695
+174,rs187370608-<b>?</b>,1e-25,late-onset alzheimers disease,UNC5CL
+174,rs187370608-<b>?</b>,1e-25,late-onset alzheimers disease,LRFN2
+166,rs679515-<b>?</b>,2e-25,late-onset alzheimers disease,CR1
 702,rs157591-<b>?</b>,2e-25,alzheimer disease,APOC1P1
 702,rs157591-<b>?</b>,2e-25,alzheimer disease,APOC1
 476,rs9331896-<b>T</b>,3.0000000000000002e-25,alzheimer disease,CLU
 720,rs28399637-<b>A</b>,4e-25,alzheimer disease,BCAM
 707,rs440446-<b>C</b>,7e-25,alzheimer disease,APOE
+10,rs75932628-<b>T</b>,5e-24,late-onset alzheimers disease,TREM2
 472,rs6656401-<b>A</b>,5.999999999999999e-24,alzheimer disease,CR1
 630,rs7259620-<b>G</b>,2e-23,alzheimer disease,TOMM40
 630,rs7259620-<b>G</b>,2e-23,alzheimer disease,APOE
 637,rs283815-<b>?</b>,9e-23,alzheimer disease,NECTIN2
 629,rs1160985-<b>C</b>,1e-22,alzheimer disease,TOMM40
+179,rs1532278-<b>?</b>,2e-22,late-onset alzheimers disease,CLU
 304,rs449647-<b>A</b>,9e-22,alzheimer disease,APOE
 304,rs449647-<b>A</b>,9e-22,alzheimer disease,TOMM40
 627,rs405509-<b>T</b>,2e-21,alzheimer disease,APOE
@@ -56,7 +69,9 @@
 322,rs60049679-<b>C</b>,1e-17,alzheimer disease,APOC1P1
 250,rs10792832-<b>A</b>,1e-17,alzheimer disease,RNU6-560P
 250,rs10792832-<b>A</b>,1e-17,alzheimer disease,LINC02695
+175,rs9369716-<b>?</b>,2e-17,late-onset alzheimers disease,CD2AP
 409,rs3764650-<b>?</b>,5.0000000000000005e-17,alzheimer disease,ABCA7
+188,rs12590654-<b>?</b>,7e-17,late-onset alzheimers disease,SLC24A4
 311,rs4803748-<b>C</b>,3e-16,alzheimer disease,CEACAM16-AS1
 311,rs4803748-<b>C</b>,3e-16,alzheimer disease,BCL3
 477,rs983392-<b>A</b>,6e-16,alzheimer disease,LINC02705
@@ -64,27 +79,37 @@
 325,rs28399664-<b>G</b>,6e-16,alzheimer disease,NECTIN2
 325,rs28399664-<b>G</b>,6e-16,alzheimer disease,BCAM
 561,APOE-<b>E4</b>,6.999999999999999e-16,alzheimer disease,UNKNOWN
+201,rs6069737-<b>?</b>,6.999999999999999e-16,late-onset alzheimers disease,CASS4
 318,rs74846209-<b>T</b>,9e-16,alzheimer disease,MARK4
 318,rs74846209-<b>T</b>,9e-16,alzheimer disease,PPP1R37
+177,rs7384878-<b>?</b>,9e-16,late-onset alzheimers disease,PMS2P1
 479,rs4147929-<b>A</b>,1e-15,alzheimer disease,ABCA7
+212,rs283811-<b>G</b>,1e-15,alzheimer disease,NECTIN2
 214,rs483082-<b>T</b>,1e-15,alzheimer disease,APOC1
 214,rs483082-<b>T</b>,1e-15,alzheimer disease,APOE
-212,rs283811-<b>G</b>,1e-15,alzheimer disease,NECTIN2
 316,rs7561528-<b>A</b>,2e-15,alzheimer disease,BIN1
 316,rs7561528-<b>A</b>,2e-15,alzheimer disease,NIFKP9
+196,rs12151021-<b>?</b>,3.0000000000000002e-15,late-onset alzheimers disease,ABCA7
+189,rs602602-<b>?</b>,6.0000000000000005e-15,late-onset alzheimers disease,SNORD3P1
+189,rs602602-<b>?</b>,6.0000000000000005e-15,late-onset alzheimers disease,MINDY2
 280,rs9331896-<b>?</b>,6.0000000000000005e-15,alzheimer disease,CLU
+181,rs7912495-<b>?</b>,8e-15,late-onset alzheimers disease,ECHDC3
+181,rs7912495-<b>?</b>,8e-15,late-onset alzheimers disease,USP6NL-AS1
 471,rs11218343-<b>T</b>,1e-14,alzheimer disease,SORL1
-294,rs6656401-<b>?</b>,2e-14,alzheimer disease,CR1
 410,rs610932-<b>?</b>,2e-14,alzheimer disease,MS4A6A
 410,rs610932-<b>?</b>,2e-14,alzheimer disease,LINC02705
-307,rs71352239-<b>C</b>,3e-14,alzheimer disease,APOC1
-307,rs71352239-<b>C</b>,3e-14,alzheimer disease,APOC1P1
+7,rs143332484-<b>T</b>,2e-14,late-onset alzheimers disease,TREM2
+294,rs6656401-<b>?</b>,2e-14,alzheimer disease,CR1
 598,rs584007-<b>?</b>,3e-14,alzheimer disease,APOE
 598,rs584007-<b>?</b>,3e-14,alzheimer disease,APOC1
-412,rs744373-<b>?</b>,3e-14,alzheimer disease,BIN1
-412,rs744373-<b>?</b>,3e-14,alzheimer disease,NIFKP9
+307,rs71352239-<b>C</b>,3e-14,alzheimer disease,APOC1
+307,rs71352239-<b>C</b>,3e-14,alzheimer disease,APOC1P1
+173,rs1846190-<b>?</b>,3e-14,late-onset alzheimers disease,HLA-DRB1
+173,rs1846190-<b>?</b>,3e-14,late-onset alzheimers disease,HLA-DQA1
 639,rs10405693-<b>?</b>,3e-14,alzheimer disease,NECTIN2
 639,rs10405693-<b>?</b>,3e-14,alzheimer disease,BCAM
+412,rs744373-<b>?</b>,3e-14,alzheimer disease,BIN1
+412,rs744373-<b>?</b>,3e-14,alzheimer disease,NIFKP9
 411,rs3818361-<b>?</b>,4e-14,alzheimer disease,CR1
 326,rs138607350-<b>G</b>,6e-14,alzheimer disease,NECTIN2
 599,rs439401-<b>?</b>,6e-14,alzheimer disease,APOE
@@ -92,434 +117,649 @@
 640,rs10402271-<b>?</b>,7e-14,alzheimer disease,BCAM
 640,rs10402271-<b>?</b>,7e-14,alzheimer disease,NECTIN2
 486,rs28834970-<b>C</b>,7e-14,alzheimer disease,PTK2B
-475,rs11771145-<b>G</b>,1e-13,alzheimer disease,EPHA1-AS1
 593,rs405697-<b>?</b>,1e-13,alzheimer disease,TOMM40
+475,rs11771145-<b>G</b>,1e-13,alzheimer disease,EPHA1-AS1
+186,rs11218343-<b>?</b>,1e-13,late-onset alzheimers disease,SORL1
+150,rs114812713-<b>C</b>,2e-13,late-onset alzheimers disease,OARD1
 674,rs79832570-<b>C</b>,4e-13,alzheimer disease,SPATC1
 234,rs7935829-<b>G</b>,8e-13,alzheimer disease,MS4A6A
-432,rs112724034-<b>?</b>,9e-13,alzheimer disease,PGAM5P1
 282,rs983392-<b>?</b>,9e-13,alzheimer disease,LINC02705
 282,rs983392-<b>?</b>,9e-13,alzheimer disease,MS4A2
+432,rs112724034-<b>?</b>,9e-13,alzheimer disease,PGAM5P1
+724,rs2927468-<b>A</b>,1e-12,alzheimer disease,NECTIN2
 302,rs111371860-<b>A</b>,1e-12,alzheimer disease,NECTIN2
 302,rs111371860-<b>A</b>,1e-12,alzheimer disease,BCAM
-724,rs2927468-<b>A</b>,1e-12,alzheimer disease,NECTIN2
-333,rs75932628-<b>T</b>,2e-12,alzheimer disease,TREM2
 485,rs9271192-<b>C</b>,3e-12,alzheimer disease,HLA-DRB1
 485,rs9271192-<b>C</b>,3e-12,alzheimer disease,HLA-DQA1
+170,rs4504245-<b>?</b>,5e-12,late-onset alzheimers disease,MIR572
+170,rs4504245-<b>?</b>,5e-12,late-onset alzheimers disease,LINC02498
 676,rs12444183-<b>A</b>,7e-12,alzheimer disease,PLCG2
+190,rs117618017-<b>?</b>,7e-12,late-onset alzheimers disease,APH1B
 505,rs4938933-<b>?</b>,8e-12,alzheimer disease,MS4A4A
 668,rs4351014-<b>C</b>,9e-12,alzheimer disease,UNKNOWN
-665,rs2154481-<b>C</b>,1e-11,alzheimer disease,APP
+463,rs72832584-<b>?</b>,1e-11,alzheimer disease,BCAS3
 324,rs141441332-<b>A</b>,1e-11,alzheimer disease,APOC1P1
 324,rs141441332-<b>A</b>,1e-11,alzheimer disease,APOC4
-463,rs72832584-<b>?</b>,1e-11,alzheimer disease,BCAS3
+665,rs2154481-<b>C</b>,1e-11,alzheimer disease,APP
+148,rs7920721-<b>G</b>,2e-11,late-onset alzheimers disease,ECHDC3
+148,rs7920721-<b>G</b>,2e-11,late-onset alzheimers disease,USP6NL-AS1
 230,rs11763230-<b>T</b>,3e-11,alzheimer disease,EPHA1-AS1
 308,rs2967668-<b>A</b>,3e-11,alzheimer disease,CBLC
 381,rs1562990-<b>?</b>,4e-11,alzheimer disease,MS4A4A
+474,rs10948363-<b>G</b>,4.9999999999999995e-11,alzheimer disease,CD2AP
+178,rs3935067-<b>?</b>,4.9999999999999995e-11,late-onset alzheimers disease,EPHA1
 249,rs983392-<b>G</b>,4.9999999999999995e-11,alzheimer disease,LINC02705
 249,rs983392-<b>G</b>,4.9999999999999995e-11,alzheimer disease,MS4A2
-474,rs10948363-<b>G</b>,4.9999999999999995e-11,alzheimer disease,CD2AP
-441,rs58370486-<b>?</b>,6e-11,alzheimer disease,BZW2
 251,rs11218343-<b>C</b>,6e-11,alzheimer disease,SORL1
 393,rs7561528-<b>?</b>,6e-11,alzheimer disease,BIN1
 393,rs7561528-<b>?</b>,6e-11,alzheimer disease,NIFKP9
+441,rs58370486-<b>?</b>,6e-11,alzheimer disease,BZW2
 449,rs11023139-<b>?</b>,6.999999999999999e-11,alzheimer disease,SPON1
-508,rs561655-<b>?</b>,6.999999999999999e-11,alzheimer disease,PICALM
-508,rs561655-<b>?</b>,6.999999999999999e-11,alzheimer disease,RNU6-560P
-725,rs8103315-<b>A</b>,8e-11,alzheimer disease,BCL3
+187,rs7146179-<b>?</b>,6.999999999999999e-11,late-onset alzheimers disease,GNPNAT1
+187,rs7146179-<b>?</b>,6.999999999999999e-11,late-onset alzheimers disease,FERMT2
 357,rs394819-<b>T</b>,8e-11,alzheimer disease,TOMM40
-423,"rs7081208-<b>A</b>, rs17314229-<b>C</b>, rs2446581-<b>A</b>",1e-10,alzheimer disease,FRMD4A; No mapped genes; No mapped genes
-278,rs11218343-<b>?</b>,1e-10,alzheimer disease,SORL1
-422,rs2373115-<b>G</b>,1e-10,alzheimer disease,GAB2
+725,rs8103315-<b>A</b>,8e-11,alzheimer disease,BCL3
 323,rs144261139-<b>A</b>,1e-10,alzheimer disease,NECTIN2
 317,rs79638902-<b>T</b>,1e-10,alzheimer disease,CEACAM16-AS1
+422,rs2373115-<b>G</b>,1e-10,alzheimer disease,GAB2
+423,"rs7081208-<b>A</b>, rs17314229-<b>C</b>, rs2446581-<b>A</b>",1e-10,alzheimer disease,FRMD4A; No mapped genes; No mapped genes
 671,rs72835061-<b>A</b>,2e-10,alzheimer disease,CHRNE
 671,rs72835061-<b>A</b>,2e-10,alzheimer disease,C17orf107
 369,rs11754661-<b>A</b>,2e-10,alzheimer disease,MTHFD1L
+199,rs1354106-<b>?</b>,2e-10,late-onset alzheimers disease,CD33
 397,rs12989701-<b>?</b>,3e-10,alzheimer disease,BIN1
 397,rs12989701-<b>?</b>,3e-10,alzheimer disease,NIFKP9
 387,"rs6656401-<b>A</b>, rs3818361-<b>A</b>",3e-10,alzheimer disease,CR1; CR1
 669,rs4985556-<b>A</b>,4e-10,alzheimer disease,IL34
+8,rs616338-<b>T</b>,5e-10,late-onset alzheimers disease,ABI3
+9,rs72824905-<b>?</b>,5e-10,late-onset alzheimers disease,PLCG2
+283,rs11771145-<b>?</b>,5e-10,alzheimer disease,EPHA1-AS1
+193,rs28394864-<b>?</b>,5e-10,late-onset alzheimers disease,ZNF652
+193,rs28394864-<b>?</b>,5e-10,late-onset alzheimers disease,PHB
 506,rs6701713-<b>A</b>,5e-10,alzheimer disease,CR1
 714,rs6431220-<b>A</b>,5e-10,alzheimer disease,NIFKP9
 714,rs6431220-<b>A</b>,5e-10,alzheimer disease,BIN1
-283,rs11771145-<b>?</b>,5e-10,alzheimer disease,EPHA1-AS1
-482,rs1476679-<b>T</b>,6e-10,alzheimer disease,ZCWPW1
 512,rs11767557-<b>?</b>,6e-10,alzheimer disease,EPHA1-AS1
 386,"rs9331888-<b>G</b>, rs2279590-<b>C</b>, rs11136000-<b>C</b>",6e-10,alzheimer disease,CLU; CLU; No mapped genes
+13,rs139967528-<b>G</b>,6e-10,late-onset alzheimers disease,ATP5F1C
+482,rs1476679-<b>T</b>,6e-10,alzheimer disease,ZCWPW1
+194,rs2632516-<b>?</b>,7.000000000000001e-10,late-onset alzheimers disease,TSPOAP1-AS1
 297,rs7175766-<b>?</b> x rs3733980-<b>?</b>,7.000000000000001e-10,alzheimer disease,No mapped genes x WWC1
+172,rs6891966-<b>?</b>,8e-10,late-onset alzheimers disease,HAVCR2
 313,rs13025717-<b>T</b>,8e-10,alzheimer disease,NIFKP9
 313,rs13025717-<b>T</b>,8e-10,alzheimer disease,BIN1
-306,rs35568738-<b>G</b>,9e-10,alzheimer disease,TOMM40
+202,rs2154482-<b>?</b>,8e-10,late-onset alzheimers disease,APP
 417,rs11136000-<b>?</b>,9e-10,alzheimer disease,UNKNOWN
+306,rs35568738-<b>G</b>,9e-10,alzheimer disease,TOMM40
+224,rs2632516-<b>C</b>,1e-09,alzheimer disease,TSPOAP1-AS1
+195,rs6504163-<b>?</b>,1e-09,late-onset alzheimers disease,PPIAP55
+195,rs6504163-<b>?</b>,1e-09,late-onset alzheimers disease,CYB561
+462,rs117964204-<b>?</b>,1e-09,alzheimer disease,CACNA1G
 418,rs3851179-<b>?</b>,1e-09,alzheimer disease,RNU6-560P
 418,rs3851179-<b>?</b>,1e-09,alzheimer disease,LINC02695
+171,rs871269-<b>?</b>,1e-09,late-onset alzheimers disease,TNIP1
 675,rs876461-<b>A</b>,1e-09,alzheimer disease,PRKD3
-462,rs117964204-<b>?</b>,1e-09,alzheimer disease,CACNA1G
-224,rs2632516-<b>C</b>,1e-09,alzheimer disease,TSPOAP1-AS1
+726,rs2967668-<b>G</b>,2e-09,alzheimer disease,CBLC
+327,rs79701229-<b>A</b>,2e-09,alzheimer disease,NECTIN2
 315,rs35336243-<b>T</b>,2e-09,alzheimer disease,APOC1P1
 315,rs35336243-<b>T</b>,2e-09,alzheimer disease,APOC4
-327,rs79701229-<b>A</b>,2e-09,alzheimer disease,NECTIN2
-407,rs115550680-<b>G</b>,2e-09,alzheimer disease,ABCA7
 698,rs570487962-<b>?</b>,2e-09,alzheimer disease,LINC02254
-726,rs2967668-<b>G</b>,2e-09,alzheimer disease,CBLC
+192,rs708382-<b>?</b>,2e-09,late-onset alzheimers disease,RPL7L1P5
+192,rs708382-<b>?</b>,2e-09,late-onset alzheimers disease,FAM171A2
 551,rs1582763-<b>G</b>,2e-09,alzheimer disease,MS4A4A
+407,rs115550680-<b>G</b>,2e-09,alzheimer disease,ABCA7
 511,rs3865444-<b>?</b>,2e-09,alzheimer disease,SIGLEC22P
 511,rs3865444-<b>?</b>,2e-09,alzheimer disease,CD33
-293,rs4147929-<b>?</b>,3.0000000000000004e-09,alzheimer disease,ABCA7
+200,rs1761461-<b>?</b>,2e-09,late-onset alzheimers disease,VN1R104P
+200,rs1761461-<b>?</b>,2e-09,late-onset alzheimers disease,LILRA5
 715,rs4748424-<b>G</b>,3.0000000000000004e-09,alzheimer disease,MRC1
 383,rs536841-<b>?</b>,3.0000000000000004e-09,alzheimer disease,PICALM
 383,rs536841-<b>?</b>,3.0000000000000004e-09,alzheimer disease,RNU6-560P
+293,rs4147929-<b>?</b>,3.0000000000000004e-09,alzheimer disease,ABCA7
+176,rs5011436-<b>?</b>,3.0000000000000004e-09,late-onset alzheimers disease,TMEM106B
+180,rs61732533-<b>?</b>,3.0000000000000004e-09,late-onset alzheimers disease,OPLAH
 560,APOE-<b>E3</b>,4e-09,alzheimer disease,UNKNOWN
 309,rs76692773-<b>C</b>,4e-09,alzheimer disease,TOMM40
 514,rs679515-<b>T</b>,4e-09,alzheimer disease,CR1
-220,rs11257238-<b>T</b>,5e-09,alzheimer disease,ECHDC3
-220,rs11257238-<b>T</b>,5e-09,alzheimer disease,USP6NL-AS1
-226,rs9381563-<b>C</b>,5e-09,alzheimer disease,CD2AP-DT
-226,rs9381563-<b>C</b>,5e-09,alzheimer disease,B3GNTL1P2
+292,rs10948363-<b>?</b>,5e-09,alzheimer disease,CD2AP
 469,rs2718058-<b>A</b>,5e-09,alzheimer disease,GPR141
 469,rs2718058-<b>A</b>,5e-09,alzheimer disease,EPDR1
+314,rs3818361-<b>A</b>,5e-09,alzheimer disease,CR1
+226,rs9381563-<b>C</b>,5e-09,alzheimer disease,CD2AP-DT
+226,rs9381563-<b>C</b>,5e-09,alzheimer disease,B3GNTL1P2
+220,rs11257238-<b>T</b>,5e-09,alzheimer disease,ECHDC3
+220,rs11257238-<b>T</b>,5e-09,alzheimer disease,USP6NL-AS1
 678,rs920608-<b>C</b>,5e-09,alzheimer disease,SCARB2
 678,rs920608-<b>C</b>,5e-09,alzheimer disease,FAM47E
-314,rs3818361-<b>A</b>,5e-09,alzheimer disease,CR1
-292,rs10948363-<b>?</b>,5e-09,alzheimer disease,CD2AP
-238,rs1859788-<b>A</b>,6.000000000000001e-09,alzheimer disease,PILRA
-555,rs2732703-<b>T</b>,6.000000000000001e-09,alzheimer disease,ARL17B
-291,rs28834970-<b>?</b>,6.000000000000001e-09,alzheimer disease,PTK2B
+169,rs7597763-<b>?</b>,5e-09,late-onset alzheimers disease,INPP5D
+149,rs138190086-<b>A</b>,5e-09,late-onset alzheimers disease,PPIAP55
+149,rs138190086-<b>A</b>,5e-09,late-onset alzheimers disease,CYB561
 487,rs10498633-<b>G</b>,6.000000000000001e-09,alzheimer disease,SLC24A4
-672,rs7342692-<b>T</b>,6.000000000000001e-09,alzheimer disease,PLCG2
+291,rs28834970-<b>?</b>,6.000000000000001e-09,alzheimer disease,PTK2B
+555,rs2732703-<b>T</b>,6.000000000000001e-09,alzheimer disease,ARL17B
 727,rs111371860-<b>T</b>,6.000000000000001e-09,alzheimer disease,NECTIN2
 727,rs111371860-<b>T</b>,6.000000000000001e-09,alzheimer disease,BCAM
+238,rs1859788-<b>A</b>,6.000000000000001e-09,alzheimer disease,PILRA
+672,rs7342692-<b>T</b>,6.000000000000001e-09,alzheimer disease,PLCG2
+142,rs593742-<b>A</b>,7.000000000000001e-09,late-onset alzheimers disease,ADAM10
+142,rs593742-<b>A</b>,7.000000000000001e-09,late-onset alzheimers disease,SNORD3P1
 215,rs11168036-<b>T</b>,7.000000000000001e-09,alzheimer disease,HBEGF
 215,rs11168036-<b>T</b>,7.000000000000001e-09,alzheimer disease,PFDN1
-484,rs17125944-<b>C</b>,8e-09,alzheimer disease,FERMT2
 310,rs640345-<b>T</b>,8e-09,alzheimer disease,KIR3DL2
+484,rs17125944-<b>C</b>,8e-09,alzheimer disease,FERMT2
 321,rs192775394-<b>C</b>,8e-09,alzheimer disease,MARK4
 321,rs192775394-<b>C</b>,8e-09,alzheimer disease,TRAPPC6A
 510,rs9349407-<b>C</b>,9.000000000000001e-09,alzheimer disease,CD2AP
-439,rs11154851-<b>?</b>,1e-08,alzheimer disease,PDE7B
-267,rs7225151-<b>?</b>,1e-08,alzheimer disease,SCIMP
-267,rs7225151-<b>?</b>,1e-08,alzheimer disease,ZNF594-DT
-483,rs10838725-<b>C</b>,1e-08,alzheimer disease,CELF1
+183,rs3740688-<b>?</b>,9.000000000000001e-09,late-onset alzheimers disease,SPI1
+426,rs6738962-<b>?</b>,1e-08,alzheimer disease,CTNNA2
 729,rs10409808-<b>G</b>,1e-08,alzheimer disease,APOC4
 729,rs10409808-<b>G</b>,1e-08,alzheimer disease,APOC4-APOC2
+483,rs10838725-<b>C</b>,1e-08,alzheimer disease,CELF1
+312,rs3851179-<b>C</b>,1e-08,alzheimer disease,RNU6-560P
+312,rs3851179-<b>C</b>,1e-08,alzheimer disease,LINC02695
+439,rs11154851-<b>?</b>,1e-08,alzheimer disease,PDE7B
 437,rs148763909-<b>?</b>,1e-08,alzheimer disease,SAP30L
+431,rs4700060-<b>?</b>,1e-08,alzheimer disease,ANKRD55
 730,rs2927439-<b>G</b>,1e-08,alzheimer disease,BCL3
 730,rs2927439-<b>G</b>,1e-08,alzheimer disease,CEACAM16-AS1
 277,rs4704171-<b>?</b>,1e-08,alzheimer disease,ANKRD31
-312,rs3851179-<b>C</b>,1e-08,alzheimer disease,RNU6-560P
-312,rs3851179-<b>C</b>,1e-08,alzheimer disease,LINC02695
-426,rs6738962-<b>?</b>,1e-08,alzheimer disease,CTNNA2
-431,rs4700060-<b>?</b>,1e-08,alzheimer disease,ANKRD55
-229,rs11257242-<b>C</b>,2e-08,alzheimer disease,ECHDC3
-229,rs11257242-<b>C</b>,2e-08,alzheimer disease,USP6NL-AS1
+167,rs115186657-<b>?</b>,1e-08,late-onset alzheimers disease,FHL2
+167,rs115186657-<b>?</b>,1e-08,late-onset alzheimers disease,NCK2
+267,rs7225151-<b>?</b>,1e-08,alzheimer disease,SCIMP
+267,rs7225151-<b>?</b>,1e-08,alzheimer disease,ZNF594-DT
 218,rs9749589-<b>T</b>,2e-08,alzheimer disease,NFIC
+394,rs17817600-<b>?</b>,2e-08,alzheimer disease,PICALM
+205,rs2280575-<b>?</b>,2e-08,late-onset alzheimers disease,LRIG1
+204,rs189753894-<b>?</b>,2e-08,late-onset alzheimers disease,CACNA1A
+198,rs2452170-<b>?</b>,2e-08,late-onset alzheimers disease,MAMSTR
+198,rs2452170-<b>?</b>,2e-08,late-onset alzheimers disease,FUT2
+455,rs17393344-<b>?</b>,2e-08,alzheimer disease,MYO16
 232,rs7657553-<b>A</b>,2e-08,alzheimer disease,LINC02360
 456,rs115102486-<b>?</b>,2e-08,alzheimer disease,CLMN
-455,rs17393344-<b>?</b>,2e-08,alzheimer disease,MYO16
+236,rs12590654-<b>A</b>,2e-08,alzheimer disease,SLC24A4
+141,rs7185636-<b>T</b>,2e-08,late-onset alzheimers disease,IQCK
+229,rs11257242-<b>C</b>,2e-08,alzheimer disease,ECHDC3
+229,rs11257242-<b>C</b>,2e-08,alzheimer disease,USP6NL-AS1
+296,rs10098778-<b>?</b>,2e-08,alzheimer disease,NDUFAF6
 686,rs1497525-<b>?</b>,2e-08,alzheimer disease,OR2B2
 686,rs1497525-<b>?</b>,2e-08,alzheimer disease,OR2W6P
-236,rs12590654-<b>A</b>,2e-08,alzheimer disease,SLC24A4
-296,rs10098778-<b>?</b>,2e-08,alzheimer disease,NDUFAF6
-394,rs17817600-<b>?</b>,2e-08,alzheimer disease,PICALM
-465,rs34972666-<b>?</b>,3.0000000000000004e-08,alzheimer disease,TGM6
-470,rs7274581-<b>T</b>,3.0000000000000004e-08,alzheimer disease,CASS4
-208,rs7920721-<b>G</b>,3.0000000000000004e-08,alzheimer disease,ECHDC3
-208,rs7920721-<b>G</b>,3.0000000000000004e-08,alzheimer disease,USP6NL-AS1
+143,rs2830500-<b>C</b>,3.0000000000000004e-08,late-onset alzheimers disease,ADAMTS1
+480,rs35349669-<b>T</b>,3.0000000000000004e-08,alzheimer disease,INPP5D
 481,rs190982-<b>A</b>,3.0000000000000004e-08,alzheimer disease,MEF2C-AS1
-527,rs471470-<b>A</b>,3.0000000000000004e-08,alzheimer disease,RNU6-560P
-527,rs471470-<b>A</b>,3.0000000000000004e-08,alzheimer disease,PICALM
-667,rs35139934-<b>A</b>,3.0000000000000004e-08,alzheimer disease,PLEC
+470,rs7274581-<b>T</b>,3.0000000000000004e-08,alzheimer disease,CASS4
 216,rs12358692-<b>T</b>,3.0000000000000004e-08,alzheimer disease,ECHDC3
 216,rs12358692-<b>T</b>,3.0000000000000004e-08,alzheimer disease,USP6NL-AS1
-480,rs35349669-<b>T</b>,3.0000000000000004e-08,alzheimer disease,INPP5D
+465,rs34972666-<b>?</b>,3.0000000000000004e-08,alzheimer disease,TGM6
+527,rs471470-<b>A</b>,3.0000000000000004e-08,alzheimer disease,RNU6-560P
+527,rs471470-<b>A</b>,3.0000000000000004e-08,alzheimer disease,PICALM
+191,rs7209200-<b>?</b>,3.0000000000000004e-08,late-onset alzheimers disease,ZFP3-DT
+191,rs7209200-<b>?</b>,3.0000000000000004e-08,late-onset alzheimers disease,SLC52A1
+667,rs35139934-<b>A</b>,3.0000000000000004e-08,alzheimer disease,PLEC
 231,rs9269853-<b>A</b>,3.0000000000000004e-08,alzheimer disease,HLA-DRB1
-384,rs569214-<b>?</b>,4e-08,alzheimer disease,CLU
-384,rs569214-<b>?</b>,4e-08,alzheimer disease,SCARA3
-209,rs2632516-<b>?</b>,4e-08,alzheimer disease,TSPOAP1-AS1
-217,rs2632516-<b>G</b>,4e-08,alzheimer disease,TSPOAP1-AS1
-366,rs4676049-<b>A</b>,4e-08,alzheimer disease,EDAR
-227,rs3865444-<b>A</b>,4e-08,alzheimer disease,SIGLEC22P
-227,rs3865444-<b>A</b>,4e-08,alzheimer disease,CD33
-246,rs11771145-<b>A</b>,4e-08,alzheimer disease,EPHA1-AS1
-713,rs449647-<b>T</b>,4e-08,alzheimer disease,APOE
-713,rs449647-<b>T</b>,4e-08,alzheimer disease,TOMM40
+151,rs62039712-<b>A</b>,4e-08,late-onset alzheimers disease,RNA5SP431
+182,rs7902657-<b>?</b>,4e-08,late-onset alzheimers disease,LINC01553
+182,rs7902657-<b>?</b>,4e-08,late-onset alzheimers disease,ANK3
 459,rs8045064-<b>?</b>,4e-08,alzheimer disease,LINC01567
 459,rs8045064-<b>?</b>,4e-08,alzheimer disease,TNRC6A
-237,rs8093731-<b>T</b>,5e-08,alzheimer disease,DSG2
+246,rs11771145-<b>A</b>,4e-08,alzheimer disease,EPHA1-AS1
+165,rs113020870-<b>?</b>,4e-08,late-onset alzheimers disease,AGRN
+384,rs569214-<b>?</b>,4e-08,alzheimer disease,CLU
+384,rs569214-<b>?</b>,4e-08,alzheimer disease,SCARA3
+227,rs3865444-<b>A</b>,4e-08,alzheimer disease,SIGLEC22P
+227,rs3865444-<b>A</b>,4e-08,alzheimer disease,CD33
+133,rs112404845-<b>A</b>,4e-08,late-onset alzheimers disease,ROBO2P1
+366,rs4676049-<b>A</b>,4e-08,alzheimer disease,EDAR
+217,rs2632516-<b>G</b>,4e-08,alzheimer disease,TSPOAP1-AS1
+713,rs449647-<b>T</b>,4e-08,alzheimer disease,APOE
+713,rs449647-<b>T</b>,4e-08,alzheimer disease,TOMM40
 452,rs61144803-<b>?</b>,5e-08,alzheimer disease,CRADD
+1,rs1060743-<b>?</b>,5e-08,late-onset alzheimers disease,BIN1
 355,rs75002042-<b>T</b>,5e-08,alzheimer disease,FBXL7
+237,rs8093731-<b>T</b>,5e-08,alzheimer disease,DSG2
+139,rs16961023-<b>C</b>,5e-08,late-onset alzheimers disease,SLC10A2
 305,rs78986976-<b>G</b>,5e-08,alzheimer disease,NECTIN2
 305,rs78986976-<b>G</b>,5e-08,alzheimer disease,BCAM
-454,rs143258881-<b>?</b>,7e-08,alzheimer disease,GPC6
-489,rs6448799-<b>T</b>,7e-08,alzheimer disease,UNKNOWN
-425,rs12091371-<b>?</b>,7e-08,alzheimer disease,FMN2
 408,rs145848414-<b>A</b>,7e-08,alzheimer disease,HIGD1AP3
 408,rs145848414-<b>A</b>,7e-08,alzheimer disease,SUMO2P6
 664,rs1892676-<b>C</b>,7e-08,alzheimer disease,APP-DT
-461,rs4794202-<b>?</b>,8e-08,alzheimer disease,SP6
+454,rs143258881-<b>?</b>,7e-08,alzheimer disease,GPC6
+425,rs12091371-<b>?</b>,7e-08,alzheimer disease,FMN2
+489,rs6448799-<b>T</b>,7e-08,alzheimer disease,UNKNOWN
 492,rs7818382-<b>T</b>,8e-08,alzheimer disease,NDUFAF6
-507,rs1532278-<b>?</b>,8e-08,alzheimer disease,CLU
-225,rs6014724-<b>G</b>,9e-08,alzheimer disease,CASS4
+461,rs4794202-<b>?</b>,8e-08,alzheimer disease,SP6
+144,rs4735340-<b>T</b>,9e-08,late-onset alzheimers disease,NDUFAF6
+681,rs7195572-<b>?</b>,9e-08,alzheimer disease,MTSS2
 695,rs569584007-<b>?</b>,9e-08,alzheimer disease,HNRNPKP3
+225,rs6014724-<b>G</b>,9e-08,alzheimer disease,CASS4
 677,rs17645935-<b>A</b>,9e-08,alzheimer disease,SPPL2A
 677,rs17645935-<b>A</b>,9e-08,alzheimer disease,RN7SL354P
-681,rs7195572-<b>?</b>,9e-08,alzheimer disease,MTSS2
-252,rs10498633-<b>T</b>,1e-07,alzheimer disease,SLC24A4
-526,rs639012-<b>G</b>,1e-07,alzheimer disease,PICALM
-428,rs538867-<b>?</b>,1e-07,alzheimer disease,MOBP
 279,rs2732703-<b>?</b>,1e-07,alzheimer disease,ARL17B
+526,rs639012-<b>G</b>,1e-07,alzheimer disease,PICALM
+17,rs148619105-<b>?</b>,1e-07,late-onset alzheimers disease,TECTA
+428,rs538867-<b>?</b>,1e-07,alzheimer disease,MOBP
+40,rs150631144-<b>T</b>,1e-07,late-onset alzheimers disease,RNU6-909P
 330,rs17169634-<b>?</b>,1e-07,alzheimer disease,BMPER
-624,rs440277-<b>G</b>,2e-07,alzheimer disease,NECTIN2
-694,rs184179037-<b>?</b>,2e-07,alzheimer disease,WDR70
-538,rs382216-<b>C</b>,2e-07,alzheimer disease,CDC42SE2
-542,rs476428-<b>G</b>,2e-07,alzheimer disease,ACSL6
-254,rs7274581-<b>C</b>,2e-07,alzheimer disease,CASS4
+252,rs10498633-<b>T</b>,1e-07,alzheimer disease,SLC24A4
+12,rs11828907-<b>C</b>,2e-07,late-onset alzheimers disease,AHNAK
 245,rs1476679-<b>C</b>,2e-07,alzheimer disease,ZCWPW1
-442,rs1861525-<b>?</b>,2e-07,alzheimer disease,CYCS
+254,rs7274581-<b>C</b>,2e-07,alzheimer disease,CASS4
+96,rs137869973-<b>T</b>,2e-07,late-onset alzheimers disease,KCTD9P6
 430,rs340635-<b>?</b>,2e-07,alzheimer disease,AFF1
 332,rs62209-<b>C</b>,2e-07,alzheimer disease,CELF2
+442,rs1861525-<b>?</b>,2e-07,alzheimer disease,CYCS
+694,rs184179037-<b>?</b>,2e-07,alzheimer disease,WDR70
+542,rs476428-<b>G</b>,2e-07,alzheimer disease,ACSL6
+538,rs382216-<b>C</b>,2e-07,alzheimer disease,CDC42SE2
 416,rs2573905-<b>?</b>,2e-07,alzheimer disease,PCDH11X
-451,rs147845115-<b>?</b>,3e-07,alzheimer disease,SLC4A8
-404,rs2456930-<b>G</b>,3e-07,alzheimer disease,TLN2
-495,rs7295246-<b>G</b>,3e-07,alzheimer disease,ADAMTS20
-495,rs7295246-<b>G</b>,3e-07,alzheimer disease,EEF1A1P17
-414,rs11610206-<b>?</b>,3e-07,alzheimer disease,PCED1B
-414,rs11610206-<b>?</b>,3e-07,alzheimer disease,PPIAP45
-541,rs142958719-<b>G</b>,3e-07,alzheimer disease,MEIKIN
-565,rs11708767-<b>A</b>,3e-07,alzheimer disease,MED12L
-500,chr17:61538148-<b>A</b>,3e-07,alzheimer disease,UNKNOWN
-395,rs3748140-<b>?</b>,3e-07,alzheimer disease,PPP1R3B
+624,rs440277-<b>G</b>,2e-07,alzheimer disease,NECTIN2
 642,rs2298369-<b>?</b>,3e-07,alzheimer disease,MIR155HG
 642,rs2298369-<b>?</b>,3e-07,alzheimer disease,MRPL39
+414,rs11610206-<b>?</b>,3e-07,alzheimer disease,PCED1B
+414,rs11610206-<b>?</b>,3e-07,alzheimer disease,PPIAP45
+404,rs2456930-<b>G</b>,3e-07,alzheimer disease,TLN2
+451,rs147845115-<b>?</b>,3e-07,alzheimer disease,SLC4A8
+152,rs35868327-<b>T</b>,3e-07,late-onset alzheimers disease,UNKNOWN
+153,rs71618613-<b>A</b>,3e-07,late-onset alzheimers disease,LINC02109
 488,rs6678275-<b>C</b>,3e-07,alzheimer disease,UNKNOWN
+495,rs7295246-<b>G</b>,3e-07,alzheimer disease,ADAMTS20
+495,rs7295246-<b>G</b>,3e-07,alzheimer disease,EEF1A1P17
 496,rs2337406-<b>C</b>,3e-07,alzheimer disease,IGHV3-71
 496,rs2337406-<b>C</b>,3e-07,alzheimer disease,IGHV2-70
 497,rs8035452-<b>T</b>,3e-07,alzheimer disease,SPPL2A
+500,chr17:61538148-<b>A</b>,3e-07,alzheimer disease,UNKNOWN
+565,rs11708767-<b>A</b>,3e-07,alzheimer disease,MED12L
+541,rs142958719-<b>G</b>,3e-07,alzheimer disease,MEIKIN
 457,rs74006954-<b>?</b>,3e-07,alzheimer disease,GABRG3
-589,rs62402815-<b>?</b>,4e-07,alzheimer disease,LNC-LBCS
-436,rs146579248-<b>?</b>,4e-07,alzheimer disease,LINC01184
-701,rs115550680-<b>?</b>,4e-07,alzheimer disease,ABCA7
-460,rs9934540-<b>?</b>,4e-07,alzheimer disease,VAT1L
-453,rs1399439-<b>?</b>,4e-07,alzheimer disease,ANO4
-692,rs3745495-<b>?</b>,4e-07,alzheimer disease,VRK3
-540,rs758324-<b>T</b>,4e-07,alzheimer disease,FNIP1
-691,rs9516245-<b>?</b>,4e-07,alzheimer disease,GPC6
-499,rs7225151-<b>A</b>,4e-07,alzheimer disease,SCIMP
-499,rs7225151-<b>A</b>,4e-07,alzheimer disease,ZNF594-DT
+395,rs3748140-<b>?</b>,3e-07,alzheimer disease,PPP1R3B
 263,rs28868104-<b>?</b>,4e-07,alzheimer disease,UNKNOWN
-498,rs74615166-<b>C</b>,4e-07,alzheimer disease,TRIP4
+460,rs9934540-<b>?</b>,4e-07,alzheimer disease,VAT1L
+436,rs146579248-<b>?</b>,4e-07,alzheimer disease,LINC01184
+589,rs62402815-<b>?</b>,4e-07,alzheimer disease,LNC-LBCS
+701,rs115550680-<b>?</b>,4e-07,alzheimer disease,ABCA7
+145,rs10467994-<b>T</b>,4e-07,late-onset alzheimers disease,SPPL2A
 258,rs2666895-<b>?</b>,4e-07,alzheimer disease,MIR7154
 258,rs2666895-<b>?</b>,4e-07,alzheimer disease,CHST1
 348,rs249153-<b>C</b>,4e-07,alzheimer disease,NDUFA12
+540,rs758324-<b>T</b>,4e-07,alzheimer disease,FNIP1
+74,rs181696879-<b>A</b>,4e-07,late-onset alzheimers disease,MCPH1-AS1
+453,rs1399439-<b>?</b>,4e-07,alzheimer disease,ANO4
+498,rs74615166-<b>C</b>,4e-07,alzheimer disease,TRIP4
+118,rs147150305-<b>A</b>,4e-07,late-onset alzheimers disease,PLCL1
+691,rs9516245-<b>?</b>,4e-07,alzheimer disease,GPC6
+499,rs7225151-<b>A</b>,4e-07,alzheimer disease,SCIMP
+499,rs7225151-<b>A</b>,4e-07,alzheimer disease,ZNF594-DT
+692,rs3745495-<b>?</b>,4e-07,alzheimer disease,VRK3
 429,rs78647349-<b>?</b>,5e-07,alzheimer disease,STK32B
+446,rs7009219-<b>?</b>,5e-07,alzheimer disease,ST18
+97,rs72840936-<b>C</b>,5e-07,late-onset alzheimers disease,STEAP3-AS1
 290,rs9271192-<b>?</b>,5e-07,alzheimer disease,HLA-DRB1
 290,rs9271192-<b>?</b>,5e-07,alzheimer disease,HLA-DQA1
-699,rs79537509-<b>?</b>,5e-07,alzheimer disease,LINC02152
+66,rs144573434-<b>T</b>,5e-07,late-onset alzheimers disease,UNKNOWN
 466,rs75617873-<b>?</b>,5e-07,alzheimer disease,PARVB
-446,rs7009219-<b>?</b>,5e-07,alzheimer disease,ST18
-444,rs11770757-<b>?</b>,5e-07,alzheimer disease,EXOC4
-534,rs16847609-<b>A</b>,5e-07,alzheimer disease,HSPA8P9
-534,rs16847609-<b>A</b>,5e-07,alzheimer disease,CLDN18
+699,rs79537509-<b>?</b>,5e-07,alzheimer disease,LINC02152
 696,rs115816806-<b>?</b>,5e-07,alzheimer disease,ACER3
 696,rs115816806-<b>?</b>,5e-07,alzheimer disease,TSKU
+444,rs11770757-<b>?</b>,5e-07,alzheimer disease,EXOC4
+84,rs56249755-<b>A</b>,5e-07,late-onset alzheimers disease,FAM240B
 567,rs78358979-<b>A</b>,5e-07,alzheimer disease,UNKNOWN
-438,rs117780815-<b>?</b>,6e-07,alzheimer disease,NKAIN2
-539,rs6890695-<b>G</b>,6e-07,alzheimer disease,RAPGEF6
+140,rs72842919-<b>A</b>,5e-07,late-onset alzheimers disease,RPS20P10
+70,rs141976661-<b>A</b>,5e-07,late-onset alzheimers disease,LINC00624
+534,rs16847609-<b>A</b>,5e-07,alzheimer disease,HSPA8P9
+534,rs16847609-<b>A</b>,5e-07,alzheimer disease,CLDN18
+693,rs115684722-<b>?</b>,6e-07,alzheimer disease,RN7SL299P
 448,rs118048115-<b>?</b>,6e-07,alzheimer disease,PLPP4
-494,rs10751667-<b>T</b>,6e-07,alzheimer disease,AP2A2
-362,rs690705-<b>?</b>,6e-07,alzheimer disease,VDAC1P12
+65,rs116050881-<b>T</b>,6e-07,late-onset alzheimers disease,LINC01725
+438,rs117780815-<b>?</b>,6e-07,alzheimer disease,NKAIN2
+16,rs56009889-<b>?</b>,6e-07,late-onset alzheimers disease,ATM
+16,rs56009889-<b>?</b>,6e-07,late-onset alzheimers disease,C11orf65
 491,rs9381040-<b>C</b>,6e-07,alzheimer disease,TREML2
 491,rs9381040-<b>C</b>,6e-07,alzheimer disease,TREM2
+362,rs690705-<b>?</b>,6e-07,alzheimer disease,VDAC1P12
 509,rs3752246-<b>G</b>,6e-07,alzheimer disease,ABCA7
-693,rs115684722-<b>?</b>,6e-07,alzheimer disease,RN7SL299P
+539,rs6890695-<b>G</b>,6e-07,alzheimer disease,RAPGEF6
+494,rs10751667-<b>T</b>,6e-07,alzheimer disease,AP2A2
+5,rs7232-<b>?</b>,6e-07,late-onset alzheimers disease,MS4A6A
 349,rs13178362-<b>T</b>,7e-07,alzheimer disease,HPRT1P2
-447,rs4836694-<b>?</b>,7e-07,alzheimer disease,NCS1
 450,rs326946-<b>?</b>,7e-07,alzheimer disease,ARHGAP20
 331,rs75847378-<b>?</b>,7e-07,alzheimer disease,SLC8A1-AS1
+447,rs4836694-<b>?</b>,7e-07,alzheimer disease,NCS1
 490,rs72807343-<b>T</b>,7e-07,alzheimer disease,SQSTM1
-344,rs12361953-<b>C</b>,8e-07,alzheimer disease,LUZP2
-435,rs143954261-<b>?</b>,8e-07,alzheimer disease,MEGF10
 445,rs73660619-<b>?</b>,8e-07,alzheimer disease,CSMD1
-689,rs168193-<b>?</b>,9e-07,alzheimer disease,RN7SL553P
-690,rs2633682-<b>?</b>,9e-07,alzheimer disease,UNKNOWN
+108,rs144998240-<b>A</b>,8e-07,late-onset alzheimers disease,COL25A1
+83,rs62179067-<b>T</b>,8e-07,late-onset alzheimers disease,SESTD1
+344,rs12361953-<b>C</b>,8e-07,alzheimer disease,LUZP2
+112,rs142835438-<b>A</b>,8e-07,late-onset alzheimers disease,ZBTB10
+112,rs142835438-<b>A</b>,8e-07,late-onset alzheimers disease,RPSAP47
+51,rs7313581-<b>T</b>,8e-07,late-onset alzheimers disease,KRAS
+161,rs182921547-<b>?</b>,8e-07,late-onset alzheimers disease,UNKNOWN
+435,rs143954261-<b>?</b>,8e-07,alzheimer disease,MEGF10
 377,rs10850408-<b>?</b>,9e-07,alzheimer disease,UNKNOWN
-424,rs2421847-<b>?</b>,9e-07,alzheimer disease,PRRC2C
-670,rs7153315-<b>C</b>,9e-07,alzheimer disease,IGHG1
-670,rs7153315-<b>C</b>,9e-07,alzheimer disease,IGHEP1
 557,rs71380849-<b>A</b>,9e-07,alzheimer disease,CDR2L
 557,rs71380849-<b>A</b>,9e-07,alzheimer disease,HID1-AS1
+690,rs2633682-<b>?</b>,9e-07,alzheimer disease,UNKNOWN
+424,rs2421847-<b>?</b>,9e-07,alzheimer disease,PRRC2C
+689,rs168193-<b>?</b>,9e-07,alzheimer disease,RN7SL553P
+670,rs7153315-<b>C</b>,9e-07,alzheimer disease,IGHG1
+670,rs7153315-<b>C</b>,9e-07,alzheimer disease,IGHEP1
+123,rs115798104-<b>A</b>,9e-07,late-onset alzheimers disease,MECOM
 434,rs116348108-<b>?</b>,9e-07,alzheimer disease,DMXL1
-337,rs4145462-<b>T</b>,1e-06,alzheimer disease,MPZL1
-284,rs10498633-<b>?</b>,1e-06,alzheimer disease,SLC24A4
-660,rs5969117-<b>C</b>,1e-06,alzheimer disease,UNKNOWN
-391,rs12808148-<b>?</b>,1e-06,alzheimer disease,MMP12
-391,rs12808148-<b>?</b>,1e-06,alzheimer disease,MMP3
-604,rs2233083-<b>?</b>,1e-06,alzheimer disease,MAPK7
-244,rs2718058-<b>G</b>,1e-06,alzheimer disease,GPR141
-244,rs2718058-<b>G</b>,1e-06,alzheimer disease,EPDR1
-255,rs243034-<b>C</b>,1e-06,alzheimer disease,MIR4432HG
 633,rs912322-<b>A</b>,1e-06,alzheimer disease,MYO16
-549,rs59616746-<b>C</b>,1e-06,alzheimer disease,SH2D4B
-443,rs2392492-<b>?</b>,1e-06,alzheimer disease,ELMO1
+337,rs4145462-<b>T</b>,1e-06,alzheimer disease,MPZL1
+48,rs3820443-<b>T</b>,1e-06,late-onset alzheimers disease,PIFO
 350,rs474951-<b>T</b>,1e-06,alzheimer disease,MS4A2
 350,rs474951-<b>T</b>,1e-06,alzheimer disease,MS4A3
-467,rs17172199-<b>?</b>,1e-06,alzheimer disease,HECW1
-342,rs6468852-<b>G</b>,1e-06,alzheimer disease,MAILR
-352,rs1992269-<b>A</b>,1e-06,alzheimer disease,AIDAP3
-353,rs802571-<b>T</b>,1e-06,alzheimer disease,CNTNAP2
-341,rs11983798-<b>T</b>,1e-06,alzheimer disease,ATXN7L1
+114,rs921390-<b>T</b>,1e-06,late-onset alzheimers disease,UNKNOWN
 360,rs7539409-<b>?</b>,1e-06,alzheimer disease,LINC01725
+660,rs5969117-<b>C</b>,1e-06,alzheimer disease,UNKNOWN
+284,rs10498633-<b>?</b>,1e-06,alzheimer disease,SLC24A4
+341,rs11983798-<b>T</b>,1e-06,alzheimer disease,ATXN7L1
+342,rs6468852-<b>G</b>,1e-06,alzheimer disease,MAILR
+41,rs8077028-<b>T</b>,1e-06,late-onset alzheimers disease,CEP295NL
+41,rs8077028-<b>T</b>,1e-06,late-onset alzheimers disease,TIMP2
+21,rs73865608-<b>A</b>,1e-06,late-onset alzheimers disease,LINC02273
+21,rs73865608-<b>A</b>,1e-06,late-onset alzheimers disease,RNA5SP169
+255,rs243034-<b>C</b>,1e-06,alzheimer disease,MIR4432HG
+632,rs35242772-<b>C</b>,1e-06,alzheimer disease,MIR302F
+352,rs1992269-<b>A</b>,1e-06,alzheimer disease,AIDAP3
+549,rs59616746-<b>C</b>,1e-06,alzheimer disease,SH2D4B
+604,rs2233083-<b>?</b>,1e-06,alzheimer disease,MAPK7
 697,rs75739461-<b>?</b>,1e-06,alzheimer disease,RERGL
 697,rs75739461-<b>?</b>,1e-06,alzheimer disease,PIK3C2G
-632,rs35242772-<b>C</b>,1e-06,alzheimer disease,MIR302F
+443,rs2392492-<b>?</b>,1e-06,alzheimer disease,ELMO1
+391,rs12808148-<b>?</b>,1e-06,alzheimer disease,MMP12
+391,rs12808148-<b>?</b>,1e-06,alzheimer disease,MMP3
+109,rs138543081-<b>T</b>,1e-06,late-onset alzheimers disease,ZNF462
+110,rs192013290-<b>T</b>,1e-06,late-onset alzheimers disease,HMCN1
+88,rs76816469-<b>T</b>,1e-06,late-onset alzheimers disease,CDH1
+467,rs17172199-<b>?</b>,1e-06,alzheimer disease,HECW1
+353,rs802571-<b>T</b>,1e-06,alzheimer disease,CNTNAP2
+23,rs193129245-<b>A</b>,1e-06,late-onset alzheimers disease,UNKNOWN
+244,rs2718058-<b>G</b>,1e-06,alzheimer disease,GPR141
+244,rs2718058-<b>G</b>,1e-06,alzheimer disease,EPDR1
 264,rs1925458-<b>?</b>,1e-06,alzheimer disease,UNKNOWN
-401,rs1448284-<b>T</b>,2e-06,alzheimer disease,MAPRE1P2
-343,rs9969729-<b>A</b>,2e-06,alzheimer disease,SLC25A6P5
-614,rs8103315-<b>?</b>,2e-06,alzheimer disease,BCL3
 566,rs4533991-<b>T</b>,2e-06,alzheimer disease,UNKNOWN
-623,rs1871047-<b>A</b>,2e-06,alzheimer disease,NECTIN2
-351,rs1552244-<b>A</b>,2e-06,alzheimer disease,FANCD2OS
-351,rs1552244-<b>A</b>,2e-06,alzheimer disease,FANCD2
+120,rs142660142-<b>T</b>,2e-06,late-onset alzheimers disease,LINGO1
+547,rs2279590-<b>C</b>,2e-06,alzheimer disease,CLU
+568,rs6978679-<b>A</b>,2e-06,alzheimer disease,CDHR3
+568,rs6978679-<b>A</b>,2e-06,alzheimer disease,SYPL1
+121,rs139638356-<b>T</b>,2e-06,late-onset alzheimers disease,UNKNOWN
+562,rs4298437-<b>A</b>,2e-06,alzheimer disease,RELN
+122,rs144167489-<b>T</b>,2e-06,late-onset alzheimers disease,SUMO1P2
+122,rs144167489-<b>T</b>,2e-06,late-onset alzheimers disease,LINC00626
 356,rs7431992-<b>A</b>,2e-06,alzheimer disease,CACNA2D3
-233,rs10933431-<b>G</b>,2e-06,alzheimer disease,INPP5D
-370,rs17006206-<b>G</b>,2e-06,alzheimer disease,SLC4A1AP
-517,rs17366218-<b>A</b>,2e-06,alzheimer disease,PDE1A
+105,rs144464515-<b>C</b>,2e-06,late-onset alzheimers disease,ZNRF4
+105,rs144464515-<b>C</b>,2e-06,late-onset alzheimers disease,PTPRS
+287,rs1476679-<b>?</b>,2e-06,alzheimer disease,ZCWPW1
+673,rs77501143-<b>T</b>,2e-06,alzheimer disease,MROH1
+67,rs181228315-<b>A</b>,2e-06,late-onset alzheimers disease,TMEM94
+298,rs1477307-<b>?</b> x rs4077746-<b>?</b>,2e-06,alzheimer disease,No mapped genes x TLN2
+75,rs146322114-<b>A</b>,2e-06,late-onset alzheimers disease,PCSK6
+644,rs6838792-<b>?</b>,2e-06,alzheimer disease,STK32B
+85,rs115317194-<b>T</b>,2e-06,late-onset alzheimers disease,SLMAP
+87,rs7698880-<b>C</b>,2e-06,late-onset alzheimers disease,UNC93B4
+623,rs1871047-<b>A</b>,2e-06,alzheimer disease,NECTIN2
+93,rs72998574-<b>T</b>,2e-06,late-onset alzheimers disease,R3HDM2P2
+614,rs8103315-<b>?</b>,2e-06,alzheimer disease,BCL3
+100,rs73239797-<b>A</b>,2e-06,late-onset alzheimers disease,RNU7-188P
+100,rs73239797-<b>A</b>,2e-06,late-onset alzheimers disease,SEM1
+54,rs184992198-<b>T</b>,2e-06,late-onset alzheimers disease,BNIP3P13
+54,rs184992198-<b>T</b>,2e-06,late-onset alzheimers disease,ZNF90
+532,rs16830122-<b>A</b>,2e-06,alzheimer disease,KCNN3
+592,rs11969759-<b>?</b>,2e-06,alzheimer disease,TNXB
+11,rs78541046-<b>?</b>,2e-06,late-onset alzheimers disease,RHBDF1
+62,rs147597631-<b>T</b>,2e-06,late-onset alzheimers disease,TCF15
+62,rs147597631-<b>T</b>,2e-06,late-onset alzheimers disease,CSNK2A1
+700,rs145848414-<b>?</b>,2e-06,alzheimer disease,HIGD1AP3
+700,rs145848414-<b>?</b>,2e-06,alzheimer disease,SUMO2P6
+288,rs2718058-<b>?</b>,2e-06,alzheimer disease,GPR141
+288,rs2718058-<b>?</b>,2e-06,alzheimer disease,EPDR1
+59,rs62177277-<b>T</b>,2e-06,late-onset alzheimers disease,SESTD1
+111,rs144077517-<b>A</b>,2e-06,late-onset alzheimers disease,SCAPER
+577,rs12450778-<b>?</b>,2e-06,alzheimer disease,EPOP
+577,rs12450778-<b>?</b>,2e-06,alzheimer disease,SRCIN1
+574,rs77104831-<b>?</b>,2e-06,alzheimer disease,FBXL13
+58,rs73732514-<b>A</b>,2e-06,late-onset alzheimers disease,CTD-2194D22.4
+117,rs145282773-<b>T</b>,2e-06,late-onset alzheimers disease,HMGA2
+117,rs145282773-<b>T</b>,2e-06,late-onset alzheimers disease,HMGA2-AS1
 528,rs2854437-<b>G</b>,2e-06,alzheimer disease,SORD
+544,rs11761441-<b>G</b>,2e-06,alzheimer disease,UNKNOWN
+413,rs2061333-<b>?</b>,2e-06,alzheimer disease,ZNF225
+413,rs2061333-<b>?</b>,2e-06,alzheimer disease,ZNF224
+501,rs11159647-<b>?</b>,2e-06,alzheimer disease,UNKNOWN
+233,rs10933431-<b>G</b>,2e-06,alzheimer disease,INPP5D
+433,rs77636885-<b>?</b>,2e-06,alzheimer disease,CAMK4
+440,rs75253868-<b>?</b>,2e-06,alzheimer disease,PLEKHG1
+343,rs9969729-<b>A</b>,2e-06,alzheimer disease,SLC25A6P5
 340,rs7638995-<b>A</b>,2e-06,alzheimer disease,FRMD4B
 340,rs7638995-<b>A</b>,2e-06,alzheimer disease,LMOD3
-532,rs16830122-<b>A</b>,2e-06,alzheimer disease,KCNN3
-257,rs10968750-<b>T</b>,2e-06,alzheimer disease,LINGO2
-298,rs1477307-<b>?</b> x rs4077746-<b>?</b>,2e-06,alzheimer disease,No mapped genes x TLN2
-562,rs4298437-<b>A</b>,2e-06,alzheimer disease,RELN
+427,rs78022502-<b>?</b>,2e-06,alzheimer disease,LIMS2
+37,rs188392327-<b>A</b>,2e-06,late-onset alzheimers disease,UGT1A8
+37,rs188392327-<b>A</b>,2e-06,late-onset alzheimers disease,UGT1A10
+162,rs8111708-<b>?</b>,2e-06,late-onset alzheimers disease,ELL
+370,rs17006206-<b>G</b>,2e-06,alzheimer disease,SLC4A1AP
+138,rs139195876-<b>A</b>,2e-06,late-onset alzheimers disease,NACAP6
+517,rs17366218-<b>A</b>,2e-06,alzheimer disease,PDE1A
+134,rs183256737-<b>A</b>,2e-06,late-onset alzheimers disease,SEC24B-AS1
+351,rs1552244-<b>A</b>,2e-06,alzheimer disease,FANCD2OS
+351,rs1552244-<b>A</b>,2e-06,alzheimer disease,FANCD2
+155,rs187857322-<b>?</b>,2e-06,late-onset alzheimers disease,OR7E59P
+155,rs187857322-<b>?</b>,2e-06,late-onset alzheimers disease,OR7E136P
+401,rs1448284-<b>T</b>,2e-06,alzheimer disease,MAPRE1P2
+464,rs7245858-<b>?</b>,2e-06,alzheimer disease,PPIAP59
 458,rs17301739-<b>?</b>,2e-06,alzheimer disease,LIPC-AS1
 458,rs17301739-<b>?</b>,2e-06,alzheimer disease,LIPC
 458,rs17301739-<b>?</b>,2e-06,alzheimer disease,ALDH1A2
-574,rs77104831-<b>?</b>,2e-06,alzheimer disease,FBXL13
-464,rs7245858-<b>?</b>,2e-06,alzheimer disease,PPIAP59
-644,rs6838792-<b>?</b>,2e-06,alzheimer disease,STK32B
-577,rs12450778-<b>?</b>,2e-06,alzheimer disease,EPOP
-577,rs12450778-<b>?</b>,2e-06,alzheimer disease,SRCIN1
-700,rs145848414-<b>?</b>,2e-06,alzheimer disease,HIGD1AP3
-700,rs145848414-<b>?</b>,2e-06,alzheimer disease,SUMO2P6
-440,rs75253868-<b>?</b>,2e-06,alzheimer disease,PLEKHG1
-288,rs2718058-<b>?</b>,2e-06,alzheimer disease,GPR141
-288,rs2718058-<b>?</b>,2e-06,alzheimer disease,EPDR1
-547,rs2279590-<b>C</b>,2e-06,alzheimer disease,CLU
-673,rs77501143-<b>T</b>,2e-06,alzheimer disease,MROH1
-287,rs1476679-<b>?</b>,2e-06,alzheimer disease,ZCWPW1
-433,rs77636885-<b>?</b>,2e-06,alzheimer disease,CAMK4
-413,rs2061333-<b>?</b>,2e-06,alzheimer disease,ZNF225
-413,rs2061333-<b>?</b>,2e-06,alzheimer disease,ZNF224
-568,rs6978679-<b>A</b>,2e-06,alzheimer disease,CDHR3
-568,rs6978679-<b>A</b>,2e-06,alzheimer disease,SYPL1
-592,rs11969759-<b>?</b>,2e-06,alzheimer disease,TNXB
-427,rs78022502-<b>?</b>,2e-06,alzheimer disease,LIMS2
-544,rs11761441-<b>G</b>,2e-06,alzheimer disease,UNKNOWN
-501,rs11159647-<b>?</b>,2e-06,alzheimer disease,UNKNOWN
-666,rs3109899-<b>A</b>,3e-06,alzheimer disease,USP50
-289,rs10838725-<b>?</b>,3e-06,alzheimer disease,CELF1
-345,rs472926-<b>C</b>,3e-06,alzheimer disease,CDON
-687,rs7311672-<b>?</b>,3e-06,alzheimer disease,C1S
-663,rs10426423-<b>C</b>,3e-06,alzheimer disease,NECTIN2
-663,rs10426423-<b>C</b>,3e-06,alzheimer disease,BCAM
+257,rs10968750-<b>T</b>,2e-06,alzheimer disease,LINGO2
 235,rs113260531-<b>A</b>,3e-06,alzheimer disease,ZNF594-DT
-259,rs3814837-<b>?</b>,3e-06,alzheimer disease,CATSPERB
-265,rs75036080-<b>?</b>,3e-06,alzheimer disease,C12orf40
-265,rs75036080-<b>?</b>,3e-06,alzheimer disease,SLC2A13
-619,rs116593898-<b>?</b>,3e-06,alzheimer disease,SFT2D2
-468,rs3865444-<b>C</b>,3e-06,alzheimer disease,SIGLEC22P
-468,rs3865444-<b>C</b>,3e-06,alzheimer disease,CD33
-402,rs11055612-<b>C</b>,3e-06,alzheimer disease,GRIN2B
-615,rs9862849-<b>?</b>,3e-06,alzheimer disease,UNKNOWN
+158,rs35833468-<b>?</b>,3e-06,late-onset alzheimers disease,EGLN3
+687,rs7311672-<b>?</b>,3e-06,alzheimer disease,C1S
 610,rs73165159-<b>?</b>,3e-06,alzheimer disease,CENPM
 610,rs73165159-<b>?</b>,3e-06,alzheimer disease,LINC00634
-421,rs727153-<b>C</b>,3e-06,alzheimer disease,LRAT
+345,rs472926-<b>C</b>,3e-06,alzheimer disease,CDON
+64,rs147985478-<b>A</b>,3e-06,late-onset alzheimers disease,PRANCR
 601,rs7963314-<b>?</b>,3e-06,alzheimer disease,LINC02414
+135,rs79930850-<b>A</b>,3e-06,late-onset alzheimers disease,CASP12
+136,rs143261188-<b>C</b>,3e-06,late-onset alzheimers disease,TENM4
+666,rs3109899-<b>A</b>,3e-06,alzheimer disease,USP50
+615,rs9862849-<b>?</b>,3e-06,alzheimer disease,UNKNOWN
+402,rs11055612-<b>C</b>,3e-06,alzheimer disease,GRIN2B
+156,rs192326911-<b>?</b>,3e-06,late-onset alzheimers disease,STAU2-AS1
+156,rs192326911-<b>?</b>,3e-06,late-onset alzheimers disease,RDH10-AS1
+115,rs150291119-<b>A</b>,3e-06,late-onset alzheimers disease,NAALADL2
+259,rs3814837-<b>?</b>,3e-06,alzheimer disease,CATSPERB
+468,rs3865444-<b>C</b>,3e-06,alzheimer disease,SIGLEC22P
+468,rs3865444-<b>C</b>,3e-06,alzheimer disease,CD33
+94,rs144471255-<b>A</b>,3e-06,late-onset alzheimers disease,RDX
+520,rs9869689-<b>T</b>,3e-06,alzheimer disease,FBXO40
+44,rs1034435-<b>A</b>,3e-06,late-onset alzheimers disease,TAFA5
+49,rs846858-<b>A</b>,3e-06,late-onset alzheimers disease,IGSF23
+265,rs75036080-<b>?</b>,3e-06,alzheimer disease,C12orf40
+265,rs75036080-<b>?</b>,3e-06,alzheimer disease,SLC2A13
+125,rs138449900-<b>C</b>,3e-06,late-onset alzheimers disease,CNTNAP5
+125,rs138449900-<b>C</b>,3e-06,late-onset alzheimers disease,RN7SKP102
+535,rs13146780-<b>C</b>,3e-06,alzheimer disease,RN7SL193P
+38,rs192232892-<b>T</b>,3e-06,late-onset alzheimers disease,TBXAS1
+421,rs727153-<b>C</b>,3e-06,alzheimer disease,LRAT
+663,rs10426423-<b>C</b>,3e-06,alzheimer disease,NECTIN2
+663,rs10426423-<b>C</b>,3e-06,alzheimer disease,BCAM
+27,rs117760708-<b>T</b>,3e-06,late-onset alzheimers disease,JPH3
 597,rs1497197-<b>?</b>,3e-06,alzheimer disease,LHX1-DT
 563,rs11782819-<b>?</b>,3e-06,alzheimer disease,LINCR-0001
-535,rs13146780-<b>C</b>,3e-06,alzheimer disease,RN7SL193P
+619,rs116593898-<b>?</b>,3e-06,alzheimer disease,SFT2D2
 558,rs6110969-<b>T</b>,3e-06,alzheimer disease,PPIAP17
-520,rs9869689-<b>T</b>,3e-06,alzheimer disease,FBXO40
+129,rs183291664-<b>T</b>,3e-06,late-onset alzheimers disease,SCAPER
+289,rs10838725-<b>?</b>,3e-06,alzheimer disease,CELF1
 374,rs2221154-<b>?</b>,3e-06,alzheimer disease,RBMS3
-262,rs78210707-<b>?</b>,4e-06,alzheimer disease,GRIN2B
-685,rs9787911-<b>?</b>,4e-06,alzheimer disease,NTM
-516,rs1125355-<b>A</b>,4e-06,alzheimer disease,DAPL1
+126,rs12661302-<b>C</b>,3e-06,late-onset alzheimers disease,UNKNOWN
+90,rs853656-<b>T</b>,4e-06,late-onset alzheimers disease,RASSF8
+20,rs141521929-<b>T</b>,4e-06,late-onset alzheimers disease,TUSC1
+68,rs147285445-<b>T</b>,4e-06,late-onset alzheimers disease,ANKRD22
+647,rs10794342-<b>?</b>,4e-06,alzheimer disease,AP2A2
+102,rs182972826-<b>T</b>,4e-06,late-onset alzheimers disease,SEC24B
 646,rs4961664-<b>?</b>,4e-06,alzheimer disease,CCDC171
 646,rs4961664-<b>?</b>,4e-06,alzheimer disease,C9orf92
+160,rs19213255-<b>?</b>,4e-06,late-onset alzheimers disease,UNKNOWN
+28,rs187423924-<b>A</b>,4e-06,late-onset alzheimers disease,AQP4-AS1
+26,rs141387448-<b>T</b>,4e-06,late-onset alzheimers disease,ZNF438
+26,rs141387448-<b>T</b>,4e-06,late-onset alzheimers disease,LINC02664
+164,rs6806784-<b>?</b>,4e-06,late-onset alzheimers disease,SENP7
+613,rs2282079-<b>?</b>,4e-06,alzheimer disease,PAX5
+613,rs2282079-<b>?</b>,4e-06,alzheimer disease,RPL32P21
+529,rs721146-<b>A</b>,4e-06,alzheimer disease,LINC01684
+286,rs190982-<b>?</b>,4e-06,alzheimer disease,MEF2C-AS1
+60,rs73681522-<b>A</b>,4e-06,late-onset alzheimers disease,UNKNOWN
+516,rs1125355-<b>A</b>,4e-06,alzheimer disease,DAPL1
+127,rs117022236-<b>A</b>,4e-06,late-onset alzheimers disease,AKR7A3
+128,rs115443594-<b>T</b>,4e-06,late-onset alzheimers disease,PRPF19P1
+378,rs912330-<b>?</b>,4e-06,alzheimer disease,STK24
+400,rs9832461-<b>A</b>,4e-06,alzheimer disease,NFU1P1
+130,rs142076474-<b>A</b>,4e-06,late-onset alzheimers disease,CEP63
+131,rs181299481-<b>A</b>,4e-06,late-onset alzheimers disease,RNY4P18
+262,rs78210707-<b>?</b>,4e-06,alzheimer disease,GRIN2B
+564,rs4972634-<b>T</b>,4e-06,alzheimer disease,RPSAP24
+564,rs4972634-<b>T</b>,4e-06,alzheimer disease,LINC01960
 518,rs178585-<b>C</b>,4e-06,alzheimer disease,UNKNOWN
 521,rs10018288-<b>G</b>,4e-06,alzheimer disease,LINC00290
 521,rs10018288-<b>G</b>,4e-06,alzheimer disease,LINC02500
-569,rs72839770-<b>T</b>,4e-06,alzheimer disease,DVL2
-564,rs4972634-<b>T</b>,4e-06,alzheimer disease,RPSAP24
-564,rs4972634-<b>T</b>,4e-06,alzheimer disease,LINC01960
-529,rs721146-<b>A</b>,4e-06,alzheimer disease,LINC01684
-684,rs9520713-<b>?</b>,4e-06,alzheimer disease,UNKNOWN
+688,rs10748526-<b>?</b>,4e-06,alzheimer disease,TSPAN14
+154,rs190094306-<b>?</b>,4e-06,late-onset alzheimers disease,NHLRC3
 260,rs11909995-<b>?</b>,4e-06,alzheimer disease,ATP5PF
-286,rs190982-<b>?</b>,4e-06,alzheimer disease,MEF2C-AS1
+52,rs2699450-<b>A</b>,4e-06,late-onset alzheimers disease,CDCA7L
+52,rs2699450-<b>A</b>,4e-06,late-onset alzheimers disease,RAPGEF5
 576,rs7561207-<b>?</b>,4e-06,alzheimer disease,ANTXR1
 679,rs17249850-<b>T</b>,4e-06,alzheimer disease,BANK1
-647,rs10794342-<b>?</b>,4e-06,alzheimer disease,AP2A2
-688,rs10748526-<b>?</b>,4e-06,alzheimer disease,TSPAN14
-378,rs912330-<b>?</b>,4e-06,alzheimer disease,STK24
-613,rs2282079-<b>?</b>,4e-06,alzheimer disease,PAX5
-613,rs2282079-<b>?</b>,4e-06,alzheimer disease,RPL32P21
-400,rs9832461-<b>A</b>,4e-06,alzheimer disease,NFU1P1
-643,rs10953322-<b>?</b>,4.9999999999999996e-06,alzheimer disease,SERPINE1
-643,rs10953322-<b>?</b>,4.9999999999999996e-06,alzheimer disease,TRIM56
+685,rs9787911-<b>?</b>,4e-06,alzheimer disease,NTM
+116,rs181990369-<b>A</b>,4e-06,late-onset alzheimers disease,DLC1
+569,rs72839770-<b>T</b>,4e-06,alzheimer disease,DVL2
+15,rs201879533-<b>?</b>,4e-06,late-onset alzheimers disease,THSD4
+113,rs184695264-<b>T</b>,4e-06,late-onset alzheimers disease,LINC02421
+684,rs9520713-<b>?</b>,4e-06,alzheimer disease,UNKNOWN
+24,rs150061627-<b>T</b>,4.9999999999999996e-06,late-onset alzheimers disease,MIR548Y
+24,rs150061627-<b>T</b>,4.9999999999999996e-06,late-onset alzheimers disease,MDGA2
 651,rs1172922-<b>A</b>,4.9999999999999996e-06,alzheimer disease,OR7E109P
 651,rs1172922-<b>A</b>,4.9999999999999996e-06,alzheimer disease,DIRAS2
-256,rs1353581-<b>?</b>,4.9999999999999996e-06,alzheimer disease,UNKNOWN
-635,rs77657034-<b>G</b>,4.9999999999999996e-06,alzheimer disease,MAP4K4
-554,rs7207400-<b>T</b>,4.9999999999999996e-06,alzheimer disease,LINC02210-CRHR1
+50,rs5771225-<b>T</b>,4.9999999999999996e-06,late-onset alzheimers disease,SELENOO
+78,rs140587050-<b>C</b>,4.9999999999999996e-06,late-onset alzheimers disease,IRAK1BP1
+339,rs6738181-<b>A</b>,4.9999999999999996e-06,alzheimer disease,DSTNP5
+396,rs6856768-<b>?</b>,4.9999999999999996e-06,alzheimer disease,RN7SKP199
 380,rs17511627-<b>C</b>,4.9999999999999996e-06,alzheimer disease,ATP8A2P3
 380,rs17511627-<b>C</b>,4.9999999999999996e-06,alzheimer disease,RNF6
-570,rs7264688-<b>T</b>,4.9999999999999996e-06,alzheimer disease,MGME1
-570,rs7264688-<b>T</b>,4.9999999999999996e-06,alzheimer disease,OVOL2
+73,rs75635567-<b>T</b>,4.9999999999999996e-06,late-onset alzheimers disease,BAALC-AS1
+73,rs75635567-<b>T</b>,4.9999999999999996e-06,late-onset alzheimers disease,BAALC
+36,rs180751169-<b>T</b>,4.9999999999999996e-06,late-onset alzheimers disease,ADAM18
+36,rs180751169-<b>T</b>,4.9999999999999996e-06,late-onset alzheimers disease,ADAM3A
+25,rs190457471-<b>A</b>,4.9999999999999996e-06,late-onset alzheimers disease,OSER1-DT
+25,rs190457471-<b>A</b>,4.9999999999999996e-06,late-onset alzheimers disease,GDAP1L1
+32,rs148003968-<b>A</b>,4.9999999999999996e-06,late-onset alzheimers disease,TFEB
 390,rs11738335-<b>?</b>,4.9999999999999996e-06,alzheimer disease,C5orf64
-583,rs76252969-<b>?</b>,4.9999999999999996e-06,alzheimer disease,RPL13AP7
-583,rs76252969-<b>?</b>,4.9999999999999996e-06,alzheimer disease,RNA5SP489
-590,rs111436800-<b>?</b>,4.9999999999999996e-06,alzheimer disease,Y_RNA
-703,rs112404845-<b>A</b>,4.9999999999999996e-06,alzheimer disease,ROBO2P1
+71,rs77544685-<b>T</b>,4.9999999999999996e-06,late-onset alzheimers disease,UNKNOWN
+31,rs188699384-<b>A</b>,4.9999999999999996e-06,late-onset alzheimers disease,MIR924HG
+33,rs185867524-<b>A</b>,4.9999999999999996e-06,late-onset alzheimers disease,DNAH6
 682,rs7618668-<b>?</b>,4.9999999999999996e-06,alzheimer disease,CDCP1
 682,rs7618668-<b>?</b>,4.9999999999999996e-06,alzheimer disease,CLEC3B
-396,rs6856768-<b>?</b>,4.9999999999999996e-06,alzheimer disease,RN7SKP199
+132,rs191404864-<b>A</b>,4.9999999999999996e-06,late-onset alzheimers disease,BICRA
+81,rs10075047-<b>A</b>,4.9999999999999996e-06,late-onset alzheimers disease,CCDC112
+81,rs10075047-<b>A</b>,4.9999999999999996e-06,late-onset alzheimers disease,CTNNA1P1
 622,rs34925435-<b>?</b>,4.9999999999999996e-06,alzheimer disease,TMCC1-DT
 622,rs34925435-<b>?</b>,4.9999999999999996e-06,alzheimer disease,TRH
-339,rs6738181-<b>A</b>,4.9999999999999996e-06,alzheimer disease,DSTNP5
-524,rs59406683-<b>A</b>,6e-06,alzheimer disease,UNKNOWN
-522,rs2876189-<b>G</b>,6e-06,alzheimer disease,OFCC1
-375,rs1923775-<b>T</b>,6e-06,alzheimer disease,POLN
-375,rs1923775-<b>T</b>,6e-06,alzheimer disease,HAUS3
+554,rs7207400-<b>T</b>,4.9999999999999996e-06,alzheimer disease,LINC02210-CRHR1
+590,rs111436800-<b>?</b>,4.9999999999999996e-06,alzheimer disease,Y_RNA
+635,rs77657034-<b>G</b>,4.9999999999999996e-06,alzheimer disease,MAP4K4
+256,rs1353581-<b>?</b>,4.9999999999999996e-06,alzheimer disease,UNKNOWN
+583,rs76252969-<b>?</b>,4.9999999999999996e-06,alzheimer disease,RPL13AP7
+583,rs76252969-<b>?</b>,4.9999999999999996e-06,alzheimer disease,RNA5SP489
+570,rs7264688-<b>T</b>,4.9999999999999996e-06,alzheimer disease,MGME1
+570,rs7264688-<b>T</b>,4.9999999999999996e-06,alzheimer disease,OVOL2
+643,rs10953322-<b>?</b>,4.9999999999999996e-06,alzheimer disease,SERPINE1
+643,rs10953322-<b>?</b>,4.9999999999999996e-06,alzheimer disease,TRIM56
+335,rs11848070-<b>C</b>,6e-06,alzheimer disease,PCNX1
+106,rs191707442-<b>T</b>,6e-06,late-onset alzheimers disease,PPP1R3B
+107,rs150269952-<b>T</b>,6e-06,late-onset alzheimers disease,RASSF5
 683,rs905450-<b>?</b>,6e-06,alzheimer disease,EFL1
-359,rs4509693-<b>?</b>,6e-06,alzheimer disease,PAX2
 502,rs3826656-<b>?</b>,6e-06,alzheimer disease,CD33
 502,rs3826656-<b>?</b>,6e-06,alzheimer disease,SIGLEC22P
-335,rs11848070-<b>C</b>,6e-06,alzheimer disease,PCNX1
+22,rs184614511-<b>T</b>,6e-06,late-onset alzheimers disease,KSR2
 556,rs199499-<b>C</b>,6e-06,alzheimer disease,WNT3
+375,rs1923775-<b>T</b>,6e-06,alzheimer disease,POLN
+375,rs1923775-<b>T</b>,6e-06,alzheimer disease,HAUS3
+53,rs6945197-<b>T</b>,6e-06,late-onset alzheimers disease,ZP3P2
+53,rs6945197-<b>T</b>,6e-06,late-onset alzheimers disease,PLXNA4
+522,rs2876189-<b>G</b>,6e-06,alzheimer disease,OFCC1
+55,rs115972394-<b>A</b>,6e-06,late-onset alzheimers disease,ATP6V0E2
+47,rs12716755-<b>A</b>,6e-06,late-onset alzheimers disease,USP10
+47,rs12716755-<b>A</b>,6e-06,late-onset alzheimers disease,KLHL36
+69,rs187295598-<b>T</b>,6e-06,late-onset alzheimers disease,GPR180
+524,rs59406683-<b>A</b>,6e-06,alzheimer disease,UNKNOWN
+80,rs145840463-<b>A</b>,6e-06,late-onset alzheimers disease,CFAP74
+359,rs4509693-<b>?</b>,6e-06,alzheimer disease,PAX2
+77,rs186588455-<b>A</b>,6e-06,late-onset alzheimers disease,MRPL45
+77,rs186588455-<b>A</b>,6e-06,late-onset alzheimers disease,NPEPPSP1
+42,rs2244526-<b>T</b>,6e-06,late-onset alzheimers disease,SELP
+163,rs11038990-<b>?</b>,6e-06,late-onset alzheimers disease,CKAP5
+157,rs192098867-<b>?</b>,7e-06,late-onset alzheimers disease,TRPM1
 545,rs10807828-<b>C</b>,7e-06,alzheimer disease,UNKNOWN
-523,rs1129187-<b>T</b>,7e-06,alzheimer disease,PEX6
-334,rs4937314-<b>C</b>,7e-06,alzheimer disease,LINC02098
+61,rs2234017-<b>C</b>,7e-06,late-onset alzheimers disease,TAS2R5
+354,rs11613092-<b>G</b>,7e-06,alzheimer disease,SUDS3
+137,rs115078773-<b>A</b>,7e-06,late-onset alzheimers disease,TMCO4
 680,rs4073601-<b>G</b>,7e-06,alzheimer disease,LINC00899
 680,rs4073601-<b>G</b>,7e-06,alzheimer disease,WNT7B
-354,rs11613092-<b>G</b>,7e-06,alzheimer disease,SUDS3
-372,rs340849-<b>?</b>,8e-06,alzheimer disease,PROX1-AS1
-530,rs2271920-<b>A</b>,8e-06,alzheimer disease,PTK2B
-550,rs61310603-<b>T</b>,8e-06,alzheimer disease,UNKNOWN
-536,rs78538083-<b>C</b>,8e-06,alzheimer disease,IL21-AS1
+19,rs186076999-<b>T</b>,7e-06,late-onset alzheimers disease,UNKNOWN
+523,rs1129187-<b>T</b>,7e-06,alzheimer disease,PEX6
+98,rs148587130-<b>T</b>,7e-06,late-onset alzheimers disease,NEK10
+159,rs190217640-<b>?</b>,7e-06,late-onset alzheimers disease,NEGR1
+30,rs145228677-<b>C</b>,7e-06,late-onset alzheimers disease,RPS18P12
+334,rs4937314-<b>C</b>,7e-06,alzheimer disease,LINC02098
+57,rs79926713-<b>T</b>,8e-06,late-onset alzheimers disease,SYNGAP1
+35,rs184457411-<b>A</b>,8e-06,late-onset alzheimers disease,SHANK2
+403,rs7155434-<b>A</b>,8e-06,alzheimer disease,NRXN3
+56,rs73215707-<b>T</b>,8e-06,late-onset alzheimers disease,CYRIA
 338,rs41458646-<b>G</b>,8e-06,alzheimer disease,UNKNOWN
 546,rs75045569-<b>T</b>,8e-06,alzheimer disease,EPHA1-AS1
-361,rs9390537-<b>?</b>,8e-06,alzheimer disease,UNKNOWN
-403,rs7155434-<b>A</b>,8e-06,alzheimer disease,NRXN3
+550,rs61310603-<b>T</b>,8e-06,alzheimer disease,UNKNOWN
+101,rs113884973-<b>C</b>,8e-06,late-onset alzheimers disease,UNKNOWN
+372,rs340849-<b>?</b>,8e-06,alzheimer disease,PROX1-AS1
+79,rs114179644-<b>T</b>,8e-06,late-onset alzheimers disease,CPSF6
+82,rs10060040-<b>A</b>,8e-06,late-onset alzheimers disease,ADGRV1
+82,rs10060040-<b>A</b>,8e-06,late-onset alzheimers disease,CTNND2
+536,rs78538083-<b>C</b>,8e-06,alzheimer disease,IL21-AS1
+104,rs141104697-<b>A</b>,8e-06,late-onset alzheimers disease,GTF2H3
+95,rs144216026-<b>A</b>,8e-06,late-onset alzheimers disease,ABCA8
+18,rs186542490-<b>A</b>,8e-06,late-onset alzheimers disease,UNKNOWN
+46,rs7260181-<b>T</b>,8e-06,late-onset alzheimers disease,PPP5D1
+43,rs17022021-<b>T</b>,8e-06,late-onset alzheimers disease,RBMS3
+99,rs185126971-<b>A</b>,8e-06,late-onset alzheimers disease,ERO1A
+99,rs185126971-<b>A</b>,8e-06,late-onset alzheimers disease,PSMC6
 346,rs17767225-<b>T</b>,8e-06,alzheimer disease,FOXN3
 346,rs17767225-<b>T</b>,8e-06,alzheimer disease,PCNX1
-519,rs71316816-<b>C</b>,9e-06,alzheimer disease,CADM2
-392,rs1357692-<b>?</b>,9e-06,alzheimer disease,DHFRP3
-373,rs11889338-<b>A</b>,9e-06,alzheimer disease,ZFYVE9P2
+86,rs75770912-<b>A</b>,8e-06,late-onset alzheimers disease,AOX1
+89,rs61233297-<b>A</b>,8e-06,late-onset alzheimers disease,IQGAP2
+530,rs2271920-<b>A</b>,8e-06,alzheimer disease,PTK2B
+361,rs9390537-<b>?</b>,8e-06,alzheimer disease,UNKNOWN
+29,rs181634374-<b>T</b>,8e-06,late-onset alzheimers disease,RPL23AP44
+45,rs4760243-<b>A</b>,8e-06,late-onset alzheimers disease,LINC02388
+45,rs4760243-<b>A</b>,8e-06,late-onset alzheimers disease,LRIG3
+124,rs146997164-<b>C</b>,9e-06,late-onset alzheimers disease,OR7E39P
+124,rs146997164-<b>C</b>,9e-06,late-onset alzheimers disease,CCZ1B
 537,rs71636213-<b>G</b>,9e-06,alzheimer disease,SERINC5
 537,rs71636213-<b>G</b>,9e-06,alzheimer disease,KRT18P45
-634,rs283814-<b>G</b>,9e-06,alzheimer disease,NECTIN2
-376,rs10273775-<b>G</b>,9e-06,alzheimer disease,CNTNAP2
 415,rs12044355-<b>?</b>,9e-06,alzheimer disease,TSNAX-DISC1
 415,rs12044355-<b>?</b>,9e-06,alzheimer disease,DISC1
 371,rs956225-<b>A</b>,9e-06,alzheimer disease,HAS2-AS1
+373,rs11889338-<b>A</b>,9e-06,alzheimer disease,ZFYVE9P2
+376,rs10273775-<b>G</b>,9e-06,alzheimer disease,CNTNAP2
+34,rs117756856-<b>A</b>,9e-06,late-onset alzheimers disease,HDAC9
+39,rs149839710-<b>A</b>,9e-06,late-onset alzheimers disease,KIFC3
+39,rs149839710-<b>A</b>,9e-06,late-onset alzheimers disease,CNGB1
+392,rs1357692-<b>?</b>,9e-06,alzheimer disease,DHFRP3
+14,rs201850688-<b>G</b>,9e-06,late-onset alzheimers disease,BSG
+103,rs112920270-<b>A</b>,9e-06,late-onset alzheimers disease,STK31
+92,rs147582129-<b>T</b>,9e-06,late-onset alzheimers disease,FAT3
+72,rs185170954-<b>A</b>,9e-06,late-onset alzheimers disease,SEMA3A
+91,rs116530595-<b>T</b>,9e-06,late-onset alzheimers disease,TXN
+91,rs116530595-<b>T</b>,9e-06,late-onset alzheimers disease,C9orf152
+634,rs283814-<b>G</b>,9e-06,alzheimer disease,NECTIN2
+76,rs141846544-<b>T</b>,9e-06,late-onset alzheimers disease,RNU6-1213P
+76,rs141846544-<b>T</b>,9e-06,late-onset alzheimers disease,Y_RNA
 336,rs6085820-<b>A</b>,9e-06,alzheimer disease,UNKNOWN
+519,rs71316816-<b>C</b>,9e-06,alzheimer disease,CADM2
+119,rs186891871-<b>C</b>,9e-06,late-onset alzheimers disease,ADGRL2

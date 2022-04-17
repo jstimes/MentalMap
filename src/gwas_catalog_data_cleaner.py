@@ -45,7 +45,8 @@ def process_file_(input_file_path):
 def get_child_traits_(main_trait):
     metadata_df = pd.read_csv(INPUT_DIR + METADATA_FILE)
     trait_row = metadata_df.loc[metadata_df['Trait'] == main_trait]
-    return trait_row['Child traits'].astype(str).tolist()[0].split(CHILD_TRAIT_DELIMITER)
+    traits = trait_row['Child traits'].astype(str).tolist()[0].split(CHILD_TRAIT_DELIMITER)
+    return list(map(normalize_trait_name_, traits))
 
 
 def get_trait_from_file_path_(file_path):
@@ -79,13 +80,20 @@ def clean_file_(input_file_path, traits_to_retain):
 
 
 def pval_to_num_(pval):
-  parts = pval.split(' x 10-')
-  return float(parts[0]) * pow(10, -float(parts[1]))
+    """P-values are reported as strings; convert to numbers for easier processing."""
+    parts = pval.split(' x 10-')
+    return float(parts[0]) * pow(10, -float(parts[1]))
+
+
+def normalize_trait_name_(trait):
+    """Ensure consistency in formatting/spelling."""
+    return trait.strip().lower()
 
 
 def filter_by_traits_(df, traits_to_retain):
+    """Filters the DataFrame such that only rows with trait value in the given list are kept."""
     # First normalize trait column (un-capitalize)
-    df['Trait(s)'] = df['Trait(s)'].map(lambda t: t.lower())
+    df['Trait(s)'] = df['Trait(s)'].map(normalize_trait_name_)
     original_total_rows = len(df)
     df['is_retained_trait'] = df['Trait(s)'].map(lambda t: t in traits_to_retain)
     filtered_df = df[df['is_retained_trait'] == True]

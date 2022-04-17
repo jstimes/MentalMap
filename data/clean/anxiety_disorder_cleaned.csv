@@ -1,25 +1,251 @@
 ,variant_and_allele,p_value,trait,gene
+54,rs62062288-<b>A</b>,7e-22,neurotic disorder,MAPT
+55,rs2921036-<b>T</b>,2.9999999999999997e-20,neurotic disorder,RN7SL178P
+55,rs2921036-<b>T</b>,2.9999999999999997e-20,neurotic disorder,PRAG1
+56,rs11250117-<b>A</b>,3e-19,neurotic disorder,XKR6
+58,rs11665070-<b>G</b>,3e-16,neurotic disorder,MIR4318
+58,rs11665070-<b>G</b>,3e-16,neurotic disorder,CELF4
+57,rs35738585-<b>G</b>,4e-16,neurotic disorder,DRD2
+59,rs477860-<b>T</b>,6e-14,neurotic disorder,MIR124-1HG
+60,rs10144845-<b>C</b>,4e-13,neurotic disorder,YLPM1
+62,rs2269426-<b>A</b>,3e-12,neurotic disorder,TNXB
+63,rs7107356-<b>A</b>,5e-12,neurotic disorder,AGBL2
+63,rs7107356-<b>A</b>,5e-12,neurotic disorder,MTCH2
+61,rs2042555-<b>A</b>,5e-12,neurotic disorder,ACVR2A
+61,rs2042555-<b>A</b>,5e-12,neurotic disorder,RNA5SP106
+94,rs11090045-<b>A</b>,1e-11,neurotic disorder,ZC3H7B
 40,rs10959883-<b>C</b>,3e-11,anxiety disorder,UNKNOWN
+92,rs10896636-<b>G</b>,3e-11,neurotic disorder,ZDHHC5
+91,rs2071754-<b>C</b>,4e-11,neurotic disorder,PAX6
+93,rs4140799-<b>G</b>,4e-11,neurotic disorder,SIPA1L1
+89,rs13226841-<b>C</b>,6e-11,neurotic disorder,GRM8
+90,rs7845515-<b>A</b>,6.999999999999999e-11,neurotic disorder,SNORA70
+90,rs7845515-<b>A</b>,6.999999999999999e-11,neurotic disorder,CSMD1
+104,rs56084168-<b>T</b>,1e-10,neurotic disorder,AATK
+104,rs56084168-<b>T</b>,1e-10,neurotic disorder,BAIAP2
+98,rs4413518-<b>A</b>,1e-10,neurotic disorder,FBXL17
+99,rs11509880-<b>A</b>,2e-10,neurotic disorder,TMEM106B
+105,rs56403421-<b>C</b>,4e-10,neurotic disorder,LINC01929
+105,rs56403421-<b>C</b>,4e-10,neurotic disorder,CCDC68
+97,rs1542212-<b>G</b>,4e-10,neurotic disorder,ARPP21
+101,rs3741475-<b>A</b>,4e-10,neurotic disorder,NOS1
+96,rs2278609-<b>C</b>,6e-10,neurotic disorder,PLCL2
+100,rs11608355-<b>C</b>,7.000000000000001e-10,neurotic disorder,MYO1H
+95,rs1002656-<b>C</b>,8e-10,neurotic disorder,GRIK3
+95,rs1002656-<b>C</b>,8e-10,neurotic disorder,FTLP18
+108,rs10935184-<b>C</b>,1e-09,neurotic disorder,STAG1
+68,rs2210903-<b>G</b>,1e-09,neurotic disorder,SNRPFP3
+68,rs2210903-<b>G</b>,1e-09,neurotic disorder,ZDHHC20P4
+69,rs12903563-<b>T</b>,1e-09,neurotic disorder,LINGO1
+102,rs274632-<b>A</b>,2e-09,neurotic disorder,GRM3
+167,rs1033962-<b>A</b>,2e-09,post-traumatic stress disorder,PRTFDC1
+70,rs12938775-<b>G</b>,2e-09,neurotic disorder,PAFAH1B1
+64,rs28377268-<b>T</b>,2e-09,neurotic disorder,PTCH1
+71,rs8097041-<b>A</b>,3.0000000000000004e-09,neurotic disorder,DCC
+146,rs6812849-<b>?</b>,3.0000000000000004e-09,post-traumatic stress disorder,TLL1
+122,rs34517852-<b>A</b>,3.0000000000000004e-09,post-traumatic stress disorder,TMEM242-DT
+122,rs34517852-<b>A</b>,3.0000000000000004e-09,post-traumatic stress disorder,ZDHHC14
 43,rs2861139-<b>C</b>,3.0000000000000004e-09,anxiety disorder,LINC01938
+107,rs6743916-<b>A</b>,3.0000000000000004e-09,neurotic disorder,LINC01122
+65,rs34796300-<b>T</b>,3.0000000000000004e-09,neurotic disorder,ARNTL
+112,rs2148254-<b>G</b>,4e-09,neurotic disorder,HIVEP1
+14,rs12579350-<b>?</b>,4e-09,panic disorder,ANO2
+110,rs10032297-<b>A</b>,4e-09,neurotic disorder,LINC00616
+110,rs10032297-<b>A</b>,4e-09,neurotic disorder,SLC7A11-AS1
+113,rs4977844-<b>C</b>,4e-09,neurotic disorder,UNKNOWN
+111,rs7696796-<b>A</b>,5e-09,neurotic disorder,TENM3
+103,rs2380937-<b>C</b>,5e-09,neurotic disorder,GLIS3
 41,rs1187280-<b>G</b>,7.000000000000001e-09,anxiety disorder,NTRK2
+66,rs297343-<b>T</b>,7.000000000000001e-09,neurotic disorder,SOX6
+106,rs12145171-<b>C</b>,7.000000000000001e-09,neurotic disorder,DNM3
+109,rs13102162-<b>G</b>,7.000000000000001e-09,neurotic disorder,MMRN1
+72,rs1028321-<b>A</b>,7.000000000000001e-09,neurotic disorder,RPS19BP1
+67,rs674437-<b>G</b>,9.000000000000001e-09,neurotic disorder,GRM5
+86,rs35982947-<b>C</b>,1e-08,neurotic disorder,MED24
+83,rs6976111-<b>A</b>,1e-08,neurotic disorder,CTTNBP2
+84,rs7869969-<b>G</b>,1e-08,neurotic disorder,FAM120A
+150,rs406001-<b>?</b>,2e-08,post-traumatic stress disorder,UNKNOWN
+82,rs73167875-<b>A</b>,2e-08,neurotic disorder,SEMA3E
 45,rs1709393-<b>C</b>,2e-08,anxiety disorder,LINC02085
+87,rs9952522-<b>C</b>,2e-08,neurotic disorder,ASXL3
+77,rs57838764-<b>C</b>,3.0000000000000004e-08,neurotic disorder,RASSF1
+73,rs4561025-<b>A</b>,3.0000000000000004e-08,neurotic disorder,LINC02609
+119,rs115539978-<b>T</b>,3.0000000000000004e-08,post-traumatic stress disorder,MIR5007
+85,rs2094580-<b>G</b>,3.0000000000000004e-08,neurotic disorder,TLR4
+80,rs6916891-<b>T</b>,3.0000000000000004e-08,neurotic disorder,MIR2113
+79,rs7772160-<b>C</b>,3.0000000000000004e-08,neurotic disorder,ZNF184
+79,rs7772160-<b>C</b>,3.0000000000000004e-08,neurotic disorder,MCFD2P1
+76,rs10497655-<b>C</b>,3.0000000000000004e-08,neurotic disorder,MIR548AE1
+76,rs10497655-<b>C</b>,3.0000000000000004e-08,neurotic disorder,ZNF804A
+74,rs12466146-<b>T</b>,4e-08,neurotic disorder,MYCNOS
 42,rs4855559-<b>T</b>,4e-08,anxiety disorder,MYH15
+81,rs56226325-<b>T</b>,4e-08,neurotic disorder,MAD1L1
+120,rs142174523-<b>G</b>,4e-08,post-traumatic stress disorder,LINC02571
+120,rs142174523-<b>G</b>,4e-08,post-traumatic stress disorder,HLA-B
+121,rs148757321-<b>CTGTG</b>,4e-08,post-traumatic stress disorder,KAZN
+125,rs9364611-<b>C</b>,4e-08,post-traumatic stress disorder,PRKN
+78,rs836927-<b>A</b>,4e-08,neurotic disorder,LINC01990
+78,rs836927-<b>A</b>,4e-08,neurotic disorder,BBX
+75,rs7567451-<b>G</b>,4e-08,neurotic disorder,LINC01876
+2,rs577242570-<b>G</b>,5e-08,acute stress reaction,LIN28AP1
+2,rs577242570-<b>G</b>,5e-08,acute stress reaction,CACYBPP2
+11,rs860554-<b>?</b>,5e-08,panic disorder,PKP1
 44,rs3807866-<b>A</b>,5e-08,anxiety disorder,TMEM106B
+189,rs12635725-<b>?</b>,6.000000000000001e-08,obsessive-compulsive disorder,RPL21P17
+118,rs159572-<b>A</b>,6.000000000000001e-08,post-traumatic stress disorder,ANKRD55
+8,rs3816995-<b>?</b>,2e-07,panic disorder,SDK2
+174,rs2315551-<b>?</b>,2e-07,post-traumatic stress disorder,PRKN
+123,rs518152-<b>G</b>,3e-07,post-traumatic stress disorder,KAZN
+19,rs9302001-<b>?</b>,3e-07,panic disorder,SOX21-AS1
+199,rs12536521-<b>?</b>,3e-07,obsessive-compulsive disorder,FLNC
+199,rs12536521-<b>?</b>,3e-07,obsessive-compulsive disorder,ZNF804B
+175,rs9458519-<b>?</b>,3e-07,post-traumatic stress disorder,PRKN
+3,rs144783209-<b>T</b>,3e-07,panic disorder,SMAD1
 46,rs7528604-<b>?</b>,3e-07,anxiety disorder,PDE4B
+48,rs9491140-<b>?</b>,3e-07,neurotic disorder,NKAIN2
+12,rs941184-<b>?</b>,3e-07,panic disorder,CALCOCO1
+180,rs77235638-<b>?</b>,4e-07,post-traumatic stress disorder,ABCA9-AS1
+201,rs4401971-<b>?</b>,4e-07,obsessive-compulsive disorder,UNKNOWN
+13,rs9372078-<b>?</b>,5e-07,panic disorder,PLEKHG1
+206,rs297941-<b>?</b>,5e-07,obsessive-compulsive disorder,LINC02395
+134,rs263232-<b>?</b>,6e-07,post-traumatic stress disorder,ADCY8
+205,rs3747767-<b>A</b>,7e-07,obsessive-compulsive disorder,SH3BGRL2
+205,rs3747767-<b>A</b>,7e-07,obsessive-compulsive disorder,LCA5
+16,rs17466684-<b>?</b>,7e-07,panic disorder,GULOP
+16,rs17466684-<b>?</b>,7e-07,panic disorder,CLU
+51,rs12883384-<b>?</b>,7e-07,neurotic disorder,MDGA2
+158,rs16904179-<b>?</b>,7e-07,post-traumatic stress disorder,CYRIB
+169,rs4511180-<b>A</b>,8e-07,post-traumatic stress disorder,PTPRVP
+200,rs2364841-<b>?</b>,8e-07,obsessive-compulsive disorder,ADCK1
+181,rs1755715-<b>?</b>,9e-07,obsessive-compulsive disorder,GPR135
+173,rs58649573-<b>T</b>,9e-07,post-traumatic stress disorder,LHX2
 32,rs4692589-<b>C</b>,9e-07,anxiety disorder,MFAP3L
+176,rs58910976-<b>?</b>,1e-06,post-traumatic stress disorder,CSMD1
+170,rs3100127-<b>A</b>,1e-06,post-traumatic stress disorder,PTPRVP
+170,rs3100127-<b>A</b>,1e-06,post-traumatic stress disorder,LGR6
+135,rs682457-<b>?</b>,1e-06,post-traumatic stress disorder,CTSC
+135,rs682457-<b>?</b>,1e-06,post-traumatic stress disorder,MIR3166
 33,rs10893268-<b>T</b>,1e-06,anxiety disorder,OR8A1
+49,rs4965121-<b>?</b>,1e-06,neurotic disorder,LINC02251
+49,rs4965121-<b>?</b>,1e-06,neurotic disorder,ARRDC4
+190,rs28696717-<b>?</b>,1e-06,obsessive-compulsive disorder,RN7SL44P
+190,rs28696717-<b>?</b>,1e-06,obsessive-compulsive disorder,S100A7
+115,rs1518395-<b>?</b>,1e-06,neurotic disorder,VRK2
+21,rs12061304-<b>?</b>,1e-06,panic disorder,KCNA3
+21,rs12061304-<b>?</b>,1e-06,panic disorder,Y_RNA
+142,rs7866350-<b>?</b>,1e-06,post-traumatic stress disorder,TBC1D2
+182,rs12769537-<b>?</b>,2e-06,obsessive-compulsive disorder,NHLRC2
+182,rs12769537-<b>?</b>,2e-06,obsessive-compulsive disorder,ADRB1
+171,rs10457838-<b>C</b>,2e-06,post-traumatic stress disorder,UST
+177,rs2084346-<b>?</b>,2e-06,post-traumatic stress disorder,MIR7154
+177,rs2084346-<b>?</b>,2e-06,post-traumatic stress disorder,LINC02690
+153,rs2779551-<b>?</b>,2e-06,post-traumatic stress disorder,GABBR2
+4,rs79919349-<b>A</b>,2e-06,panic disorder,RNU6-929P
+4,rs79919349-<b>A</b>,2e-06,panic disorder,PTMAP6
+162,rs7014900-<b>?</b>,2e-06,post-traumatic stress disorder,UNKNOWN
+138,rs12232346-<b>?</b>,2e-06,post-traumatic stress disorder,ACTC1
+138,rs12232346-<b>?</b>,2e-06,post-traumatic stress disorder,GJD2
+183,rs76983293-<b>?</b>,2e-06,obsessive-compulsive disorder,LINC00702
+165,rs4955793-<b>?</b>,2e-06,post-traumatic stress disorder,ZMAT3
+50,rs702543-<b>A</b>,2e-06,neurotic disorder,PDE4D
+164,rs7158872-<b>?</b>,2e-06,post-traumatic stress disorder,UNKNOWN
+203,rs1844437-<b>C</b>,2e-06,obsessive-compulsive disorder,LINC02101
+202,rs6876547-<b>?</b>,2e-06,obsessive-compulsive disorder,UNKNOWN
 34,rs12153327-<b>C</b>,2e-06,anxiety disorder,UNKNOWN
+17,rs3749380-<b>?</b>,2e-06,panic disorder,GRM7
+184,rs75502311-<b>?</b>,3e-06,obsessive-compulsive disorder,LMO7
+163,rs13006863-<b>?</b>,3e-06,post-traumatic stress disorder,SLC4A5
+168,rs2312236-<b>T</b>,3e-06,post-traumatic stress disorder,POGK
+168,rs2312236-<b>T</b>,3e-06,post-traumatic stress disorder,CNN2P10
 28,rs12120353-<b>A</b>,3e-06,anxiety disorder,LINC01646
+152,rs2272651-<b>?</b>,3e-06,post-traumatic stress disorder,NDRG1
+5,rs41280169-<b>T</b>,3e-06,panic disorder,PTBP3
+6,rs2554444-<b>T</b>,3e-06,panic disorder,SNHG14
+185,rs13110899-<b>?</b>,3e-06,obsessive-compulsive disorder,GRID2
+172,rs2616978-<b>T</b>,3e-06,post-traumatic stress disorder,CSMD1
+195,rs118110667-<b>?</b>,3e-06,obsessive-compulsive disorder,HCAR3
+195,rs118110667-<b>?</b>,3e-06,obsessive-compulsive disorder,HCAR2
+193,rs73001203-<b>?</b>,3e-06,obsessive-compulsive disorder,Y_RNA
+207,rs9499708-<b>?</b>,3e-06,obsessive-compulsive disorder,R3HDM2P2
+127,rs1541227-<b>G</b>,3e-06,post-traumatic stress disorder,LINC02520
+124,rs571848662-<b>TATAC</b>,3e-06,post-traumatic stress disorder,ZNF813
+192,rs11502414-<b>?</b>,3e-06,obsessive-compulsive disorder,SLCO1B3
+192,rs11502414-<b>?</b>,3e-06,obsessive-compulsive disorder,SLCO1C1
+178,rs1419748-<b>?</b>,3e-06,post-traumatic stress disorder,DOCK4
+191,rs2927709-<b>?</b>,3e-06,obsessive-compulsive disorder,CD320
+194,rs7183340-<b>?</b>,3e-06,obsessive-compulsive disorder,TUBGCP5
+24,rs3810265-<b>?</b>,4e-06,panic disorder,TSKS
+24,rs3810265-<b>?</b>,4e-06,panic disorder,CPT1C
 39,rs2115691-<b>?</b>,4e-06,anxiety disorder,HNRNPA1P55
 39,rs2115691-<b>?</b>,4e-06,anxiety disorder,CXCL1
+116,rs301806-<b>C</b>,4e-06,neurotic disorder,RERE
+88,rs30266-<b>A</b>,4e-06,neurotic disorder,RNU6-334P
+88,rs30266-<b>A</b>,4e-06,neurotic disorder,LINC02163
+186,rs352766-<b>?</b>,4e-06,obsessive-compulsive disorder,PPM1AP1
+186,rs352766-<b>?</b>,4e-06,obsessive-compulsive disorder,TUSC3
+179,rs6791269-<b>?</b>,4e-06,post-traumatic stress disorder,IFT80
+179,rs6791269-<b>?</b>,4e-06,post-traumatic stress disorder,C3orf80
+136,rs77963519-<b>?</b>,4e-06,post-traumatic stress disorder,UNKNOWN
+151,rs4491792-<b>?</b>,4e-06,post-traumatic stress disorder,OTOR
+197,rs6450514-<b>?</b>,4e-06,obsessive-compulsive disorder,PDE4D
+196,rs11768490-<b>?</b>,4e-06,obsessive-compulsive disorder,SEC61G
+196,rs11768490-<b>?</b>,4e-06,obsessive-compulsive disorder,RPL31P35
+20,rs2731006-<b>?</b>,4e-06,panic disorder,LINC02450
+132,rs71534169-<b>?</b>,4e-06,post-traumatic stress disorder,DPP6
+187,rs1017722-<b>?</b>,4.9999999999999996e-06,obsessive-compulsive disorder,UNKNOWN
+198,rs1260555-<b>?</b>,4.9999999999999996e-06,obsessive-compulsive disorder,LSM14A
+198,rs1260555-<b>?</b>,4.9999999999999996e-06,obsessive-compulsive disorder,CHCHD2P3
+208,rs9652236-<b>?</b>,4.9999999999999996e-06,obsessive-compulsive disorder,UNKNOWN
+10,rs2103868-<b>?</b>,4.9999999999999996e-06,panic disorder,TNFRSF21
+166,rs7207499-<b>?</b>,4.9999999999999996e-06,post-traumatic stress disorder,PRKCA
+7,rs6914428-<b>G</b>,4.9999999999999996e-06,panic disorder,DHFRP5
+128,rs9297733-<b>G</b>,4.9999999999999996e-06,post-traumatic stress disorder,LINC00861
+129,rs5014463-<b>?</b>,4.9999999999999996e-06,post-traumatic stress disorder,RBM17
+129,rs5014463-<b>?</b>,4.9999999999999996e-06,post-traumatic stress disorder,PFKFB3
 35,rs2170820-<b>C</b>,4.9999999999999996e-06,anxiety disorder,TMEM132D
-29,rs10762651-<b>?</b>,6e-06,anxiety disorder,DUSP29
+137,rs17504106-<b>?</b>,4.9999999999999996e-06,post-traumatic stress disorder,UNKNOWN
+139,rs10768747-<b>?</b>,4.9999999999999996e-06,post-traumatic stress disorder,LINC01499
+133,rs2460905-<b>?</b>,4.9999999999999996e-06,post-traumatic stress disorder,TRMT9B
+143,rs1116255-<b>?</b>,4.9999999999999996e-06,post-traumatic stress disorder,UNKNOWN
+149,rs7076096-<b>?</b>,4.9999999999999996e-06,post-traumatic stress disorder,GRID1
+140,rs73419609-<b>?</b>,6e-06,post-traumatic stress disorder,UNC13C
+114,rs3135296-<b>?</b>,6e-06,neurotic disorder,NOP56P1
+114,rs3135296-<b>?</b>,6e-06,neurotic disorder,LINC01623
 25,rs7141336-<b>C</b>,6e-06,anxiety disorder,LINC02321
 25,rs7141336-<b>C</b>,6e-06,anxiety disorder,TTC7B
-36,rs1551277-<b>A</b>,7e-06,anxiety disorder,PKD1L1
-30,rs17105932-<b>?</b>,7e-06,anxiety disorder,GUCY1A2
+188,rs1840717-<b>?</b>,6e-06,obsessive-compulsive disorder,GRID2
+160,rs4430311-<b>?</b>,6e-06,post-traumatic stress disorder,LINC02774
+160,rs4430311-<b>?</b>,6e-06,post-traumatic stress disorder,AKT3
+9,rs4702982-<b>?</b>,6e-06,panic disorder,RN7SKP62
+9,rs4702982-<b>?</b>,6e-06,panic disorder,FAM174A
+204,rs2388436-<b>G</b>,6e-06,obsessive-compulsive disorder,LINC01581
+204,rs2388436-<b>G</b>,6e-06,obsessive-compulsive disorder,H3P40
+29,rs10762651-<b>?</b>,6e-06,anxiety disorder,DUSP29
+144,rs2437772-<b>?</b>,6e-06,post-traumatic stress disorder,SDC2
+23,rs16989303-<b>?</b>,6e-06,panic disorder,LINC01433
+23,rs16989303-<b>?</b>,6e-06,panic disorder,SMOX
+53,rs2705293-<b>?</b>,6e-06,neurotic disorder,UNKNOWN
+22,rs4901869-<b>?</b>,6e-06,panic disorder,LINC01500
 37,rs12703441-<b>C</b>,7e-06,anxiety disorder,MGAM2
+30,rs17105932-<b>?</b>,7e-06,anxiety disorder,GUCY1A2
+36,rs1551277-<b>A</b>,7e-06,anxiety disorder,PKD1L1
+161,rs1425392-<b>?</b>,7e-06,post-traumatic stress disorder,MTCO3P27
+161,rs1425392-<b>?</b>,7e-06,post-traumatic stress disorder,DPP3P1
+15,rs7299940-<b>?</b>,7e-06,panic disorder,Y_RNA
+15,rs7299940-<b>?</b>,7e-06,panic disorder,RAN
+126,rs4663116-<b>?</b>,7e-06,post-traumatic stress disorder,RPS20P12
+141,rs834811-<b>?</b>,7e-06,post-traumatic stress disorder,Y_RNA
+52,rs2349775-<b>?</b>,7e-06,neurotic disorder,NXPH1
+130,rs9725031-<b>?</b>,8e-06,post-traumatic stress disorder,RN7SL299P
+130,rs9725031-<b>?</b>,8e-06,post-traumatic stress disorder,SIPA1L2
 31,rs6799682-<b>A</b>,8e-06,anxiety disorder,LINC00578
-38,rs4736192-<b>A</b>,9e-06,anxiety disorder,COL22A1
-27,rs241257-<b>A</b>,9e-06,anxiety disorder,LINC01646
+131,rs1915919-<b>?</b>,8e-06,post-traumatic stress disorder,KAT2B
+155,rs16907840-<b>?</b>,8e-06,post-traumatic stress disorder,UNKNOWN
+47,rs4806846-<b>A</b>,8e-06,neurotic disorder,TMPRSS9
+117,rs4543289-<b>?</b>,9e-06,neurotic disorder,UNKNOWN
 26,rs17548918-<b>C</b>,9e-06,anxiety disorder,VENTXP7
+27,rs241257-<b>A</b>,9e-06,anxiety disorder,LINC01646
+145,rs61793204-<b>?</b>,9e-06,post-traumatic stress disorder,LINC02497
+38,rs4736192-<b>A</b>,9e-06,anxiety disorder,COL22A1
+18,rs2823455-<b>?</b>,9e-06,panic disorder,USP25
+18,rs2823455-<b>?</b>,9e-06,panic disorder,RAD23BP3
