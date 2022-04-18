@@ -1,8 +1,8 @@
 """Given a CSV file containing summary statistics for a trait on GWAS Catalog, generates a normalized version of the data."""
 
-import pandas as pd
 from os import listdir
 
+import pandas as pd
 
 # Input file directory.
 INPUT_DIR = "../data/raw/"
