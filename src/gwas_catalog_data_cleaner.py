@@ -141,12 +141,15 @@ def replace_unknown_gene_(gene):
 
 def write_to_file_(trait, df):
     # First keep only the relevant, normalized columns for brevity.
-    out_df = df[["Variant and risk allele", "P-value_norm", "Trait(s)", "gene_norm"]]
+    out_df = df[
+        ["Variant and risk allele", "P-value_norm", "Trait(s)", "gene_norm", "Location"]
+    ]
     column_remapping = {
         "Variant and risk allele": "variant_and_allele",
         "P-value_norm": "p_value",
         "Trait(s)": "trait",
         "gene_norm": "gene",
+        "Location": "location",
     }
     out_df = out_df.rename(columns=column_remapping)
 
