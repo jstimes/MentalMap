@@ -20,7 +20,7 @@ SUBCOL_DELIM = ";"
 PREFERED_AF_STUDY = "dbGaP_PopFreq"
 
 
-def get_mafs_for_refsnps(snp_ids: List[str]) -> Dict[str : Dict[str, float]]:
+def get_afs_for_refsnps(snp_ids: List[str]) -> Dict[str, Dict[str, float]]:
     """Given a dbSNP ID, fetches allele frequency data about the SNP from dbSNP.
     Returns a dict of dicts, where outer key is SNP ID, inner dict key is allele, and value is MAF for that allele for
     that SNP. dbSNP API has some rate limiting features that make it a bit tedious and slow to work with...
@@ -42,7 +42,7 @@ def get_mafs_for_refsnps(snp_ids: List[str]) -> Dict[str : Dict[str, float]]:
 
         time.sleep(SLEEP_SECONDS)
         try:
-            data_batch = get_mafs_for_refsnps_internal_(batch_ids)
+            data_batch = get_afs_for_refsnps_internal_(batch_ids)
             # Pythonic way to merge dicts (3.5+)
             data = {**data, **data_batch}
         except json.decoder.JSONDecodeError:
@@ -56,7 +56,7 @@ def get_mafs_for_refsnps(snp_ids: List[str]) -> Dict[str : Dict[str, float]]:
 
     for retry_id in retry_ids:
         try:
-            data_batch = get_mafs_for_refsnps_internal_([retry_id])
+            data_batch = get_afs_for_refsnps_internal_([retry_id])
             # Pythonic way to merge dicts (3.5+)
             data = {**data, **data_batch}
         except json.decoder.JSONDecodeError:
@@ -68,7 +68,7 @@ def get_mafs_for_refsnps(snp_ids: List[str]) -> Dict[str : Dict[str, float]]:
     return data
 
 
-def get_mafs_for_refsnps_internal_(snp_ids: List[str]) -> Dict[str : Dict[str, float]]:
+def get_afs_for_refsnps_internal_(snp_ids: List[str]) -> Dict[str, Dict[str, float]]:
     """Makes API call and parses response. Wrapped to avoid exceeding API request/response size limitations."""
     url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
     params = {
@@ -115,7 +115,7 @@ def get_mafs_for_refsnps_internal_(snp_ids: List[str]) -> Dict[str : Dict[str, f
 
 
 # From https://stackoverflow.com/questions/3173320/text-progress-bar-in-terminal-with-block-characters
-def print_progress_bar_(
+def print_progress_bar(
     iteration: int,
     total: int,
     prefix="",
