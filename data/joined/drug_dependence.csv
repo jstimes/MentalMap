@@ -110,7 +110,7 @@ rs2005290-<b>?</b>,4e-07,cocaine dependence,OR3A2,17:3284718,-1.0
 rs6777876-<b>G</b>,4e-07,alcohol dependence,RN7SL147P,3:11915124,0.10632269952781297
 rs6777876-<b>G</b>,4e-07,alcohol dependence,MARK2P14,3:11915124,0.10632269952781297
 rs111325002-<b>?</b>,4e-07,cocaine dependence,UNKNOWN,3:96134788,-1.0
-chr17:8631468-<b>?</b>,4e-07,heroin dependence,UNKNOWN,Mapping not available,-1.0
+chr17:8631468-<b>?</b>,4e-07,heroin dependence,UNKNOWN,1:8631468,-1.0
 rs73721103-<b>T</b>,4e-07,cocaine dependence,AASS,7:122167872,0.01111699311805188
 rs56116178-<b>G</b>,5e-07,nicotine dependence,FAM163B,9:133595102,0.07326627845420858
 rs150954431-<b>?</b>,5e-07,cocaine dependence,NCOR2,12:124517777,-1.0
@@ -264,8 +264,8 @@ rs12020569-<b>C</b>,5e-06,alcohol dependence,RPS21P8,13:27012736,-1.0
 rs5894994-<b>A</b>,5e-06,nicotine dependence,CCDC26,8:129445289,-1.0
 rs57361543-<b>A</b>,5e-06,cocaine dependence,GHSR,3:172494354,0.6518358531317494
 rs57361543-<b>A</b>,5e-06,cocaine dependence,TNFSF10,3:172494354,0.6518358531317494
-chr8:78718310-<b>?</b>,5e-06,heroin dependence,UNKNOWN,Mapping not available,-1.0
-chr11:1421138-<b>?</b>,5e-06,heroin dependence,UNKNOWN,Mapping not available,-1.0
+chr8:78718310-<b>?</b>,5e-06,heroin dependence,UNKNOWN,8:78718310,-1.0
+chr11:1421138-<b>?</b>,5e-06,heroin dependence,UNKNOWN,1:1421138,-1.0
 rs75012440-<b>A</b>,5e-06,nicotine dependence,KLF12,13:74057103,0.1502056386719914
 rs6809441-<b>?</b>,6e-06,alcohol dependence,ULK4,3:41453114,-1.0
 rs10253361-<b>T</b>,6e-06,alcohol dependence,UNKNOWN,7:121635175,0.5581320496752877
