@@ -1,0 +1,181 @@
+variant_and_allele,p_value,trait,gene,location
+rs325485-<b>A</b>,4e-13,autism spectrum disorder,LINC02163,5:104659667
+rs325485-<b>A</b>,4e-13,autism spectrum disorder,RNU6-334P,5:104659667
+rs416223-<b>?</b>,1e-10,autism spectrum disorder,RNU6-334P,5:104655775
+rs416223-<b>?</b>,1e-10,autism spectrum disorder,LINC02163,5:104655775
+rs910805-<b>?</b>,1e-10,autism spectrum disorder,XRN2,20:21267478
+rs910805-<b>?</b>,1e-10,autism spectrum disorder,ZNF877P,20:21267478
+rs4307059-<b>T</b>,2e-10,autism,UNKNOWN,Mapping not available
+rs10141157-<b>T</b>,1e-09,autism spectrum disorder,RNU7-160P,14:103551768
+rs10141157-<b>T</b>,1e-09,autism spectrum disorder,BAG5,14:103551768
+rs1000177-<b>T</b>,2e-09,autism spectrum disorder,KIZ,20:21252560
+rs1000177-<b>T</b>,2e-09,autism spectrum disorder,ZNF877P,20:21252560
+rs9786153-<b>T</b>,3.0000000000000004e-09,autism,EIF1AY,Y:20577481
+rs2032658-<b>A</b>,3.0000000000000004e-09,autism,UTY,Y:13470103
+rs17693963-<b>A</b>,5e-09,autism spectrum disorder,GPR89P,6:27742386
+rs17693963-<b>A</b>,5e-09,autism spectrum disorder,RSL24D1P1,6:27742386
+rs7403809-<b>T</b>,6.000000000000001e-09,autism spectrum disorder,UNKNOWN,16:13656362
+rs6584649-<b>?</b>,6.000000000000001e-09,autism spectrum disorder,SORCS3,10:104985346
+rs6461809-<b>?</b>,8e-09,autism spectrum disorder,RNU6-1103P,7:24486420
+rs4481150-<b>T</b>,9.000000000000001e-09,autism spectrum disorder,ITIH3,3:52803777
+rs1021363-<b>A</b>,1e-08,autism spectrum disorder,SORCS3,10:104851081
+rs10099100-<b>C</b>,1e-08,autism spectrum disorder,RP1L1,8:10719265
+rs10099100-<b>C</b>,1e-08,autism spectrum disorder,SOX7,8:10719265
+rs10099100-<b>?</b>,1e-08,autism spectrum disorder,RP1L1,8:10719265
+rs10099100-<b>?</b>,1e-08,autism spectrum disorder,SOX7,8:10719265
+rs34509057-<b>?</b>,1e-08,autism spectrum disorder,GALNT10,5:154221702
+rs1865680-<b>G</b>,2e-08,autism,TBL1Y,Y:7000077
+rs1589526-<b>?</b>,2e-08,autism spectrum disorder,RSRC1,3:158138357
+rs2032624-<b>A</b>,2e-08,autism,DDX3Y,Y:12914512
+rs2032631-<b>G</b>,2e-08,autism,KDM5D,Y:19705901
+rs77691144-<b>T</b>,2e-08,autism spectrum disorder,PCDH9,13:66396080
+rs111931861-<b>G</b>,3.0000000000000004e-08,autism spectrum disorder,KMT2E,7:105103772
+"rs8453-<b>G</b>, rs926938-<b>A</b>",3.0000000000000004e-08,autism,CSDE1; No mapped genes,1:114716978
+rs71190156-<b>?</b>,3.0000000000000004e-08,autism spectrum disorder,MACROD2,20:14855598
+rs6537825-<b>A</b>,3.0000000000000004e-08,autism,UNKNOWN,Mapping not available
+rs6508210-<b>?</b>,3.0000000000000004e-08,autism spectrum disorder,UNKNOWN,Mapping not available
+rs6500768-<b>?</b>,4e-08,autism spectrum disorder,RBFOX1,16:6292640
+rs71190156-<b>G</b>,4e-08,autism spectrum disorder,MACROD2,20:14855598
+"rs3827735-<b>C</b>, rs11582563-<b>G</b>, rs11102807-<b>A</b>, rs7511633-<b>G</b>, rs11102800-<b>C</b>, rs6537825-<b>A</b>, rs11585926-<b>T</b>, rs6661053-<b>T</b>, rs11589568-<b>T</b>",4e-08,autism,TRIM33; TRIM33; No mapped genes; No mapped genes; No mapped genes; No mapped genes; TRIM33; No mapped genes; No mapped genes,1:114510087|1:114416918|1:114431068
+rs201910565-<b>AT</b>,4e-08,autism spectrum disorder,LINC02790,1:96096246
+rs12402629-<b>T</b>,4e-08,autism spectrum disorder,NEGR1,1:72113026
+rs926938-<b>A</b>,4e-08,autism,UNKNOWN,Mapping not available
+rs4141463-<b>?</b>,4e-08,autism,MACROD2,20:14766825
+rs4773054-<b>?</b>,5e-08,autism spectrum disorder,UNKNOWN,13:109501681
+rs60527016-<b>T</b>,5e-08,autism spectrum disorder,FGFR1,8:38442106
+"rs3827735-<b>C</b>, rs11582563-<b>G</b>, rs7511633-<b>G</b>, rs11102800-<b>C</b>, rs6537825-<b>A</b>, rs11585926-<b>T</b>, rs6661053-<b>T</b>, rs11589568-<b>T</b>",6.000000000000001e-08,autism,TRIM33; TRIM33; No mapped genes; No mapped genes; No mapped genes; TRIM33; No mapped genes; No mapped genes,1:114510087|1:114416918|1:114431068
+"rs11582563-<b>G</b>, rs7511633-<b>G</b>, rs11102800-<b>C</b>, rs6537825-<b>A</b>, rs11585926-<b>T</b>, rs6661053-<b>T</b>, rs11589568-<b>T</b>",6.000000000000001e-08,autism,TRIM33; No mapped genes; No mapped genes; No mapped genes; TRIM33; No mapped genes; No mapped genes,1:114416918|1:114431068
+"rs1877455-<b>T</b>, rs11587400-<b>C</b>",7e-08,autism,PKMP1 - BCAS2; No mapped genes,1:114556471
+rs978597-<b>G</b>,7e-08,autism,AMELY,Y:6885470
+"rs10858047-<b>T</b>, rs1877455-<b>T</b>, rs11587400-<b>C</b>",8e-08,autism,TRIM33 - PKMP1; PKMP1 - BCAS2; No mapped genes,1:114531255|1:114556471
+"rs8453-<b>G</b>, rs10489525-<b>G</b>, rs926938-<b>A</b>",9e-08,autism,CSDE1; No mapped genes; No mapped genes,1:114716978
+rs112635299-<b>T</b>,2e-07,autism spectrum disorder,SERPINA2,14:94371805
+rs112635299-<b>T</b>,2e-07,autism spectrum disorder,SERPINA1,14:94371805
+rs72934503-<b>G</b>,2e-07,autism spectrum disorder,EIF4EBP2P3,6:98135612
+"rs11582563-<b>G</b>, rs7511633-<b>G</b>, rs6537825-<b>A</b>, rs11585926-<b>T</b>, rs6661053-<b>T</b>, rs11589568-<b>T</b>",2e-07,autism,TRIM33; No mapped genes; No mapped genes; TRIM33; No mapped genes; No mapped genes,1:114416918|1:114431068
+chr5:168173526-<b>A</b>,2e-07,autism spectrum disorder,UNKNOWN,Mapping not available
+rs10513025-<b>?</b>,2e-07,autism,SNHG18,5:9623510
+rs10513025-<b>?</b>,2e-07,autism,TAS2R1,5:9623510
+rs4150167-<b>?</b>,3e-07,autism,TAF1C,16:84180078
+rs910805-<b>G</b>,3e-07,autism spectrum disorder,XRN2,20:21267478
+rs910805-<b>G</b>,3e-07,autism spectrum disorder,ZNF877P,20:21267478
+rs4675502-<b>?</b>,4e-07,autism,PARD3B,2:205221447
+rs210894-<b>T</b>,4e-07,autism spectrum disorder,ADTRP,6:11731766
+rs1867503-<b>?</b>,4e-07,autism spectrum disorder,INHCAP,3:133691804
+rs1409313-<b>?</b>,4e-07,autism spectrum disorder,CUEDC2,10:102431844
+rs138867053-<b>A</b>,4e-07,autism spectrum disorder,ZNF568,19:36948739
+rs113764414-<b>A</b>,5e-07,autism spectrum disorder,EGR2,10:62889636
+rs2635182-<b>T</b>,5e-07,autism spectrum disorder,LINC02058,5:92919459
+rs2391769-<b>G</b>,5e-07,autism spectrum disorder,RN7SL831P,1:96513405
+rs2391769-<b>G</b>,5e-07,autism spectrum disorder,EEF1A1P11,1:96513405
+rs16976358-<b>C</b>,6e-07,autism spectrum disorder,LINC00907,18:42611606
+rs141455452-<b>T</b>,6e-07,autism spectrum disorder,MAPT,17:45941717
+rs77691144-<b>C</b>,6e-07,autism spectrum disorder,PCDH9,13:66396080
+rs1452075-<b>T</b>,6e-07,autism spectrum disorder,CADPS,3:62495388
+rs6047270-<b>T</b>,8e-07,autism spectrum disorder,KIZ,20:21141571
+rs7711337-<b>?</b>,8e-07,autism,UNKNOWN,5:162656512
+rs7834018-<b>?</b>,8e-07,autism,EYA1,8:71649507
+rs10110094-<b>A</b>,8e-07,autism spectrum disorder,ASAP1,8:130459801
+rs142920272-<b>C</b>,9e-07,autism spectrum disorder,KANSL1,17:46224474
+rs148587110-<b>C</b>,1e-06,autism spectrum disorder,SGO1-AS1,3:20600474
+rs143609523-<b>G</b>,1e-06,autism spectrum disorder,GALNT1,18:35685266
+rs143634450-<b>A</b>,1e-06,autism spectrum disorder,MPPED1,22:43499322
+rs4703129-<b>?</b>,1e-06,asperger syndrome,CTBP2P4,5:98553032
+rs6701243-<b>A</b>,1e-06,autism spectrum disorder,SNX7,1:98627228
+rs59566011-<b>GA</b>,1e-06,autism spectrum disorder,PKP4,2:158528670
+rs6692705-<b>A</b>,1e-06,autism spectrum disorder,CAMSAP2,1:193533479
+rs740883-<b>T</b>,1e-06,autism spectrum disorder,GABBR1,6:29607628
+rs11185408-<b>G</b>,1e-06,autism spectrum disorder,FTLP17,1:104249635
+rs142968358-<b>T</b>,1e-06,autism spectrum disorder,SPTLC1P2,6:23819007
+rs1550976-<b>?</b>,2e-06,asperger syndrome,NTM,11:131450176
+rs6538761-<b>A</b>,2e-06,autism,Y_RNA,12:97040442
+rs13188074-<b>A</b>,2e-06,autism spectrum disorder,KCNN2,5:114465726
+rs12942300-<b>T</b>,2e-06,autism spectrum disorder,LINC02210-CRHR1,17:45782039
+rs12203328-<b>C</b>,2e-06,autism spectrum disorder,SPTLC1P2,6:23766810
+rs405182-<b>G</b>,2e-06,autism spectrum disorder,SSUH2,3:8678265
+rs7835763-<b>A</b>,2e-06,autism spectrum disorder,EXT1,8:118082680
+rs11188360-<b>A</b>,3e-06,autism spectrum disorder,SORBS1,10:95558200
+rs2295926-<b>G</b>,3e-06,autism spectrum disorder,GALNT12,9:98831543
+chr7:105064665-<b>T</b>,3e-06,autism spectrum disorder,UNKNOWN,Mapping not available
+rs12543592-<b>G</b>,3e-06,autism spectrum disorder,LINC01151,8:122499413
+rs77230196-<b>C</b>,3e-06,autism spectrum disorder,LUZP2,11:24997823
+rs632349-<b>G</b>,3e-06,autism spectrum disorder,UNKNOWN,18:69268412
+rs4916723-<b>C</b>,3e-06,autism spectrum disorder,LINC00461,5:88558577
+rs10038113-<b>T</b>,3e-06,autism,MSNP1,5:25902233
+rs292441-<b>G</b>,3e-06,autism spectrum disorder,NEDD4L,18:58205326
+rs45595836-<b>T</b>,3e-06,autism spectrum disorder,RSU1,10:16649400
+rs118045675-<b>G</b>,3e-06,autism spectrum disorder,SMIM21,18:75424019
+chr17:31559597-<b>C</b>,3e-06,autism,UNKNOWN,Mapping not available
+rs7142002-<b>?</b>,3e-06,autism,PPP2R5C,14:101894408
+rs2186039-<b>C</b>,3e-06,autism spectrum disorder,DCAF12L2,X:126250450
+rs10742763-<b>T</b>,4e-06,autism spectrum disorder,MIR7154,11:45672434
+rs10742763-<b>T</b>,4e-06,autism spectrum disorder,CHST1,11:45672434
+rs145570843-<b>A</b>,4e-06,autism spectrum disorder,SPTLC1P2,6:23777604
+rs16823191-<b>G</b>,4e-06,autism spectrum disorder,TLK1,2:171074308
+rs9598562-<b>T</b>,4e-06,autism spectrum disorder,LINC00376,13:63231583
+rs77562299-<b>C</b>,4e-06,autism spectrum disorder,LINC00922,16:65377873
+rs183563276-<b>G</b>,4e-06,autism spectrum disorder,RN7SKP32,8:47124851
+rs183563276-<b>G</b>,4e-06,autism spectrum disorder,RNU6-819P,8:47124851
+rs12557857-<b>G</b>,4e-06,autism spectrum disorder,ARHGEF6,X:136785924
+rs12557857-<b>G</b>,4e-06,autism spectrum disorder,RPL7P56,X:136785924
+rs3914502-<b>A</b>,4e-06,autism spectrum disorder,NAALADL2,3:174846812
+rs141319505-<b>A</b>,4e-06,autism spectrum disorder,MRPL35P2,10:63661682
+rs11787216-<b>C</b>,4e-06,autism spectrum disorder,MROH5,8:141605122
+rs6589964-<b>A</b>,4e-06,autism,RPL34P23,11:122999975
+rs6589964-<b>A</b>,4e-06,autism,BSX,11:122999975
+rs10510837-<b>?</b>,4e-06,asperger syndrome,FHIT,3:60304113
+rs1551064-<b>C</b>,4e-06,autism,MIR4495,12:97901591
+rs1551064-<b>C</b>,4e-06,autism,PAFAH1B2P2,12:97901591
+rs56054767-<b>C</b>,4e-06,autism spectrum disorder,Y_RNA,4:83700165
+rs12058696-<b>G</b>,4e-06,autism,ESRRG,1:216527482
+rs12557937-<b>A</b>,4e-06,autism,Metazoa_SRP,X:151247507
+rs12557937-<b>A</b>,4e-06,autism,NAB1P1,X:151247507
+rs115254791-<b>G</b>,4e-06,autism spectrum disorder,HLA-A,6:29942680
+chr16:12594568-<b>A</b>,4e-06,autism,UNKNOWN,Mapping not available
+rs9823776-<b>A</b>,4.9999999999999996e-06,autism,SYNPR,3:63453658
+rs9823776-<b>A</b>,4.9999999999999996e-06,autism,SYNPR-AS1,3:63453658
+rs7710122-<b>C</b>,4.9999999999999996e-06,autism,TENM2,5:167904318
+rs17121331-<b>G</b>,4.9999999999999996e-06,autism,NFIA,1:60946459
+rs17121331-<b>G</b>,4.9999999999999996e-06,autism,NFIA-AS2,1:60946459
+rs13447352-<b>A</b>,4.9999999999999996e-06,autism,EIF1AY,Y:20587967
+rs6453278-<b>?</b>,4.9999999999999996e-06,autism,ZBED3-AS1,5:77121217
+rs61925919-<b>A</b>,4.9999999999999996e-06,autism spectrum disorder,LINC02827,12:91843377
+rs61925919-<b>A</b>,4.9999999999999996e-06,autism spectrum disorder,LINC02404,12:91843377
+rs892055-<b>?</b>,4.9999999999999996e-06,asperger syndrome,RASGRP4,19:38422124
+rs13103662-<b>A</b>,4.9999999999999996e-06,autism spectrum disorder,UNKNOWN,4:156328651
+rs2368671-<b>T</b>,6e-06,autism spectrum disorder,CITED1,X:72303800
+rs72646783-<b>T</b>,6e-06,autism spectrum disorder,HSP90AB6P,13:96859683
+rs72646783-<b>T</b>,6e-06,autism spectrum disorder,HS6ST3,13:96859683
+rs11184553-<b>A</b>,6e-06,autism spectrum disorder,CDK4P1,1:105395840
+rs1046041-<b>T</b>,6e-06,autism spectrum disorder,POLR2E,19:1095337
+rs60624745-<b>C</b>,6e-06,autism spectrum disorder,NLRP4,19:55856118
+rs17533237-<b>A</b>,6e-06,autism,RN7SKP159,8:6350568
+rs17533237-<b>A</b>,6e-06,autism,MCPH1,8:6350568
+rs200332011-<b>C</b>,6e-06,autism spectrum disorder,RSRC1,3:158283895
+rs34509057-<b>A</b>,6e-06,autism spectrum disorder,GALNT10,5:154221702
+rs11072298-<b>A</b>,7e-06,autism spectrum disorder,THSD4,15:71562643
+chr18:41228896-<b>G</b>,7e-06,autism,UNKNOWN,Mapping not available
+rs7179456-<b>?</b>,7e-06,asperger syndrome,RNF111,15:58882340
+rs7179456-<b>?</b>,7e-06,asperger syndrome,SLTM,15:58882340
+rs2638592-<b>C</b>,7e-06,autism spectrum disorder,GPR156,3:120312093
+rs2638592-<b>C</b>,7e-06,autism spectrum disorder,LRRC58,3:120312093
+undefined,8e-06,autism spectrum disorder,UNKNOWN,Mapping not available
+chr6:96509180-<b>D</b>,8e-06,autism spectrum disorder,UNKNOWN,Mapping not available
+rs36059156-<b>G</b>,8e-06,autism spectrum disorder,RPL10P19,8:8924057
+rs36059156-<b>G</b>,8e-06,autism spectrum disorder,RNU6-682P,8:8924057
+rs34739626-<b>T</b>,8e-06,autism spectrum disorder,SPTLC1P2,6:23870548
+rs10888329-<b>?</b>,8e-06,autism spectrum disorder,OR2M4,1:248241352
+rs7627815-<b>T</b>,8e-06,autism spectrum disorder,PBX2P1,3:143236587
+rs7627815-<b>T</b>,8e-06,autism spectrum disorder,SLC9A9,3:143236587
+rs56027323-<b>A</b>,9e-06,autism spectrum disorder,AACSP1,5:178734176
+rs56027323-<b>A</b>,9e-06,autism spectrum disorder,ZNF354A,5:178734176
+rs9573902-<b>C</b>,9e-06,autism,KCTD12,13:76644438
+rs9573902-<b>C</b>,9e-06,autism,RN7SL571P,13:76644438
+"rs1545620-<b>G</b>, rs7248508-<b>C</b>",9e-06,autism,MYO9B; No mapped genes,19:17192965
+rs117603308-<b>T</b>,9e-06,autism spectrum disorder,GUCY1A2,11:106957251
+"rs2280840-<b>G</b>, rs6599528-<b>A</b>",9e-06,autism,SLC52A2; FBXL6; No mapped genes,8:144357897
+chr20:44957939-<b>T</b>,9e-06,autism,UNKNOWN,Mapping not available
+rs201369005-<b>G</b>,9e-06,autism spectrum disorder,ESRRB,14:76369281
+rs2447097-<b>A</b>,9e-06,autism spectrum disorder,SGSM2,17:2374770
+rs79940520-<b>G</b>,9e-06,autism spectrum disorder,RN7SKP222,3:192120380
+rs79940520-<b>G</b>,9e-06,autism spectrum disorder,FGF12,3:192120380
