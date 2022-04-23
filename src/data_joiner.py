@@ -2,7 +2,7 @@
 
 import re
 from os import listdir
-from typing import Any, Dict, List, Mapping, Sequence, Set, Text, Tuple
+from typing import List, Tuple
 
 import pandas as pd
 
@@ -22,7 +22,7 @@ ALLELE_REGEX_PATTERN = r"<b>(.*)</b>"
 afs_ = {}
 
 
-def main():
+def main() -> None:
     gwas_files = get_input_trait_files_()
     for gwas_file in gwas_files:
         process_file_(CLEAN_GWAS_DIR + gwas_file)
@@ -30,12 +30,12 @@ def main():
     print("Done")
 
 
-def get_input_trait_files_() -> List[Text]:
+def get_input_trait_files_() -> List[str]:
     files = listdir(CLEAN_GWAS_DIR)
     return [file for file in files if ".csv" in file]
 
 
-def process_file_(file_path: Text):
+def process_file_(file_path: str) -> None:
     trait = get_trait_from_file_path_(file_path)
     print(f"Processing {trait} from {file_path}")
     df = pd.read_csv(file_path)
@@ -45,13 +45,13 @@ def process_file_(file_path: Text):
     print(f"Wrote {output_file}")
 
 
-def get_trait_from_file_path_(file_path: Text) -> Text:
+def get_trait_from_file_path_(file_path: str) -> str:
     file_name = file_path[len(CLEAN_GWAS_DIR) :]
     trait = file_name.split(".")[0].replace("_", " ")
     return trait
 
 
-def append_maf_data_(input_df: pd.DataFrame, trait: Text) -> pd.DataFrame:
+def append_maf_data_(input_df: pd.DataFrame, trait: str) -> pd.DataFrame:
     """Looks up MAF info for all variants and appends column 'af' with this data to a new DataFrame."""
     out_df = input_df.copy()
     trait_af_file = f'{trait.replace(" ", "_")}.csv'
@@ -80,7 +80,7 @@ def append_maf_data_(input_df: pd.DataFrame, trait: Text) -> pd.DataFrame:
     return out_df
 
 
-def try_get_maf_for_variant_and_allele_(variant_and_allele: Text) -> float:
+def try_get_maf_for_variant_and_allele_(variant_and_allele: str) -> float:
     """Finds AF for input if it is known, otherwise returns UNKNOWN_AF."""
     variant, allele = parse_variant_and_allele_(variant_and_allele)
     if variant not in afs_:
@@ -93,7 +93,7 @@ def try_get_maf_for_variant_and_allele_(variant_and_allele: Text) -> float:
     return var_afs[allele]
 
 
-def parse_variant_and_allele_(variant_and_allele: Text) -> Tuple[Text, Text]:
+def parse_variant_and_allele_(variant_and_allele: str) -> Tuple[str, str]:
     """Given a string like 'rs1001780-<b>G</b>', returns ('rs1001780', 'G')."""
     parts = variant_and_allele.split("-")
     if len(parts) < 2:
@@ -105,7 +105,7 @@ def parse_variant_and_allele_(variant_and_allele: Text) -> Tuple[Text, Text]:
     return variant, allele_matches[0]
 
 
-def parse_variant_(variant_and_allele: Text) -> Text:
+def parse_variant_(variant_and_allele: str) -> str:
     """Given a string like 'rs1001780-<b>G</b>', returns 'rs1001780'."""
     return parse_variant_and_allele_(variant_and_allele)[0]
 

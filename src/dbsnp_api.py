@@ -2,6 +2,7 @@
 
 import json
 import time
+from typing import Dict, List
 
 import requests
 
@@ -19,7 +20,7 @@ SUBCOL_DELIM = ";"
 PREFERED_AF_STUDY = "dbGaP_PopFreq"
 
 
-def get_mafs_for_refsnps(snp_ids):
+def get_mafs_for_refsnps(snp_ids: List[str]) -> Dict[str : Dict[str, float]]:
     """Given a dbSNP ID, fetches allele frequency data about the SNP from dbSNP.
     Returns a dict of dicts, where outer key is SNP ID, inner dict key is allele, and value is MAF for that allele for
     that SNP. dbSNP API has some rate limiting features that make it a bit tedious and slow to work with...
@@ -67,7 +68,7 @@ def get_mafs_for_refsnps(snp_ids):
     return data
 
 
-def get_mafs_for_refsnps_internal_(snp_ids):
+def get_mafs_for_refsnps_internal_(snp_ids: List[str]) -> Dict[str : Dict[str, float]]:
     """Makes API call and parses response. Wrapped to avoid exceeding API request/response size limitations."""
     url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
     params = {
@@ -115,15 +116,15 @@ def get_mafs_for_refsnps_internal_(snp_ids):
 
 # From https://stackoverflow.com/questions/3173320/text-progress-bar-in-terminal-with-block-characters
 def print_progress_bar_(
-    iteration,
-    total,
+    iteration: int,
+    total: int,
     prefix="",
     suffix="",
     decimals=1,
     length=100,
     fill="█",
-    printEnd="\r",
-):
+    print_end="\r",
+) -> None:
     """
     Call in a loop to create terminal progress bar
     @params:
@@ -134,12 +135,12 @@ def print_progress_bar_(
         decimals    - Optional  : positive number of decimals in percent complete (Int)
         length      - Optional  : character length of bar (Int)
         fill        - Optional  : bar fill character (Str)
-        printEnd    - Optional  : end character (e.g. "\r", "\r\n") (Str)
+        print_end    - Optional  : end character (e.g. "\r", "\r\n") (Str)
     """
     percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))
     filled_length = int(length * iteration // total)
     bar = fill * filled_length + "-" * (length - filled_length)
-    print(f"\r{prefix} |{bar}| {percent}% {suffix}", end=printEnd)
+    print(f"\r{prefix} |{bar}| {percent}% {suffix}", end=print_end)
     # Print New Line on Complete
     if iteration == total:
         print()
