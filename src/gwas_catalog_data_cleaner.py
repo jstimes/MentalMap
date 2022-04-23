@@ -1,8 +1,11 @@
 """Given a CSV file containing summary statistics for a trait on GWAS Catalog, generates a normalized version of the data."""
 
+import re
 from os import listdir
 
 import pandas as pd
+
+from dbsnp_api import get_mafs_for_refsnps
 
 # Input file directory.
 INPUT_DIR = "../data/raw/"
@@ -14,8 +17,16 @@ OUTPUT_DIR = "../data/clean/"
 TRAIT_FILE_SUFFIX = "_gwas_catalog_2022.csv"
 METADATA_FILE = "gwas_trait_metadata.csv"
 
+# From https://www.ebi.ac.uk/gwas/docs/methods/curation
+# "? for unknown risk allele"
+UNKNOWN_ALLELE = "?"
 UNKNOWN_GENE = "UNKNOWN"
+UNKNOWN_AF = -1.0
 CHILD_TRAIT_DELIMITER = ";"
+ALLELE_REGEX_PATTERN = r"<b>(.*)</b>"
+
+# Caches mean allele frequencies (MAF) for alleles for each given SNP ID.
+mafs_ = {}
 
 
 def main():
@@ -34,11 +45,14 @@ def get_input_trait_files_():
 
 def process_file_(input_file_path):
     main_trait = get_trait_from_file_path_(input_file_path)
+    if main_trait in done:
+        return
     traits_to_retain = get_child_traits_(main_trait)
     traits_to_retain.append(main_trait)
     print(f"Cleaning file {input_file_path} for trait {main_trait}.")
 
     clean_df = clean_file_(input_file_path, traits_to_retain)
+    clean_df = append_maf_data_(clean_df)
     write_to_file_(main_trait, clean_df)
 
 
@@ -80,6 +94,51 @@ def clean_file_(input_file_path, traits_to_retain):
     df = normalize_mapped_genes_(df)
 
     return df
+
+
+def append_maf_data_(input_df):
+    """Looks up MAF info for all variants and appends column 'maf' with this data to a new DataFrame."""
+    all_variants = input_df["Variant and risk allele"].tolist()
+    rs_variants_and_alleles = [var for var in all_variants if "rs" in var]
+    rs_variants = [parse_variant_(var) for var in rs_variants_and_alleles]
+    global mafs_
+    mafs_ = {}
+    mafs_ = get_mafs_for_refsnps(rs_variants)
+    out_df = input_df.copy()
+    out_df["maf"] = out_df["Variant and risk allele"].map(
+        try_get_maf_for_variant_and_allele_
+    )
+    return out_df
+
+
+def try_get_maf_for_variant_and_allele_(variant_and_allele):
+    """Finds AF for input if it is known, otherwise returns UNKNOWN_AF."""
+    variant, allele = parse_variant_and_allele_(variant_and_allele)
+    if variant not in mafs_:
+        return UNKNOWN_AF
+
+    var_mafs = mafs_[variant]
+    if allele == UNKNOWN_ALLELE or allele not in var_mafs:
+        return UNKNOWN_AF
+
+    return var_mafs[allele]
+
+
+def parse_variant_and_allele_(variant_and_allele):
+    """Given a string like 'rs1001780-<b>G</b>', returns ('rs1001780', 'G')."""
+    parts = variant_and_allele.split("-")
+    if len(parts) < 2:
+        return variant_and_allele, UNKNOWN_ALLELE
+    variant = parts[0]
+    allele_matches = re.findall(ALLELE_REGEX_PATTERN, parts[1], flags=0)
+    if len(allele_matches) == 0:
+        return variant, UNKNOWN_ALLELE
+    return variant, allele_matches[0]
+
+
+def parse_variant_(variant_and_allele):
+    """Given a string like 'rs1001780-<b>G</b>', returns 'rs1001780'."""
+    return parse_variant_and_allele_(variant_and_allele)[0]
 
 
 def pval_to_num_(pval):
@@ -135,14 +194,20 @@ def normalize_mapped_genes_(df):
 
 def replace_unknown_gene_(gene):
     """I'm pretty sure '- indicates unknown gene association."""
-    # TODO: should double-check this.
     return UNKNOWN_GENE if gene == "'-" else gene
 
 
 def write_to_file_(trait, df):
     # First keep only the relevant, normalized columns for brevity.
     out_df = df[
-        ["Variant and risk allele", "P-value_norm", "Trait(s)", "gene_norm", "Location"]
+        [
+            "Variant and risk allele",
+            "P-value_norm",
+            "Trait(s)",
+            "gene_norm",
+            "Location",
+            "maf",
+        ]
     ]
     column_remapping = {
         "Variant and risk allele": "variant_and_allele",
@@ -156,6 +221,11 @@ def write_to_file_(trait, df):
     output_file = f'{OUTPUT_DIR}{trait.replace(" ", "_")}_cleaned.csv'
     out_df.to_csv(output_file)
     print(f"Wrote {output_file}.")
+
+    # Cache dbSNP data to avoid lengthy API calls on re-runs.
+    maf_output_file = f'{OUTPUT_DIR}{trait.replace(" ", "_")}_variant_mafs.csv'
+    out_df[["variant_and_allele", "maf"]].to_csv(maf_output_file)
+    print(f"Wrote {maf_output_file}.")
 
 
 main()

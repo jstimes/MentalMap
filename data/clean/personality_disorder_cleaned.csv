@@ -1,34 +1,34 @@
-,variant_and_allele,p_value,trait,gene,location
-0,rs113507694-<b>G</b>,2e-07,borderline personality disorder,DPPA3,12:7714013
-24,rs11784341-<b>T</b>,2e-06,borderline personality disorder,SRSF3P2,8:95945502
-9,rs57726666-<b>A</b>,2e-06,borderline personality disorder,GACAT3,2:16063204
-13,chr2:159476445-<b>?</b>,2e-06,borderline personality disorder,UNKNOWN,Mapping not available
-5,rs76695126-<b>T</b>,3e-06,borderline personality disorder,STX8,17:9523407
-26,rs184224980-<b>C</b>,3e-06,borderline personality disorder,CAMK1D,10:12623139
-1,rs11110253-<b>A</b>,4e-06,borderline personality disorder,UNKNOWN,12:78524661
-19,rs6922614-<b>T</b>,4e-06,borderline personality disorder,SNX9,6:157785332
-27,rs7074356-<b>A</b>,4.9999999999999996e-06,borderline personality disorder,UNKNOWN,Mapping not available
-7,rs8104156-<b>T</b>,4.9999999999999996e-06,borderline personality disorder,MIR1283-1,19:53689916
-7,rs8104156-<b>T</b>,4.9999999999999996e-06,borderline personality disorder,MIR520A,19:53689916
-23,chr7:76213662-<b>?</b>,4.9999999999999996e-06,borderline personality disorder,UNKNOWN,Mapping not available
-20,rs6975373-<b>T</b>,6e-06,borderline personality disorder,CYP3A54P,7:4427848
-16,rs13136239-<b>G</b>,6e-06,borderline personality disorder,MAML3,4:139987601
-25,rs7859734-<b>C</b>,7e-06,borderline personality disorder,GAS1,9:86947439
-18,rs2145737-<b>T</b>,7e-06,borderline personality disorder,TRDN,6:123558777
-17,rs34416917-<b>G</b>,7e-06,borderline personality disorder,RNA5SP181,5:36406516
-15,rs283386-<b>G</b>,7e-06,borderline personality disorder,GAP43,3:115696987
-11,rs62127626-<b>A</b>,7e-06,borderline personality disorder,CRTC1P1,2:52492153
-11,rs62127626-<b>A</b>,7e-06,borderline personality disorder,GGCTP3,2:52492153
-8,rs187785463-<b>G</b>,7e-06,borderline personality disorder,DPYD,1:97686569
-10,rs115689122-<b>A</b>,8e-06,borderline personality disorder,LINC01867,2:52378941
-22,chr7:27669577-<b>?</b>,8e-06,borderline personality disorder,UNKNOWN,Mapping not available
-2,rs675828-<b>G</b>,8e-06,borderline personality disorder,CCDC168,13:102698383
-2,rs675828-<b>G</b>,8e-06,borderline personality disorder,METTL21C,13:102698383
-6,rs1985762-<b>T</b>,8e-06,borderline personality disorder,TMEM92-AS1,17:50326715
-6,rs1985762-<b>T</b>,8e-06,borderline personality disorder,XYLT2,17:50326715
-3,rs9520569-<b>T</b>,8e-06,borderline personality disorder,FAM155A,13:107750203
-4,rs187058036-<b>C</b>,8e-06,borderline personality disorder,LINC02296,14:87426463
-14,chr3:77677315-<b>?</b>,9e-06,borderline personality disorder,UNKNOWN,Mapping not available
-12,rs150592717-<b>T</b>,9e-06,borderline personality disorder,IGKV1D-35,2:89897307
-12,rs150592717-<b>T</b>,9e-06,borderline personality disorder,IGKV3D-34,2:89897307
-21,rs114497090-<b>A</b>,9e-06,borderline personality disorder,FERD3L,7:19177901
+,variant_and_allele,p_value,trait,gene,location,maf
+0,rs113507694-<b>G</b>,2e-07,borderline personality disorder,DPPA3,12:7714013,0.03875066172578084
+24,rs11784341-<b>T</b>,2e-06,borderline personality disorder,SRSF3P2,8:95945502,0.01156852527357999
+9,rs57726666-<b>A</b>,2e-06,borderline personality disorder,GACAT3,2:16063204,0.9330862890418211
+13,chr2:159476445-<b>?</b>,2e-06,borderline personality disorder,UNKNOWN,Mapping not available,-1.0
+5,rs76695126-<b>T</b>,3e-06,borderline personality disorder,STX8,17:9523407,-1.0
+26,rs184224980-<b>C</b>,3e-06,borderline personality disorder,CAMK1D,10:12623139,0.3302984319676277
+1,rs11110253-<b>A</b>,4e-06,borderline personality disorder,UNKNOWN,12:78524661,0.8361037586024351
+19,rs6922614-<b>T</b>,4e-06,borderline personality disorder,SNX9,6:157785332,0.8770063943625213
+27,rs7074356-<b>A</b>,4.9999999999999996e-06,borderline personality disorder,UNKNOWN,Mapping not available,0.15382995203217784
+7,rs8104156-<b>T</b>,4.9999999999999996e-06,borderline personality disorder,MIR1283-1,19:53689916,0.37586024351508734
+7,rs8104156-<b>T</b>,4.9999999999999996e-06,borderline personality disorder,MIR520A,19:53689916,0.37586024351508734
+23,chr7:76213662-<b>?</b>,4.9999999999999996e-06,borderline personality disorder,UNKNOWN,Mapping not available,-1.0
+20,rs6975373-<b>T</b>,6e-06,borderline personality disorder,CYP3A54P,7:4427848,0.09629433562731604
+16,rs13136239-<b>G</b>,6e-06,borderline personality disorder,MAML3,4:139987601,0.7163049232398094
+25,rs7859734-<b>C</b>,7e-06,borderline personality disorder,GAS1,9:86947439,0.5559555320275278
+18,rs2145737-<b>T</b>,7e-06,borderline personality disorder,TRDN,6:123558777,0.5953943885653785
+17,rs34416917-<b>G</b>,7e-06,borderline personality disorder,RNA5SP181,5:36406516,0.893615944961554
+15,rs283386-<b>G</b>,7e-06,borderline personality disorder,GAP43,3:115696987,0.13509793541556378
+11,rs62127626-<b>A</b>,7e-06,borderline personality disorder,CRTC1P1,2:52492153,0.004658549497088407
+11,rs62127626-<b>A</b>,7e-06,borderline personality disorder,GGCTP3,2:52492153,0.004658549497088407
+8,rs187785463-<b>G</b>,7e-06,borderline personality disorder,DPYD,1:97686569,0.9038131436978911
+10,rs115689122-<b>A</b>,8e-06,borderline personality disorder,LINC01867,2:52378941,0.004393859184753838
+22,chr7:27669577-<b>?</b>,8e-06,borderline personality disorder,UNKNOWN,Mapping not available,-1.0
+2,rs675828-<b>G</b>,8e-06,borderline personality disorder,CCDC168,13:102698383,0.49470049783202186
+2,rs675828-<b>G</b>,8e-06,borderline personality disorder,METTL21C,13:102698383,0.49470049783202186
+6,rs1985762-<b>T</b>,8e-06,borderline personality disorder,TMEM92-AS1,17:50326715,0.10567556120288013
+6,rs1985762-<b>T</b>,8e-06,borderline personality disorder,XYLT2,17:50326715,0.10567556120288013
+3,rs9520569-<b>T</b>,8e-06,borderline personality disorder,FAM155A,13:107750203,0.7502154870006214
+4,rs187058036-<b>C</b>,8e-06,borderline personality disorder,LINC02296,14:87426463,-1.0
+14,chr3:77677315-<b>?</b>,9e-06,borderline personality disorder,UNKNOWN,Mapping not available,-1.0
+12,rs150592717-<b>T</b>,9e-06,borderline personality disorder,IGKV1D-35,2:89897307,-1.0
+12,rs150592717-<b>T</b>,9e-06,borderline personality disorder,IGKV3D-34,2:89897307,-1.0
+21,rs114497090-<b>A</b>,9e-06,borderline personality disorder,FERD3L,7:19177901,0.013496612819176655

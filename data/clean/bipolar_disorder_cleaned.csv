@@ -1,855 +1,855 @@
-,variant_and_allele,p_value,trait,gene,location
-72,rs9834970-<b>T</b>,1e-21,bipolar i disorder,LINC02033,3:36814539
-72,rs9834970-<b>T</b>,1e-21,bipolar i disorder,HSPD1P6,3:36814539
-329,rs68188794-<b>T</b>,2e-21,bipolar disorder,UNKNOWN,Mapping not available
-623,rs34706883-<b>?</b>,7e-20,bipolar disorder,H2BC15,6:27837477
-623,rs34706883-<b>?</b>,7e-20,bipolar disorder,H4C12,6:27837477
-626,rs144447022-<b>?</b>,7e-20,bipolar disorder,OR14J1,6:29276442
-626,rs144447022-<b>?</b>,7e-20,bipolar disorder,OR2U2P,6:29276442
-780,rs68188794-<b>?</b>,2e-19,bipolar disorder,UNKNOWN,Mapping not available
-621,rs75782365-<b>?</b>,3.0000000000000002e-18,bipolar disorder,BTN3A1,6:26408323
-755,rs4298967-<b>?</b>,5.0000000000000005e-17,bipolar disorder,UNKNOWN,Mapping not available
-778,rs55834529-<b>?</b>,6e-17,bipolar disorder,UNKNOWN,Mapping not available
-348,rs4298967-<b>A</b>,1e-16,bipolar disorder,UNKNOWN,Mapping not available
-96,rs11062170-<b>G</b>,2e-16,bipolar i disorder,CACNA1C,12:2239678
-745,rs9834970-<b>?</b>,3e-16,bipolar disorder,LINC02033,3:36814539
-745,rs9834970-<b>?</b>,3e-16,bipolar disorder,HSPD1P6,3:36814539
-705,rs1487445-<b>C</b>,1e-15,bipolar disorder,EIF4EBP2P3,6:98117335
-705,rs1487445-<b>C</b>,1e-15,bipolar disorder,MIR2113,6:98117335
-703,rs13195402-<b>G</b>,6.0000000000000005e-15,bipolar disorder,BTN2A1,6:26463347
-83,rs12154473-<b>A</b>,9.000000000000001e-15,bipolar i disorder,MAD1L1,7:1942546
-31,rs9834970-<b>C</b>,4e-14,bipolar i disorder,LINC02033,3:36814539
-31,rs9834970-<b>C</b>,4e-14,bipolar i disorder,HSPD1P6,3:36814539
-325,rs4481150-<b>T</b>,5e-14,bipolar disorder,ITIH3,3:52803777
-752,rs12241517-<b>?</b>,6e-14,bipolar disorder,UNKNOWN,Mapping not available
-693,rs113779084-<b>G</b>,1e-13,bipolar disorder,THSD7A,7:11832161
-722,rs174592-<b>A</b>,1e-13,bipolar disorder,FADS2,11:61851136
-746,rs2710323-<b>?</b>,3.0000000000000003e-13,bipolar disorder,UNKNOWN,Mapping not available
-791,rs2336147-<b>T</b>,4e-13,bipolar disorder,PBRM1,3:52592427
-342,rs11191582-<b>A</b>,9e-13,bipolar disorder,NT5C2,10:103153896
-618,rs72799190-<b>?</b>,1e-12,bipolar disorder,LINC01470,5:152807563
-81,rs12202969-<b>G</b>,1e-12,bipolar i disorder,EIF4EBP2P3,6:98128347
-639,rs7098825-<b>?</b>,1e-12,bipolar disorder,U6,10:102868477
-639,rs7098825-<b>?</b>,1e-12,bipolar disorder,BORCS7-ASMT,10:102868477
-354,rs71395455-<b>A</b>,2e-12,bipolar disorder,UNKNOWN,Mapping not available
-761,rs71395455-<b>?</b>,2e-12,bipolar disorder,UNKNOWN,Mapping not available
-777,rs35050608-<b>?</b>,3e-12,bipolar disorder,UNKNOWN,Mapping not available
-650,rs12906474-<b>?</b>,5e-12,bipolar disorder,UBE2Q2P1,15:84566006
-373,rs4236274-<b>G</b>,8e-12,bipolar disorder,MAD1L1,7:1856777
-690,rs10994415-<b>T</b>,1e-11,bipolar disorder,ANK3,10:60562276
-352,rs12887734-<b>T</b>,2e-11,bipolar disorder,KLC1,14:103580497
-352,rs12887734-<b>T</b>,2e-11,bipolar disorder,COA8,14:103580497
-110,rs237475-<b>T</b>,2e-11,bipolar i disorder,KCNB1,20:49432969
-789,rs2273738-<b>C</b>,2e-11,bipolar disorder,XPNPEP1,10:109888901
-609,rs769950-<b>?</b>,3e-11,bipolar disorder,FTCDNL1,2:199865305
-609,rs769950-<b>?</b>,3e-11,bipolar disorder,RN7SL717P,2:199865305
-688,rs10866641-<b>T</b>,3e-11,bipolar disorder,DOCK2,5:169862202
-688,rs10866641-<b>T</b>,3e-11,bipolar disorder,INSYN2B,5:169862202
-357,rs9926049-<b>A</b>,3e-11,bipolar disorder,GRIN2A,16:9846103
-763,rs62489493-<b>C</b>,3e-11,bipolar disorder,MIR124-1HG,8:9906071
-625,rs78676616-<b>?</b>,4e-11,bipolar disorder,RN7SL480P,1:150171103
-625,rs78676616-<b>?</b>,4e-11,bipolar disorder,PLEKHO1,1:150171103
-765,rs67712855-<b>T</b>,4e-11,bipolar disorder,STK4,20:45053910
-651,rs4702-<b>?</b>,4.9999999999999995e-11,bipolar disorder,FURIN,15:90883330
-784,rs58120505-<b>?</b>,4.9999999999999995e-11,bipolar disorder,UNKNOWN,Mapping not available
-713,rs4619651-<b>G</b>,4.9999999999999995e-11,bipolar disorder,CNNM4,2:96750416
-713,rs4619651-<b>G</b>,4.9999999999999995e-11,bipolar disorder,LMAN2L,2:96750416
-774,rs748455-<b>T</b>,4.9999999999999995e-11,bipolar disorder,ZSCAN2,15:84606344
-95,rs12575685-<b>G</b>,4.9999999999999995e-11,bipolar i disorder,SHANK2,11:70671822
-607,rs2439202-<b>?</b>,6e-11,bipolar disorder,UNKNOWN,2:193513924
-414,rs2302417-<b>A</b>,6e-11,bipolar disorder,ITIH1,3:52780240
-76,rs78308718-<b>T</b>,6.999999999999999e-11,bipolar i disorder,ADCY2,5:7533872
-287,rs2302417-<b>T</b>,6.999999999999999e-11,bipolar disorder,ITIH1,3:52780240
-363,rs10994415-<b>C</b>,6.999999999999999e-11,bipolar disorder,ANK3,10:60562276
-602,rs80256351-<b>?</b>,9e-11,bipolar disorder,ACTG1P22,2:57844458
-602,rs80256351-<b>?</b>,9e-11,bipolar disorder,VRK2,2:57844458
-427,rs11647445-<b>T</b>,9e-11,bipolar disorder,GRIN2A,16:9833109
-317,rs4380187-<b>A</b>,1e-10,bipolar disorder,UNKNOWN,Mapping not available
-759,rs4906338-<b>?</b>,1e-10,bipolar disorder,UNKNOWN,Mapping not available
-785,rs80012185-<b>?</b>,1e-10,bipolar disorder,UNKNOWN,Mapping not available
-355,rs4702-<b>A</b>,1e-10,bipolar disorder,FURIN,15:90883330
-288,rs11647445-<b>G</b>,1e-10,bipolar disorder,GRIN2A,16:9833109
-385,rs174576-<b>A</b>,1e-10,bipolar disorder,FADS2,11:61836038
-362,rs80256351-<b>A</b>,1e-10,bipolar disorder,ACTG1P22,2:57844458
-362,rs80256351-<b>A</b>,1e-10,bipolar disorder,VRK2,2:57844458
-732,rs72692857-<b>?</b>,1e-10,bipolar disorder,UNKNOWN,Mapping not available
-88,rs11137399-<b>T</b>,1e-10,bipolar i disorder,TUBBP5,9:138174172
-87,rs6993953-<b>C</b>,1e-10,bipolar i disorder,PLEC,8:143926153
-648,rs722637-<b>?</b>,1e-10,bipolar disorder,PPP1R13B,14:103795386
-93,rs489337-<b>A</b>,2e-10,bipolar i disorder,PACS1,11:66087090
-345,rs2514218-<b>T</b>,2e-10,bipolar disorder,DRD2,11:113522272
-103,rs61074241-<b>C</b>,2e-10,bipolar i disorder,ZNF592,15:84790165
-600,rs2339519-<b>?</b>,2e-10,bipolar disorder,LINC01830,2:22381268
-631,rs80195870-<b>?</b>,2e-10,bipolar disorder,GSDME,7:24734849
-742,rs2949006-<b>?</b>,2e-10,bipolar disorder,UNKNOWN,Mapping not available
-739,rs4380187-<b>?</b>,2e-10,bipolar disorder,UNKNOWN,Mapping not available
-724,rs7191999-<b>?</b>,2e-10,bipolar disorder,UNKNOWN,Mapping not available
-333,rs116052126-<b>A</b>,2e-10,bipolar disorder,GSDME,7:24735895
-454,rs2271893-<b>G</b>,2e-10,bipolar disorder,LMAN2L,2:96739703
-321,rs1367858-<b>T</b>,3e-10,bipolar disorder,SPATS2L,2:200296048
-407,rs56361249-<b>?</b>,3e-10,bipolar disorder,LMAN2L,2:96714492
-795,rs28455634-<b>G</b>,3e-10,bipolar disorder,C16orf72,16:9136959
-795,rs28455634-<b>G</b>,3e-10,bipolar disorder,RPL21P119,16:9136959
-790,rs228768-<b>G</b>,3e-10,bipolar disorder,HDAC5,17:44114525
-455,rs7618915-<b>G</b>,3e-10,bipolar disorder,TWF2,3:52245578
-436,rs72692857-<b>T</b>,4e-10,bipolar disorder,UNKNOWN,Mapping not available
-289,rs10744560-<b>T</b>,4e-10,bipolar disorder,CACNA1C,12:2277933
-289,rs10744560-<b>T</b>,4e-10,bipolar disorder,CACNA1C-IT3,12:2277933
-457,rs4948418-<b>T</b>,4e-10,bipolar disorder,ANK3,10:60425736
-101,rs1197546-<b>A</b>,4e-10,bipolar i disorder,STARD9,15:42610048
-316,rs4619651-<b>A</b>,5e-10,bipolar disorder,CNNM4,2:96750416
-316,rs4619651-<b>A</b>,5e-10,bipolar disorder,LMAN2L,2:96750416
-431,rs111444407-<b>T</b>,5e-10,bipolar disorder,NCAN,19:19247398
-611,rs35346733-<b>?</b>,5e-10,bipolar disorder,CNTN4,3:2479638
-389,rs4926298-<b>G</b>,6e-10,bipolar disorder,NFIX,19:13042221
-290,chr7_140700006_I-<b>?</b>,6e-10,bipolar disorder,UNKNOWN,Mapping not available
-770,rs6954854-<b>G</b>,6e-10,bipolar disorder,SP4,7:21452971
-429,rs884303-<b>A</b>,6e-10,bipolar disorder,HLF,17:55289939
-608,rs6434928-<b>?</b>,8e-10,bipolar disorder,RNU6-1029P,2:197439853
-608,rs6434928-<b>?</b>,8e-10,bipolar disorder,SF3B1,2:197439853
-67,rs10917509-<b>T</b>,8e-10,bipolar i disorder,HTR6,1:19665573
-217,chr2_194465711_D-<b>?</b>,8e-10,bipolar disorder,UNKNOWN,Mapping not available
-596,rs111444407-<b>?</b>,9e-10,bipolar disorder,NCAN,19:19247398
-412,chr2:194465711-<b>?</b>,9e-10,bipolar disorder,UNKNOWN,Mapping not available
-80,rs55706012-<b>A</b>,1e-09,bipolar i disorder,H2BC9,6:26266083
-80,rs55706012-<b>A</b>,1e-09,bipolar i disorder,H3C8,6:26266083
-100,rs6495988-<b>C</b>,1e-09,bipolar i disorder,LINC02694,15:38677344
-660,rs10946817-<b>?</b>,1e-09,bipolar disorder,BTN3A2,6:26363828
-660,rs10946817-<b>?</b>,1e-09,bipolar disorder,H3C9P,6:26363828
-659,rs11682175-<b>?</b>,1e-09,bipolar disorder,ACTG1P22,2:57760458
-653,rs12691307-<b>?</b>,1e-09,bipolar disorder,TMEM219,16:29928556
-653,rs12691307-<b>?</b>,1e-09,bipolar disorder,KCTD13,16:29928556
-637,rs11167136-<b>?</b>,1e-09,bipolar disorder,TSNARE1,8:142229454
-719,rs6032110-<b>A</b>,1e-09,bipolar disorder,RBPJL,20:45315683
-757,rs4762557-<b>?</b>,1e-09,bipolar disorder,UNKNOWN,Mapping not available
-218,rs12226877-<b>A</b>,1e-09,bipolar disorder,FADS1,11:61824435
-218,rs12226877-<b>A</b>,1e-09,bipolar disorder,FADS2,11:61824435
-219,rs73188321-<b>C</b>,1e-09,bipolar disorder,SRPK2,7:105407711
-219,rs73188321-<b>C</b>,1e-09,bipolar disorder,PUS7,7:105407711
-675,rs6079469-<b>A</b>,1e-09,bipolar disorder,MACROD2,20:14520495
-632,rs12704290-<b>?</b>,1e-09,bipolar disorder,GRM3-AS1,7:86798310
-632,rs12704290-<b>?</b>,1e-09,bipolar disorder,GRM3,7:86798310
-628,rs60730-<b>?</b>,1e-09,bipolar disorder,SNAP91,6:83663339
-108,rs6073621-<b>A</b>,1e-09,bipolar i disorder,STK4,20:45066802
-78,rs10043984-<b>C</b>,1e-09,bipolar i disorder,KDM3B,5:138376432
-603,rs4619651-<b>?</b>,1e-09,bipolar disorder,CNNM4,2:96750416
-603,rs4619651-<b>?</b>,1e-09,bipolar disorder,LMAN2L,2:96750416
-380,rs10994299-<b>?</b>,1e-09,bipolar disorder,ANK3,10:60316870
-365,rs12290811-<b>A</b>,1e-09,bipolar disorder,TENM4,11:79372576
-726,rs2011503-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,Mapping not available
-438,rs2339519-<b>A</b>,2e-09,bipolar disorder,LINC01830,2:22381268
-404,rs4332037-<b>T</b>,2e-09,bipolar disorder,MAD1L1,7:1911173
-699,rs12668848-<b>G</b>,2e-09,bipolar disorder,MAD1L1,7:1981360
-740,rs13003404-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,Mapping not available
-421,chr10:111745562-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,Mapping not available
-737,rs6746896-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,Mapping not available
-221,rs17183814-<b>G</b>,2e-09,bipolar disorder,SCN2A,2:165295879
-415,rs3804640-<b>A</b>,2e-09,bipolar disorder,CD47,3:108074862
-716,rs475805-<b>G</b>,2e-09,bipolar disorder,PACS1,11:66081267
-411,rs17183814-<b>A</b>,2e-09,bipolar disorder,SCN2A,2:165295879
-692,rs112481526-<b>A</b>,2e-09,bipolar disorder,KIAA1109,4:122154852
-706,rs28565152-<b>G</b>,2e-09,bipolar disorder,ADCY2,5:7542798
-319,rs6434928-<b>A</b>,2e-09,bipolar disorder,RNU6-1029P,2:197439853
-319,rs6434928-<b>A</b>,2e-09,bipolar disorder,SF3B1,2:197439853
-743,rs2880986-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,Mapping not available
-82,rs10455979-<b>C</b>,2e-09,bipolar i disorder,RPS6KA2,6:166581772
-74,rs9831123-<b>C</b>,2e-09,bipolar i disorder,CADM2,3:85002999
-634,rs13236223-<b>?</b>,2e-09,bipolar disorder,BRAF,7:140967165
-634,rs13236223-<b>?</b>,2e-09,bipolar disorder,CCT4P1,7:140967165
-73,rs7614498-<b>A</b>,2e-09,bipolar i disorder,PBRM1,3:52584925
-361,rs138321-<b>A</b>,2e-09,bipolar disorder,SLC25A17,22:40813300
-515,rs1064395-<b>A</b>,2e-09,bipolar disorder,NCAN,19:19250926
-652,rs11647445-<b>?</b>,2e-09,bipolar disorder,GRIN2A,16:9833109
-341,rs11191356-<b>A</b>,2e-09,bipolar disorder,SUFU,10:102633732
-341,rs11191356-<b>A</b>,2e-09,bipolar disorder,TRIM8,10:102633732
-772,rs6992333-<b>A</b>,2e-09,bipolar disorder,PLEC,8:143919209
-750,rs4284148-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,Mapping not available
-606,rs59979824-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,2:192983614
-788,rs2126180-<b>G</b>,2e-09,bipolar disorder,LINC01748,1:60639996
-359,rs3814883-<b>T</b>,2e-09,bipolar disorder,TAOK2,16:29983601
-695,rs11764361-<b>A</b>,3.0000000000000004e-09,bipolar disorder,PUS7,7:105402782
-695,rs11764361-<b>A</b>,3.0000000000000004e-09,bipolar disorder,SRPK2,7:105402782
-335,rs12704290-<b>A</b>,3.0000000000000004e-09,bipolar disorder,GRM3-AS1,7:86798310
-335,rs12704290-<b>A</b>,3.0000000000000004e-09,bipolar disorder,GRM3,7:86798310
-674,rs12921204-<b>T</b>,3.0000000000000004e-09,bipolar disorder,C16orf72,16:9133864
-674,rs12921204-<b>T</b>,3.0000000000000004e-09,bipolar disorder,RPL21P119,16:9133864
-682,rs1180221-<b>T</b>,3.0000000000000004e-09,bipolar disorder,ME1,6:83243557
-382,rs4765913-<b>?</b>,3.0000000000000004e-09,bipolar disorder,CACNA1C,12:2310730
-673,rs62533709-<b>T</b>,3.0000000000000004e-09,bipolar disorder,PAX5,9:37003707
-647,rs11624408-<b>?</b>,3.0000000000000004e-09,bipolar disorder,UNKNOWN,Mapping not available
-222,rs113779084-<b>A</b>,3.0000000000000004e-09,bipolar disorder,THSD7A,7:11832161
-90,rs61846516-<b>C</b>,3.0000000000000004e-09,bipolar i disorder,ANK3,10:60363680
-658,rs760648-<b>?</b>,3.0000000000000004e-09,bipolar disorder,TCF20,22:42175022
-387,rs12576775-<b>G</b>,3.0000000000000004e-09,bipolar disorder,UNKNOWN,Mapping not available
-378,rs2302417-<b>?</b>,3.0000000000000004e-09,bipolar disorder,ITIH1,3:52780240
-700,rs12672003-<b>A</b>,3.0000000000000004e-09,bipolar disorder,MPP6,7:24607603
-725,rs12919683-<b>?</b>,3.0000000000000004e-09,bipolar disorder,UNKNOWN,Mapping not available
-751,rs7095057-<b>?</b>,3.0000000000000004e-09,bipolar disorder,UNKNOWN,Mapping not available
-712,rs4447398-<b>A</b>,3.0000000000000004e-09,bipolar disorder,STARD9,15:42612706
-723,rs8039305-<b>?</b>,3.0000000000000004e-09,bipolar disorder,FURIN,15:90879313
-736,rs77071813-<b>?</b>,3.0000000000000004e-09,bipolar disorder,UNKNOWN,Mapping not available
-714,rs4672-<b>G</b>,3.0000000000000004e-09,bipolar disorder,FKBP2,11:64242407
-792,rs237460-<b>C</b>,4e-09,bipolar disorder,KCNB1,20:49416590
-734,rs12474906-<b>?</b>,4e-09,bipolar disorder,UNKNOWN,Mapping not available
-223,chr2_97376407_I-<b>?</b>,4e-09,bipolar disorder,UNKNOWN,Mapping not available
-224,rs2388334-<b>G</b>,4e-09,bipolar disorder,EIF4EBP2P3,6:98143746
-224,rs2388334-<b>G</b>,4e-09,bipolar disorder,HLA-DRB5,6:98143746
-418,rs2388334-<b>A</b>,4e-09,bipolar disorder,EIF4EBP2P3,6:98143746
-418,rs2388334-<b>A</b>,4e-09,bipolar disorder,HLA-DRB5,6:98143746
-339,rs11167136-<b>A</b>,4e-09,bipolar disorder,TSNARE1,8:142229454
-598,rs6519227-<b>?</b>,4e-09,bipolar disorder,SLC25A17,22:40723895
-598,rs6519227-<b>?</b>,4e-09,bipolar disorder,MCHR1,22:40723895
-709,rs35306827-<b>G</b>,4e-09,bipolar disorder,CUL4A,13:113214731
-776,rs56208248-<b>?</b>,4e-09,bipolar disorder,UNKNOWN,Mapping not available
-715,rs4702-<b>G</b>,4e-09,bipolar disorder,FURIN,15:90883330
-327,rs12055234-<b>A</b>,4e-09,bipolar disorder,RNU6-334P,5:104702059
-410,rs41335055-<b>T</b>,5e-09,bipolar disorder,ACTG1P22,2:57734094
-642,rs2514218-<b>?</b>,5e-09,bipolar disorder,DRD2,11:113522272
-350,rs10745843-<b>A</b>,5e-09,bipolar disorder,ANKS1B,12:99102252
-323,rs35346733-<b>A</b>,5e-09,bipolar disorder,CNTN4,3:2479638
-679,rs1948246-<b>G</b>,5e-09,bipolar disorder,LINC01378,4:117534962
-680,rs113799727-<b>G</b>,5e-09,bipolar disorder,LINC01470,5:152698812
-344,rs12805133-<b>A</b>,5e-09,bipolar disorder,SPTBN2,11:66715794
-434,rs12136984-<b>T</b>,5e-09,bipolar disorder,RN7SKP19,1:73260315
-434,rs12136984-<b>T</b>,5e-09,bipolar disorder,LINC01360,1:73260315
-766,rs678397-<b>T</b>,5e-09,bipolar disorder,ACTN3,11:66557112
-620,rs215011-<b>?</b>,5e-09,bipolar disorder,CMAHP,6:25384133
-620,rs215011-<b>?</b>,5e-09,bipolar disorder,CARMIL1,6:25384133
-69,rs2314398-<b>C</b>,5e-09,bipolar i disorder,CNNM4,2:96747751
-69,rs2314398-<b>C</b>,5e-09,bipolar i disorder,LMAN2L,2:96747751
-376,rs2517959-<b>T</b>,5e-09,bipolar disorder,ERBB2,17:39690259
-376,rs2517959-<b>T</b>,5e-09,bipolar disorder,PGAP3,17:39690259
-94,rs7122539-<b>G</b>,5e-09,bipolar i disorder,PC,11:66895260
-107,rs112219496-<b>G</b>,5e-09,bipolar i disorder,NCAN,19:19247277
-405,rs28456-<b>G</b>,6.000000000000001e-09,bipolar disorder,FADS1,11:61822009
-405,rs28456-<b>G</b>,6.000000000000001e-09,bipolar disorder,FADS2,11:61822009
-328,rs111294930-<b>A</b>,6.000000000000001e-09,bipolar disorder,LINC01470,5:152797561
-644,rs4762559-<b>?</b>,6.000000000000001e-09,bipolar disorder,ANKS1B,12:99104862
-432,rs6130764-<b>T</b>,6.000000000000001e-09,bipolar disorder,WFDC12,20:45121769
-432,rs6130764-<b>T</b>,6.000000000000001e-09,bipolar disorder,WFDC5,20:45121769
-747,rs6449529-<b>?</b>,6.000000000000001e-09,bipolar disorder,UNKNOWN,Mapping not available
-347,rs2238044-<b>A</b>,6.000000000000001e-09,bipolar disorder,CACNA1C,12:2176565
-374,rs12553324-<b>C</b>,6.000000000000001e-09,bipolar disorder,LINC01239,9:23347867
-374,rs12553324-<b>C</b>,6.000000000000001e-09,bipolar disorder,SUMO2P2,9:23347867
-707,rs2953928-<b>G</b>,6.000000000000001e-09,bipolar disorder,RPL10AP3,8:34294974
-707,rs2953928-<b>G</b>,6.000000000000001e-09,bipolar disorder,VENTXP5,8:34294974
-33,rs10950456-<b>A</b>,6.000000000000001e-09,bipolar i disorder,MAD1L1,7:1940114
-728,rs103197-<b>?</b>,7.000000000000001e-09,bipolar disorder,UNKNOWN,Mapping not available
-661,rs740417-<b>?</b>,7.000000000000001e-09,bipolar disorder,CACNA1C,12:2390683
-748,rs75836205-<b>?</b>,7.000000000000001e-09,bipolar disorder,UNKNOWN,Mapping not available
-77,rs11744542-<b>G</b>,7.000000000000001e-09,bipolar i disorder,Y_RNA,5:79552534
-701,rs12932628-<b>G</b>,7.000000000000001e-09,bipolar disorder,RPL13,16:89566317
-701,rs12932628-<b>G</b>,7.000000000000001e-09,bipolar disorder,CPNE7,16:89566317
-741,rs4685-<b>?</b>,7.000000000000001e-09,bipolar disorder,SF3B1,2:197393071
-34,chr5_7587236_D-<b>?</b>,7.000000000000001e-09,bipolar i disorder,UNKNOWN,Mapping not available
-225,rs10994318-<b>C</b>,7.000000000000001e-09,bipolar disorder,ANK3,10:60366098
-686,rs10737496-<b>C</b>,7.000000000000001e-09,bipolar disorder,RNA5SP63,1:163776152
-686,rs10737496-<b>C</b>,7.000000000000001e-09,bipolar disorder,U3,1:163776152
-426,rs12902052-<b>A</b>,7.000000000000001e-09,bipolar disorder,ZSCAN2,15:84582607
-426,rs12902052-<b>A</b>,7.000000000000001e-09,bipolar disorder,LINC00933,15:84582607
-226,rs12575685-<b>A</b>,8e-09,bipolar disorder,SHANK2,11:70671822
-638,rs10764493-<b>?</b>,8e-09,bipolar disorder,CACNB2,10:18439070
-439,rs12474906-<b>A</b>,8e-09,bipolar disorder,UNKNOWN,Mapping not available
-353,rs28681284-<b>T</b>,8e-09,bipolar disorder,CHRNA3,15:78616223
-654,rs10423874-<b>?</b>,8e-09,bipolar disorder,NCAN,19:19248691
-453,rs4650608-<b>T</b>,8e-09,bipolar disorder,UNKNOWN,1:78772330
-519,rs420259-<b>?</b>,9.000000000000001e-09,bipolar disorder,PALB2,16:23622705
-487,rs10994336-<b>T</b>,9.000000000000001e-09,bipolar disorder,ANK3,10:60420054
-462,rs109944336-<b>?</b>,9.000000000000001e-09,bipolar disorder,ANK3,10:60420054
-753,rs7121067-<b>?</b>,9.000000000000001e-09,bipolar disorder,UNKNOWN,Mapping not available
-768,rs6887473-<b>G</b>,9.000000000000001e-09,bipolar disorder,SSBP2,5:81665250
-783,rs9283801-<b>?</b>,9.000000000000001e-09,bipolar disorder,UNKNOWN,Mapping not available
-702,rs13044225-<b>A</b>,9.000000000000001e-09,bipolar disorder,OSBPL2,20:62290759
-343,rs484201-<b>T</b>,9.000000000000001e-09,bipolar disorder,MACROD1,11:64023459
-36,rs35958438-<b>G</b>,1e-08,bipolar i disorder,LINC02694,15:38681592
-71,rs735931-<b>A</b>,1e-08,bipolar i disorder,ATP2B2,3:10483412
-79,rs6875495-<b>C</b>,1e-08,bipolar i disorder,VTRNA1-3,5:140727646
-79,rs6875495-<b>C</b>,1e-08,bipolar i disorder,PCDHA1,5:140727646
-629,rs9320913-<b>?</b>,1e-08,bipolar disorder,EIF4EBP2P3,6:98136857
-614,rs13135092-<b>?</b>,1e-08,bipolar disorder,SLC39A8,4:102276925
-762,rs62011709-<b>T</b>,1e-08,bipolar disorder,HOMER2,15:82863022
-627,rs169738-<b>?</b>,1e-08,bipolar disorder,GGNBP1,6:33569769
-318,rs2719169-<b>A</b>,1e-08,bipolar disorder,CNTNAP5,2:193579493
-430,rs11557713-<b>A</b>,1e-08,bipolar disorder,ZCCHC2,18:62576643
-636,rs6984358-<b>?</b>,1e-08,bipolar disorder,FGFR1,8:38427063
-646,rs7161596-<b>?</b>,1e-08,bipolar disorder,RGS6,14:71975895
-754,rs4309187-<b>?</b>,1e-08,bipolar disorder,TMPRSS5,11:113541721
-754,rs4309187-<b>?</b>,1e-08,bipolar disorder,DRD2,11:113541721
-338,rs7001340-<b>T</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available
-517,rs9378249-<b>?</b>,1e-08,bipolar disorder,DHFRP2,6:31359924
-517,rs9378249-<b>?</b>,1e-08,bipolar disorder,HLA-B,6:31359924
-729,rs6694545-<b>?</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available
-610,rs778353-<b>?</b>,1e-08,bipolar disorder,NGEF,2:232923640
-228,chr20_43682549_I-<b>?</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available
-356,rs11648559-<b>T</b>,1e-08,bipolar disorder,GRIN2A,16:9780842
-229,chr10_111745562_I-<b>?</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available
-463,rs1938526-<b>?</b>,1e-08,bipolar disorder,ANK3,10:60540625
-360,rs4239639-<b>A</b>,1e-08,bipolar disorder,MAU2,19:19325067
-85,rs4722033-<b>G</b>,1e-08,bipolar i disorder,SP4,7:21460210
-375,rs1054442-<b>A</b>,1e-08,bipolar disorder,DDN,12:48995537
-366,rs17826816-<b>G</b>,1e-08,bipolar disorder,ADCY2,5:7519185
-330,rs55648125-<b>A</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available
-367,rs12202969-<b>A</b>,1e-08,bipolar disorder,EIF4EBP2P3,6:98128347
-744,rs34771152-<b>?</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available
-595,rs10744560-<b>?</b>,1e-08,bipolar disorder,CACNA1C,12:2277933
-595,rs10744560-<b>?</b>,1e-08,bipolar disorder,CACNA1C-IT3,12:2277933
-435,rs12563424-<b>T</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available
-337,rs13236223-<b>T</b>,1e-08,bipolar disorder,BRAF,7:140967165
-337,rs13236223-<b>T</b>,1e-08,bipolar disorder,CCT4P1,7:140967165
-351,rs10129264-<b>T</b>,1e-08,bipolar disorder,BCL11B,14:99237631
-433,rs11887562-<b>A</b>,2e-08,bipolar disorder,LINC01830,2:22400520
-793,rs2693698-<b>A</b>,2e-08,bipolar disorder,BCL11B,14:99252882
-368,rs6550435-<b>G</b>,2e-08,bipolar disorder,TRANK1,3:36822998
-368,rs6550435-<b>G</b>,2e-08,bipolar disorder,LINC02033,3:36822998
-507,rs1012053-<b>A</b>,2e-08,bipolar disorder,DGKH,13:42079301
-326,rs13135092-<b>A</b>,2e-08,bipolar disorder,SLC39A8,4:102276925
-622,rs6922815-<b>?</b>,2e-08,bipolar disorder,UNKNOWN,Mapping not available
-617,rs10043984-<b>?</b>,2e-08,bipolar disorder,KDM3B,5:138376432
-616,rs329319-<b>?</b>,2e-08,bipolar disorder,JADE2,5:134570919
-98,rs3803277-<b>C</b>,2e-08,bipolar i disorder,ALOX5AP,13:30744171
-340,rs912983-<b>T</b>,2e-08,bipolar disorder,CACNB2,10:18454538
-560,rs4765913-<b>A</b>,2e-08,bipolar disorder,CACNA1C,12:2310730
-102,rs28379895-<b>T</b>,2e-08,bipolar i disorder,INSYN1-AS1,15:73856091
-102,rs28379895-<b>T</b>,2e-08,bipolar i disorder,TBC1D21,15:73856091
-106,rs7248205-<b>C</b>,2e-08,bipolar i disorder,ILF3,19:10659629
-322,rs2592118-<b>T</b>,2e-08,bipolar disorder,NGEF,2:232927715
-624,rs1023330-<b>?</b>,2e-08,bipolar disorder,TLCD4-RWDD3,1:95121217
-624,rs1023330-<b>?</b>,2e-08,bipolar disorder,TLCD4,1:95121217
-417,chr6:72519394-<b>?</b>,2e-08,bipolar disorder,UNKNOWN,Mapping not available
-40,rs489337-<b>G</b>,2e-08,bipolar i disorder,PACS1,11:66087090
-383,rs10459221-<b>?</b>,2e-08,bipolar disorder,RHEBL1,12:49073211
-383,rs10459221-<b>?</b>,2e-08,bipolar disorder,DHH,12:49073211
-749,rs7001340-<b>?</b>,2e-08,bipolar disorder,UNKNOWN,Mapping not available
-437,rs72769124-<b>A</b>,2e-08,bipolar disorder,UNKNOWN,1:239046758
-604,rs10497655-<b>?</b>,2e-08,bipolar disorder,MIR548AE1,2:184597314
-604,rs10497655-<b>?</b>,2e-08,bipolar disorder,ZNF804A,2:184597314
-689,rs10973201-<b>T</b>,2e-08,bipolar disorder,EBLN3P,9:37090541
-597,rs6079463-<b>?</b>,2e-08,bipolar disorder,MACROD2,20:14495111
-408,rs9863544-<b>T</b>,2e-08,bipolar disorder,NPHP3-AS1,3:132893820
-767,rs6865469-<b>G</b>,2e-08,bipolar disorder,Y_RNA,5:79553682
-483,rs1039002-<b>?</b>,2e-08,bipolar disorder,PDE10A,6:165741969
-684,rs10255167-<b>G</b>,2e-08,bipolar disorder,BRAF,7:140976353
-684,rs10255167-<b>G</b>,2e-08,bipolar disorder,CCT4P1,7:140976353
-681,rs11742527-<b>G</b>,2e-08,bipolar disorder,DOCK2,5:169916213
-681,rs11742527-<b>G</b>,2e-08,bipolar disorder,INSYN2B,5:169916213
-676,rs8118905-<b>C</b>,2e-08,bipolar disorder,KCNG1,20:50994060
-676,rs8118905-<b>C</b>,2e-08,bipolar disorder,MOCS3,20:50994060
-234,rs112114764-<b>G</b>,2e-08,bipolar disorder,HDAC5,17:44123673
-233,rs11724116-<b>C</b>,2e-08,bipolar disorder,FSTL5,4:161372886
-231,rs10896090-<b>A</b>,2e-08,bipolar disorder,PACS1,11:66177715
-733,rs13006508-<b>?</b>,2e-08,bipolar disorder,UNKNOWN,Mapping not available
-599,rs8179328-<b>?</b>,2e-08,bipolar disorder,UNKNOWN,1:163783451
-423,rs968369-<b>T</b>,2e-08,bipolar disorder,TENM4,11:79442036
-773,rs7199910-<b>T</b>,2e-08,bipolar disorder,GRIN2A,16:9832491
-656,rs6125656-<b>?</b>,2e-08,bipolar disorder,KCNB1,20:49474242
-718,rs5758064-<b>T</b>,2e-08,bipolar disorder,MCHR1,22:40757875
-718,rs5758064-<b>T</b>,2e-08,bipolar disorder,SLC25A17,22:40757875
-694,rs115694474-<b>T</b>,2e-08,bipolar disorder,SAMMSON,3:70439637
-756,rs2239063-<b>?</b>,2e-08,bipolar disorder,UNKNOWN,Mapping not available
-711,rs4331993-<b>T</b>,2e-08,bipolar disorder,SYNE1,6:152472437
-38,rs57957974-<b>A</b>,2e-08,bipolar i disorder,PARP10,8:144002361
-645,rs10149407-<b>?</b>,2e-08,bipolar disorder,PRKD1,14:29718199
-708,rs3088186-<b>C</b>,2e-08,bipolar disorder,MSRA,8:10368845
-720,rs61554907-<b>G</b>,2e-08,bipolar disorder,THRA,17:40064179
-39,rs2305929-<b>G</b>,2e-08,bipolar i disorder,BABAM2,2:27891044
-39,rs2305929-<b>G</b>,2e-08,bipolar i disorder,MRPL33,2:27891044
-704,rs13417268-<b>C</b>,2e-08,bipolar disorder,CERS6,2:168625327
-371,rs1487441-<b>G</b>,3.0000000000000004e-08,bipolar disorder,MIR2113,6:98106018
-371,rs1487441-<b>G</b>,3.0000000000000004e-08,bipolar disorder,EIF4EBP2P3,6:98106018
-677,rs994280-<b>A</b>,3.0000000000000004e-08,bipolar disorder,SPATS2L,2:200375363
-678,rs1440518-<b>A</b>,3.0000000000000004e-08,bipolar disorder,RBMS3,3:29707867
-416,rs10035291-<b>T</b>,3.0000000000000004e-08,bipolar disorder,SSBP2,5:81500549
-5,rs7720655-<b>T</b>,3.0000000000000004e-08,bipolar ii disorder,SLIT3,5:169039564
-697,rs12289486-<b>C</b>,3.0000000000000004e-08,bipolar disorder,TENM4,11:79381483
-86,rs7013693-<b>G</b>,3.0000000000000004e-08,bipolar i disorder,MSRA,8:10023626
-696,rs11870683-<b>T</b>,3.0000000000000004e-08,bipolar disorder,GSDMA,17:39973588
-485,rs2727943-<b>?</b>,3.0000000000000004e-08,bipolar disorder,RPL21P17,3:1856289
-717,rs4790841-<b>C</b>,3.0000000000000004e-08,bipolar disorder,RPA1,17:1932188
-717,rs4790841-<b>C</b>,3.0000000000000004e-08,bipolar disorder,RTN4RL1,17:1932188
-89,rs4748468-<b>G</b>,3.0000000000000004e-08,bipolar i disorder,CACNB2,10:18453325
-760,rs1700006-<b>?</b>,3.0000000000000004e-08,bipolar disorder,UNKNOWN,Mapping not available
-655,rs2068756-<b>?</b>,3.0000000000000004e-08,bipolar disorder,MACROD2,20:14512564
-640,rs72830427-<b>?</b>,3.0000000000000004e-08,bipolar disorder,MXI1,10:110175792
-640,rs72830427-<b>?</b>,3.0000000000000004e-08,bipolar disorder,SNRPGP12,10:110175792
-641,rs12805133-<b>?</b>,3.0000000000000004e-08,bipolar disorder,SPTBN2,11:66715794
-381,rs10884920-<b>?</b>,3.0000000000000004e-08,bipolar disorder,ADD3,10:110015049
-782,rs55648125-<b>?</b>,3.0000000000000004e-08,bipolar disorder,UNKNOWN,Mapping not available
-425,rs7969091-<b>A</b>,3.0000000000000004e-08,bipolar disorder,DHH,12:49070666
-425,rs7969091-<b>A</b>,3.0000000000000004e-08,bipolar disorder,RHEBL1,12:49070666
-428,rs112114764-<b>T</b>,3.0000000000000004e-08,bipolar disorder,HDAC5,17:44123673
-649,rs28681284-<b>?</b>,3.0000000000000004e-08,bipolar disorder,CHRNA3,15:78616223
-42,rs112968809-<b>A</b>,3.0000000000000004e-08,bipolar i disorder,CDAN1,15:42738205
-42,rs112968809-<b>A</b>,3.0000000000000004e-08,bipolar i disorder,TTBK2,15:42738205
-346,rs35774874-<b>T</b>,3.0000000000000004e-08,bipolar disorder,SNX19,11:130941461
-346,rs35774874-<b>T</b>,3.0000000000000004e-08,bipolar disorder,RN7SL167P,11:130941461
-336,rs2966424-<b>A</b>,3.0000000000000004e-08,bipolar disorder,UNKNOWN,7:110549887
-68,rs1510606-<b>G</b>,3.0000000000000004e-08,bipolar i disorder,NUTF2P8,2:21308394
-334,rs17156675-<b>T</b>,3.0000000000000004e-08,bipolar disorder,PCLO,7:82793089
-238,chr6_72519394_D-<b>?</b>,3.0000000000000004e-08,bipolar disorder,UNKNOWN,Mapping not available
-764,rs62581014-<b>C</b>,3.0000000000000004e-08,bipolar disorder,TUBBP5,9:138172038
-235,chr15_85357857_I-<b>?</b>,3.0000000000000004e-08,bipolar disorder,UNKNOWN,Mapping not available
-731,rs12563424-<b>?</b>,3.0000000000000004e-08,bipolar disorder,UNKNOWN,Mapping not available
-70,rs4676412-<b>G</b>,3.0000000000000004e-08,bipolar i disorder,GPR35,2:240614075
-70,rs4676412-<b>G</b>,3.0000000000000004e-08,bipolar i disorder,CAPN10,2:240614075
-379,rs1203233-<b>?</b>,4e-08,bipolar disorder,SYNE1,6:152393471
-786,rs1998820-<b>T</b>,4e-08,bipolar disorder,CACNB2,10:18462174
-241,rs10455979-<b>G</b>,4e-08,bipolar disorder,RPS6KA2,6:166581772
-787,rs2011302-<b>T</b>,4e-08,bipolar disorder,PCGEM1,2:192873610
-787,rs2011302-<b>T</b>,4e-08,bipolar disorder,SLC44A3P1,2:192873610
-99,rs1924817-<b>A</b>,4e-08,bipolar i disorder,B3GLCT,13:31269461
-97,rs12315174-<b>G</b>,4e-08,bipolar i disorder,IFT81,12:110148473
-769,rs6946056-<b>A</b>,4e-08,bipolar disorder,PLXNA4,7:132185838
-771,rs696366-<b>C</b>,4e-08,bipolar disorder,LINC00636,3:108038213
-771,rs696366-<b>C</b>,4e-08,bipolar disorder,CD47,3:108038213
-358,rs7499750-<b>A</b>,4e-08,bipolar disorder,UNKNOWN,16:13655408
-349,rs740417-<b>A</b>,4e-08,bipolar disorder,CACNA1C,12:2390683
-320,rs34388051-<b>A</b>,4e-08,bipolar disorder,PLCL1,2:198064359
-615,rs4604142-<b>?</b>,4e-08,bipolar disorder,ZSWIM6,5:61346768
-331,rs9350984-<b>T</b>,4e-08,bipolar disorder,SNAP91,6:83570203
-633,rs2966422-<b>?</b>,4e-08,bipolar disorder,UNKNOWN,7:110538893
-619,rs2910032-<b>?</b>,4e-08,bipolar disorder,LINC01470,5:153160794
-112,rs11127876-<b>?</b>,5e-08,bipolar i disorder,CADM2,3:85075546
-104,rs11650008-<b>C</b>,5e-08,bipolar i disorder,PIGW,17:36536882
-104,rs11650008-<b>C</b>,5e-08,bipolar i disorder,MYO19,17:36536882
-727,rs7267348-<b>?</b>,5e-08,bipolar disorder,UNKNOWN,Mapping not available
-44,rs2240917-<b>T</b>,5e-08,bipolar i disorder,ITIH4,3:52817121
-794,rs2719164-<b>A</b>,5e-08,bipolar disorder,SEC61GP1,2:193573164
-794,rs2719164-<b>A</b>,5e-08,bipolar disorder,DNAJC17P1,2:193573164
-242,rs7544145-<b>T</b>,5e-08,bipolar disorder,PLEKHO1,1:150166501
-242,rs7544145-<b>T</b>,5e-08,bipolar disorder,RN7SL480P,1:150166501
-687,rs10761661-<b>C</b>,5e-08,bipolar disorder,ALDH7A1P4,10:62765375
-687,rs10761661-<b>C</b>,5e-08,bipolar disorder,ADO,10:62765375
-730,rs1841565-<b>?</b>,5e-08,bipolar disorder,UNKNOWN,Mapping not available
-243,rs11624408-<b>A</b>,5e-08,bipolar disorder,UNKNOWN,Mapping not available
-406,rs10875914-<b>G</b>,6.000000000000001e-08,bipolar disorder,KMT2D,12:49028311
-244,rs11231677-<b>G</b>,6.000000000000001e-08,bipolar disorder,MACROD1,11:64017876
-45,rs1850-<b>C</b>,6.000000000000001e-08,bipolar i disorder,KCNG1,20:51003734
-514,rs420259-<b>A</b>,6.000000000000001e-08,bipolar disorder,PALB2,16:23622705
-484,rs12563333-<b>?</b>,6.000000000000001e-08,bipolar disorder,LINC02779,1:220484892
-484,rs12563333-<b>?</b>,6.000000000000001e-08,bipolar disorder,PRELID3BP1,1:220484892
-403,rs4523096-<b>A</b>,7e-08,bipolar disorder,SYNE1,6:152472277
-370,rs1006737-<b>?</b>,7e-08,bipolar disorder,CACNA1C,12:2236129
-504,rs1006737-<b>A</b>,7e-08,bipolar disorder,CACNA1C,12:2236129
-46,rs9295358-<b>A</b>,7e-08,bipolar i disorder,RPS6KA2,6:166646138
-246,rs55648125-<b>G</b>,8e-08,bipolar disorder,UNKNOWN,Mapping not available
-245,rs62535709-<b>T</b>,8e-08,bipolar disorder,ZCCHC7,9:37166192
-111,rs75928006-<b>?</b>,9e-08,bipolar i disorder,RNU6-751P,19:53751134
-111,rs75928006-<b>?</b>,9e-08,bipolar i disorder,MIR522,19:53751134
-247,rs17150022-<b>C</b>,9e-08,bipolar disorder,GSDME,7:24732158
-2,chr21_26773583_D-<b>?</b>,9e-08,bipolar ii disorder,UNKNOWN,Mapping not available
-4,rs79143696-<b>C</b>,9e-08,bipolar ii disorder,KRTAP5-11,11:71576909
-4,rs79143696-<b>C</b>,9e-08,bipolar ii disorder,KRTAP5-10,11:71576909
-48,rs6848834-<b>T</b>,1e-07,bipolar i disorder,IL21,4:122588558
-386,rs10896135-<b>G</b>,1e-07,bipolar disorder,C11orf80,11:66783531
-568,rs1171113-<b>C</b>,1e-07,bipolar disorder,PRSS35,6:83516876
-114,rs10106565-<b>?</b>,1e-07,bipolar i disorder,ERI1,8:8997522
-114,rs10106565-<b>?</b>,1e-07,bipolar i disorder,RPL10P19,8:8997522
-47,rs4794820-<b>G</b>,1e-07,bipolar i disorder,LRRC3C,17:39933091
-396,rs329674-<b>A</b>,1e-07,bipolar disorder,IGSF9B,11:133907053
-448,rs17418283-<b>C</b>,1e-07,bipolar disorder,MCTP1,5:94818883
-250,rs2635253-<b>T</b>,1e-07,bipolar disorder,LINC01378,4:117551578
-249,rs9371601-<b>T</b>,1e-07,bipolar disorder,SYNE1,6:152469438
-248,rs74446114-<b>C</b>,1e-07,bipolar disorder,MRPL33,2:27843255
-248,rs74446114-<b>C</b>,1e-07,bipolar disorder,RBKS,2:27843255
-251,rs72745470-<b>G</b>,1e-07,bipolar disorder,IQCH,15:67361344
-251,rs72745470-<b>G</b>,1e-07,bipolar disorder,IQCH-AS1,15:67361344
-446,rs1042779-<b>A</b>,2e-07,bipolar disorder,ITIH1,3:52786995
-50,rs57681866-<b>G</b>,2e-07,bipolar i disorder,ACTG1P22,2:57748579
-6,rs960145-<b>A</b>,2e-07,bipolar i disorder,RPS6KA2,6:166583503
-49,rs10147900-<b>T</b>,2e-07,bipolar i disorder,LINC02280,14:104625694
-49,rs10147900-<b>T</b>,2e-07,bipolar i disorder,TMEM179,14:104625694
-51,rs10092482-<b>T</b>,2e-07,bipolar i disorder,RRS1-AS1,8:66342488
-116,"rs12568010-<b>A</b>, rs1125777-<b>C</b>",2e-07,bipolar disorder,NFIA; No mapped genes,1:61366266
-52,rs2052387-<b>A</b>,2e-07,bipolar i disorder,RPSAP12,12:68483007
-52,rs2052387-<b>A</b>,2e-07,bipolar i disorder,LINC02384,12:68483007
-257,rs2463709-<b>T</b>,2e-07,bipolar disorder,RIMS1,6:72155201
-256,rs4301023-<b>T</b>,2e-07,bipolar disorder,UNKNOWN,Mapping not available
-255,rs884301-<b>T</b>,2e-07,bipolar disorder,HLF,17:55290103
-391,rs72874541-<b>G</b>,2e-07,bipolar disorder,LINC00698,3:63148173
-391,rs72874541-<b>G</b>,2e-07,bipolar disorder,UBL5P3,3:63148173
-440,rs472913-<b>C</b>,2e-07,bipolar disorder,LINC01748,1:60629886
-253,rs12594483-<b>A</b>,2e-07,bipolar disorder,CDAN1,15:42729788
-398,rs76317718-<b>G</b>,2e-07,bipolar disorder,ARHGEF15,17:8319459
-668,rs6066295-<b>A</b>,2e-07,bipolar disorder,LINC01754,20:47381100
-668,rs6066295-<b>A</b>,2e-07,bipolar disorder,ZMYND8,20:47381100
-254,rs329319-<b>A</b>,2e-07,bipolar disorder,JADE2,5:134570919
-670,rs211137-<b>T</b>,2e-07,bipolar disorder,SERGEF,11:18004914
-53,rs10058613-<b>C</b>,2e-07,bipolar i disorder,KDM3B,5:138358306
-54,rs11972012-<b>G</b>,2e-07,bipolar i disorder,MYO1G,7:44946070
-54,rs11972012-<b>G</b>,2e-07,bipolar i disorder,PURB,7:44946070
-55,rs13231398-<b>G</b>,2e-07,bipolar i disorder,UNKNOWN,7:110557355
-115,"rs12568010-<b>A</b>, rs1125777-<b>C</b>, rs41453448-<b>G</b>",2e-07,bipolar disorder,NFIA; No mapped genes; No mapped genes,1:61366266
-1,rs72761817-<b>G</b>,3e-07,bipolar ii disorder,OXCT1,5:41654144
-384,rs12334475-<b>T</b>,3e-07,bipolar disorder,UNKNOWN,8:142064186
-259,rs62085738-<b>A</b>,3e-07,bipolar disorder,ARIH2P1,18:28736659
-7,rs181957530-<b>C</b>,3e-07,bipolar i disorder,FSTL5,4:161420812
-8,rs6090435-<b>G</b>,3e-07,bipolar i disorder,EEF1A2,20:63501358
-8,rs6090435-<b>G</b>,3e-07,bipolar i disorder,PPDPF,20:63501358
-669,rs8039223-<b>A</b>,3e-07,bipolar disorder,TUBGCP5,15:23015662
-9,rs17395886-<b>C</b>,3e-07,bipolar i disorder,FSTL5,4:161358233
-10,rs6065777-<b>T</b>,3e-07,bipolar i disorder,STK4,20:45041000
-12,rs73222936-<b>A</b>,3e-07,bipolar i disorder,MESTP3,4:28921093
-12,rs73222936-<b>A</b>,3e-07,bipolar i disorder,LINC02364,4:28921093
-128,rs41350144-<b>T</b>,3e-07,bipolar disorder,NFIA,1:61350127
-132,rs7567409-<b>A</b>,3e-07,bipolar disorder,BABAM2,2:28293404
-133,rs12898460-<b>C</b>,3e-07,bipolar disorder,LINC02694,15:38694612
-13,chr2_181742430_D-<b>?</b>,3e-07,bipolar i disorder,UNKNOWN,Mapping not available
-14,rs12754946-<b>T</b>,3e-07,bipolar i disorder,AK5,1:77524238
-134,rs63722863-<b>G</b>,3e-07,bipolar disorder,KIF15,3:44780094
-559,rs10994397-<b>T</b>,3e-07,bipolar disorder,ANK3,10:60519366
-479,rs17746001-<b>T</b>,3e-07,bipolar disorder,UNKNOWN,4:179734472
-490,rs12899449-<b>?</b>,4e-07,bipolar disorder,LINC02694,15:38703290
-667,rs17679321-<b>A</b>,4e-07,bipolar disorder,PEBP4,8:22916776
-397,rs185880008-<b>T</b>,4e-07,bipolar disorder,CPNE8,12:38807668
-140,rs12833856-<b>G</b>,4e-07,bipolar disorder,RPL29P25,12:110824378
-140,rs12833856-<b>G</b>,4e-07,bipolar disorder,PPP1CC,12:110824378
-395,rs78089757-<b>A</b>,4e-07,bipolar disorder,RPS27P18,10:125424260
-118,"rs7556462-<b>C</b>, rs4915737-<b>C</b>",4e-07,bipolar disorder,NFIA; No mapped genes,1:61356147
-402,rs2205829-<b>G</b>,4e-07,bipolar disorder,ZNF184,6:27512448
-402,rs2205829-<b>G</b>,4e-07,bipolar disorder,HNRNPA1P1,6:27512448
-409,rs4245147-<b>C</b>,4e-07,bipolar disorder,DRD2,11:113447285
-135,rs66752127-<b>G</b>,4e-07,bipolar disorder,PDE3B,11:14767417
-136,rs1477143-<b>T</b>,4e-07,bipolar disorder,HLF,17:55258467
-136,rs1477143-<b>T</b>,4e-07,bipolar disorder,STXBP4,17:55258467
-137,chr17_49345320_D-<b>?</b>,4e-07,bipolar disorder,UNKNOWN,Mapping not available
-138,rs73496688-<b>A</b>,4e-07,bipolar disorder,TENM4,11:79445704
-393,rs3931398-<b>A</b>,4e-07,bipolar disorder,MAD1L1,7:1991957
-117,"rs7556462-<b>C</b>, rs17121983-<b>C</b>",4e-07,bipolar disorder,NFIA; No mapped genes,1:61356147
-22,rs1331621-<b>T</b>,4e-07,bipolar i disorder,BRINP1,9:119412084
-21,rs546671-<b>A</b>,4e-07,bipolar i disorder,LINC01748,1:60628168
-20,rs56158970-<b>G</b>,4e-07,bipolar i disorder,LINC01392,7:115282097
-19,rs35755081-<b>A</b>,4e-07,bipolar i disorder,RNU4-74P,7:141068359
-19,rs35755081-<b>A</b>,4e-07,bipolar i disorder,TMEM178B,7:141068359
-17,rs60960031-<b>G</b>,4e-07,bipolar i disorder,NUTF2P8,2:21307787
-388,rs1842329-<b>T</b>,4e-07,bipolar disorder,UNKNOWN,12:98170438
-142,chr11_47580062_D-<b>?</b>,5e-07,bipolar disorder,UNKNOWN,Mapping not available
-518,rs12938916-<b>?</b>,5e-07,bipolar disorder,RN7SKP94,17:57788926
-518,rs12938916-<b>?</b>,5e-07,bipolar disorder,CCDC182,17:57788926
-141,rs7222752-<b>G</b>,5e-07,bipolar disorder,NPTX1,17:80489926
-141,rs7222752-<b>G</b>,5e-07,bipolar disorder,RPL32P31,17:80489926
-401,rs9393813-<b>A</b>,5e-07,bipolar disorder,ZNF204P,6:27363817
-401,rs9393813-<b>A</b>,5e-07,bipolar disorder,ZNF391,6:27363817
-586,rs2709736-<b>G</b>,5e-07,bipolar disorder,SP8,7:20822683
-586,rs2709736-<b>G</b>,5e-07,bipolar disorder,RPL23P8,7:20822683
-28,rs7314975-<b>A</b>,5e-07,bipolar i disorder,DHH,12:49083734
-28,rs7314975-<b>A</b>,5e-07,bipolar i disorder,RHEBL1,12:49083734
-25,rs8047469-<b>G</b>,5e-07,bipolar i disorder,PRSS36,16:31140200
-24,rs78381888-<b>A</b>,5e-07,bipolar i disorder,ANKRD23,2:96835038
-24,rs78381888-<b>A</b>,5e-07,bipolar i disorder,CNNM3,2:96835038
-23,rs78014668-<b>C</b>,5e-07,bipolar i disorder,MAPK8IP1,11:45892443
-144,rs72966520-<b>C</b>,6e-07,bipolar disorder,TLCD4-RWDD3,1:95142777
-144,rs72966520-<b>C</b>,6e-07,bipolar disorder,TLCD4,1:95142777
-130,rs114034759-<b>A</b>,6e-07,bipolar disorder,MKLN1,7:131128204
-56,rs1948223-<b>C</b>,6e-07,bipolar i disorder,LINC01378,4:117624232
-29,rs3026433-<b>G</b>,6e-07,bipolar i disorder,ATP2A2,12:110281387
-143,rs8067817-<b>T</b>,6e-07,bipolar disorder,PSMD3,17:40007683
-143,rs8067817-<b>T</b>,6e-07,bipolar disorder,CSF3,17:40007683
-146,rs5754941-<b>C</b>,6e-07,bipolar disorder,MAPK1,22:21747706
-146,rs5754941-<b>C</b>,6e-07,bipolar disorder,YPEL1,22:21747706
-145,rs11709009-<b>A</b>,6e-07,bipolar disorder,VIPR1,3:42473630
-145,rs11709009-<b>A</b>,6e-07,bipolar disorder,RPL35AP8,3:42473630
-394,rs35425515-<b>C</b>,7e-07,bipolar disorder,SLIT1,10:97119904
-527,rs514636-<b>?</b>,7e-07,bipolar disorder,LAMP3,3:183152648
-390,rs186197500-<b>A</b>,7e-07,bipolar disorder,RASAL2,1:178131084
-150,rs10878840-<b>G</b>,7e-07,bipolar disorder,LINC02384,12:68487269
-150,rs10878840-<b>G</b>,7e-07,bipolar disorder,RPSAP12,12:68487269
-0,rs147650109-<b>G</b>,7e-07,bipolar ii disorder,ADGRE1,19:6908884
-571,rs2333194-<b>?</b>,7e-07,bipolar disorder,NUMB,14:73300506
-57,rs7613933-<b>G</b>,7e-07,bipolar i disorder,WDR49,3:167586401
-113,rs7914868-<b>?</b>,7e-07,bipolar i disorder,CUBN,10:16931723
-149,rs778433-<b>A</b>,7e-07,bipolar disorder,LGMNP1,13:65233151
-149,rs778433-<b>A</b>,7e-07,bipolar disorder,STARP1,13:65233151
-147,rs74577022-<b>A</b>,7e-07,bipolar disorder,BICRA,19:47601390
-147,rs74577022-<b>A</b>,7e-07,bipolar disorder,RN7SL322P,19:47601390
-148,rs116403057-<b>A</b>,7e-07,bipolar disorder,TSBP1-AS1,6:32335895
-148,rs116403057-<b>A</b>,7e-07,bipolar disorder,TSBP1,6:32335895
-58,rs6079463-<b>G</b>,8e-07,bipolar i disorder,MACROD2,20:14495111
-59,rs998817-<b>T</b>,8e-07,bipolar i disorder,LINC01378,4:117548415
-60,rs115858175-<b>G</b>,8e-07,bipolar i disorder,LINC01221,1:199032122
-61,rs111998037-<b>C</b>,8e-07,bipolar i disorder,ANKHD1-EIF4EBP3,5:140418422
-61,rs111998037-<b>C</b>,8e-07,bipolar i disorder,ANKHD1,5:140418422
-62,rs9521159-<b>G</b>,8e-07,bipolar i disorder,MYO16,13:109076822
-151,rs907162-<b>C</b>,8e-07,bipolar disorder,ASAP2,2:9270500
-152,rs13411201-<b>A</b>,8e-07,bipolar disorder,IFITM3P9,2:60680195
-152,rs13411201-<b>A</b>,8e-07,bipolar disorder,RN7SL361P,2:60680195
-153,rs2956395-<b>C</b>,8e-07,bipolar disorder,MYRF-AS1,11:61752514
-154,rs17680579-<b>A</b>,8e-07,bipolar disorder,LAMA4-AS1,6:112269480
-392,rs115769866-<b>A</b>,8e-07,bipolar disorder,ZBED9,6:28545105
-392,rs115769866-<b>A</b>,8e-07,bipolar disorder,GPX5,6:28545105
-399,rs61580878-<b>A</b>,9e-07,bipolar disorder,LINC01643,22:34102046
-262,rs62433108-<b>G</b>,9e-07,bipolar disorder,DCBLD1,6:117483634
-63,rs11917269-<b>G</b>,9e-07,bipolar i disorder,CACNA2D2,3:50443604
-480,rs17040430-<b>T</b>,9e-07,bipolar disorder,CMKLR1,12:108349043
-480,rs17040430-<b>T</b>,9e-07,bipolar disorder,LINC01498,12:108349043
-528,rs6844851-<b>?</b>,9e-07,bipolar disorder,UNKNOWN,4:179766847
-270,rs2345964-<b>A</b>,1e-06,bipolar disorder,UNKNOWN,1:163781667
-452,rs2242663-<b>T</b>,1e-06,bipolar disorder,CTSF,11:66567837
-263,rs1819204-<b>A</b>,1e-06,bipolar disorder,CUL4A,13:113229001
-264,rs184148144-<b>T</b>,1e-06,bipolar disorder,SLAIN2,4:48443799
-264,rs184148144-<b>T</b>,1e-06,bipolar disorder,SLC10A4,4:48443799
-265,rs143577122-<b>C</b>,1e-06,bipolar disorder,UNKNOWN,7:145943513
-266,rs4845399-<b>T</b>,1e-06,bipolar disorder,KCNN3,1:154893617
-266,rs4845399-<b>T</b>,1e-06,bipolar disorder,PMVK,1:154893617
-268,rs35955717-<b>T</b>,1e-06,bipolar disorder,AKAP6,14:32925854
-268,rs35955717-<b>T</b>,1e-06,bipolar disorder,NPAS3,14:32925854
-269,chr1_95580645_I-<b>?</b>,1e-06,bipolar disorder,UNKNOWN,Mapping not available
-272,rs206949-<b>A</b>,1e-06,bipolar disorder,COX6A1,12:120384246
-272,rs206949-<b>A</b>,1e-06,bipolar disorder,RPS27P25,12:120384246
-273,rs6529693-<b>G</b>,1e-06,bipolar disorder,HUWE1,X:53707621
-274,rs976498-<b>T</b>,1e-06,bipolar disorder,PPIAP48,16:64687040
-275,rs3911862-<b>A</b>,1e-06,bipolar disorder,RPS15AP15,2:65532537
-275,rs3911862-<b>A</b>,1e-06,bipolar disorder,RN7SL635P,2:65532537
-276,rs12153740-<b>C</b>,1e-06,bipolar disorder,LINC01470,5:152697204
-277,chr12_110877946_I-<b>?</b>,1e-06,bipolar disorder,UNKNOWN,Mapping not available
-278,rs142370491-<b>C</b>,1e-06,bipolar disorder,AKAP6,14:32749087
-569,rs11710433-<b>?</b>,1e-06,bipolar disorder,UNKNOWN,3:5663365
-532,rs914715-<b>?</b>,1e-06,bipolar disorder,TLE4,9:79695983
-542,rs12618769-<b>T</b>,1e-06,bipolar disorder,MGAT4A,2:98623468
-672,rs62009532-<b>A</b>,1e-06,bipolar disorder,TUBGCP5,15:22996158
-550,rs2070615-<b>G</b>,1e-06,bipolar disorder,CACNB3,12:48824388
-536,rs10134944-<b>?</b>,1e-06,bipolar disorder,SLC35F4,14:57652478
-64,rs7858026-<b>T</b>,1e-06,bipolar i disorder,ASTN2,9:117186184
-520,rs3761218-<b>?</b>,1e-06,bipolar disorder,CDC25B,20:3795528
-65,rs143685090-<b>C</b>,1e-06,bipolar i disorder,RPSAP74,8:89152810
-131,rs10168049-<b>G</b>,1e-06,bipolar disorder,CLASP1,2:121320830
-131,rs10168049-<b>G</b>,1e-06,bipolar disorder,RPS17P7,2:121320830
-282,rs62002181-<b>C</b>,2e-06,bipolar disorder,KRT8P2,14:43505794
-281,rs13006127-<b>C</b>,2e-06,bipolar disorder,CERS6,2:168535393
-283,rs4906364-<b>G</b>,2e-06,bipolar disorder,PPP1R13B,14:103748005
-516,rs2111504-<b>T</b>,2e-06,bipolar disorder,DPY19L3,19:32426549
-521,rs2989476-<b>?</b>,2e-06,bipolar disorder,LINC01748,1:60593587
-165,rs10122788-<b>G</b>,2e-06,bipolar disorder,MVB12B,9:126444553
-284,rs77626951-<b>G</b>,2e-06,bipolar disorder,LINC02149,5:15113630
-120,rs2245641-<b>?</b>,2e-06,bipolar disorder,TTC39B,9:15309930
-120,rs2245641-<b>?</b>,2e-06,bipolar disorder,RPL7P33,9:15309930
-280,rs5990908-<b>C</b>,2e-06,bipolar disorder,UNKNOWN,X:20638387
-285,rs181957530-<b>?</b>,2e-06,bipolar disorder,FSTL5,4:161420812
-538,rs11622475-<b>?</b>,2e-06,bipolar disorder,TDRD9,14:104042739
-166,rs6714647-<b>A</b>,2e-06,bipolar disorder,LYARP1,2:82237883
-167,rs814197-<b>G</b>,2e-06,bipolar disorder,LINC01748,1:60626784
-168,rs10136228-<b>G</b>,2e-06,bipolar disorder,SLC8A3,14:70118552
-170,rs28627084-<b>C</b>,2e-06,bipolar disorder,INSYN1,15:73731297
-170,rs28627084-<b>C</b>,2e-06,bipolar disorder,CD276,15:73731297
-163,rs10860416-<b>G</b>,2e-06,bipolar disorder,ANKS1B,12:99298229
-161,rs6902652-<b>G</b>,2e-06,bipolar disorder,OFCC1,6:10167324
-160,rs56397913-<b>C</b>,2e-06,bipolar disorder,TMEM131,2:97983036
-159,rs191580074-<b>A</b>,2e-06,bipolar disorder,RNA5SP149,3:180084126
-159,rs191580074-<b>A</b>,2e-06,bipolar disorder,PEX5L,3:180084126
-158,rs76420936-<b>A</b>,2e-06,bipolar disorder,KCNN2,5:114086246
-157,rs115462819-<b>C</b>,2e-06,bipolar disorder,RNU6-239P,1:154293485
-157,rs115462819-<b>C</b>,2e-06,bipolar disorder,HAX1,1:154293485
-526,rs4627791-<b>?</b>,2e-06,bipolar disorder,CMTM8,3:32306332
-524,rs1375144-<b>?</b>,2e-06,bipolar disorder,DPP10,2:115483610
-535,rs1568889-<b>?</b>,2e-06,bipolar disorder,HSP90AA2P,11:27987916
-535,rs1568889-<b>?</b>,2e-06,bipolar disorder,KIF18A,11:27987916
-279,rs75580062-<b>T</b>,2e-06,bipolar disorder,CFAP221,2:119565915
-539,rs1344484-<b>?</b>,2e-06,bipolar disorder,PHBP21,16:52878387
-164,rs3004668-<b>G</b>,2e-06,bipolar disorder,IL9RP1,9:138141056
-547,rs8099939-<b>T</b>,2e-06,bipolar disorder,GRIK5,19:42016956
-444,rs7250872-<b>T</b>,2e-06,bipolar disorder,ATP8B3,19:1811604
-564,rs736408-<b>C</b>,2e-06,bipolar disorder,ITIH3,3:52801338
-540,rs7247513-<b>?</b>,2e-06,bipolar disorder,ZNF490,19:12580371
-572,rs4450798-<b>T</b>,2e-06,bipolar disorder,LINC00620,3:13695501
-545,rs17197037-<b>A</b>,2e-06,bipolar disorder,HNRNPC,14:21257495
-558,rs6746896-<b>A</b>,2e-06,bipolar disorder,UNKNOWN,Mapping not available
-574,rs10865974-<b>?</b>,2e-06,bipolar disorder,PBRM1,3:52684264
-574,rs10865974-<b>?</b>,2e-06,bipolar disorder,GNL3,3:52684264
-552,rs3845817-<b>T</b>,2e-06,bipolar disorder,RPS15AP15,2:65531391
-552,rs3845817-<b>T</b>,2e-06,bipolar disorder,RN7SL635P,2:65531391
-573,rs11773966-<b>A</b>,2e-06,bipolar disorder,ATP6V1H,8:53642640
-461,rs7041940-<b>?</b>,3e-06,bipolar disorder,GARNL3,9:127347467
-523,rs7570682-<b>?</b>,3e-06,bipolar disorder,TCF23,2:104366809
-523,rs7570682-<b>?</b>,3e-06,bipolar disorder,AHCYP3,2:104366809
-458,rs2314398-<b>?</b>,3e-06,bipolar disorder,CNNM4,2:96747751
-458,rs2314398-<b>?</b>,3e-06,bipolar disorder,LMAN2L,2:96747751
-575,rs3744728-<b>C</b>,3e-06,bipolar disorder,WSCD1,17:6190631
-575,rs3744728-<b>C</b>,3e-06,bipolar disorder,RNU6-1264P,17:6190631
-565,rs12912251-<b>G</b>,3e-06,bipolar disorder,LINC02694,15:38694167
-576,rs2860031-<b>?</b>,3e-06,bipolar disorder,LINC01648,1:30052867
-562,rs7578035-<b>G</b>,3e-06,bipolar disorder,LINC02611,2:98766429
-548,rs6122972-<b>A</b>,3e-06,bipolar disorder,PARD6B,20:50758705
-548,rs6122972-<b>A</b>,3e-06,bipolar disorder,BCAS4,20:50758705
-541,rs2989476-<b>C</b>,3e-06,bipolar disorder,LINC01748,1:60593587
-554,rs4660531-<b>T</b>,3e-06,bipolar disorder,FOXO6,1:41374150
-555,rs2287921-<b>C</b>,3e-06,bipolar disorder,RASIP1,19:48725015
-171,rs140643378-<b>G</b>,3e-06,bipolar disorder,PABPC1L2B,X:73035874
-171,rs140643378-<b>G</b>,3e-06,bipolar disorder,PABPC1L2A,X:73035874
-172,rs59811079-<b>G</b>,3e-06,bipolar disorder,DLGAP2,8:1677566
-173,chr7_131863813_D-<b>?</b>,3e-06,bipolar disorder,UNKNOWN,Mapping not available
-174,chr10_116615129_I-<b>?</b>,3e-06,bipolar disorder,UNKNOWN,Mapping not available
-184,rs17073012-<b>G</b>,3e-06,bipolar disorder,FYN,6:111858435
-175,rs190905111-<b>A</b>,3e-06,bipolar disorder,SEMG1,20:45212068
-175,rs190905111-<b>A</b>,3e-06,bipolar disorder,SEMG2,20:45212068
-177,rs78781559-<b>A</b>,3e-06,bipolar disorder,C12orf76,12:110075511
-177,rs78781559-<b>A</b>,3e-06,bipolar disorder,IFT81,12:110075511
-178,rs4938784-<b>T</b>,3e-06,bipolar disorder,LAYN,11:111542740
-179,rs56662938-<b>A</b>,3e-06,bipolar disorder,TNKS,8:9836046
-179,rs56662938-<b>A</b>,3e-06,bipolar disorder,MIR124-1HG,8:9836046
-181,chr20_33361359_I-<b>?</b>,3e-06,bipolar disorder,UNKNOWN,Mapping not available
-182,rs68093531-<b>C</b>,3e-06,bipolar disorder,SLAMF9,1:159954778
-182,rs68093531-<b>C</b>,3e-06,bipolar disorder,LINC01133,1:159954778
-176,rs142204301-<b>A</b>,3e-06,bipolar disorder,LINC01203,X:13358691
-183,rs79032349-<b>T</b>,3e-06,bipolar disorder,HIVEP2,6:142872951
-665,rs72734311-<b>A</b>,3e-06,bipolar disorder,TLE4,9:79664433
-522,rs4027132-<b>?</b>,3e-06,bipolar disorder,MIR3681HG,2:11897366
-493,rs4130590-<b>?</b>,3e-06,bipolar disorder,GARNL3,9:127345685
-450,rs13409348-<b>G</b>,3e-06,bipolar disorder,CTNNA2,2:79312862
-445,rs6733011-<b>G</b>,3e-06,bipolar disorder,CRACDL,2:98849039
-587,rs17099448-<b>?</b>,3e-06,bipolar disorder,TPI1P1,1:76682734
-587,rs17099448-<b>?</b>,3e-06,bipolar disorder,ST6GALNAC3,1:76682734
-194,rs12468729-<b>G</b>,4e-06,bipolar disorder,SLC4A10,2:161476919
-185,rs436129-<b>G</b>,4e-06,bipolar disorder,VAV3-AS1,1:107969525
-476,rs16966460-<b>?</b>,4e-06,bipolar disorder,SPRED1,15:38219782
-531,rs4739466-<b>?</b>,4e-06,bipolar disorder,SMARCE1P4,8:37084024
-186,rs77516904-<b>G</b>,4e-06,bipolar disorder,NRF1,7:129627460
-187,rs58377812-<b>T</b>,4e-06,bipolar disorder,KPNA4,3:160530034
-188,rs113123846-<b>G</b>,4e-06,bipolar disorder,LINC00970,1:168967834
-189,rs78785751-<b>C</b>,4e-06,bipolar disorder,SRPK2,7:105230141
-460,rs17082664-<b>?</b>,4e-06,bipolar disorder,SYNE1,6:152417619
-494,rs16966460-<b>G</b>,4e-06,bipolar disorder,SPRED1,15:38219782
-464,rs12290811-<b>?</b>,4e-06,bipolar disorder,TENM4,11:79372576
-191,chr12_49463279_D-<b>?</b>,4e-06,bipolar disorder,UNKNOWN,Mapping not available
-508,rs6458307-<b>?</b>,4e-06,bipolar disorder,BICRAL,6:42763377
-190,rs1889339-<b>G</b>,4e-06,bipolar disorder,WNK2,9:93291646
-470,rs216345-<b>?</b>,4e-06,bipolar disorder,UBE2R2-AS1,9:33799372
-496,rs4380451-<b>?</b>,4e-06,bipolar disorder,CMTM8,3:32288005
-451,rs2537859-<b>T</b>,4e-06,bipolar disorder,KIT,4:54616651
-451,rs2537859-<b>T</b>,4e-06,bipolar disorder,LINC02260,4:54616651
-505,rs17082664-<b>G</b>,4e-06,bipolar disorder,SYNE1,6:152417619
-577,rs3934861-<b>?</b>,4e-06,bipolar disorder,MYOM3,1:24105466
-497,rs216345-<b>T</b>,4e-06,bipolar disorder,UBE2R2-AS1,9:33799372
-195,rs7210415-<b>G</b>,4e-06,bipolar disorder,KCTD2,17:75041773
-195,rs7210415-<b>G</b>,4e-06,bipolar disorder,ATP5PD,17:75041773
-195,rs7210415-<b>G</b>,4e-06,bipolar disorder,RN7SL573P,17:75041773
-553,rs2176528-<b>C</b>,4e-06,bipolar disorder,UNKNOWN,2:194007459
-537,rs6574988-<b>?</b>,4e-06,bipolar disorder,LINC01146,14:88093648
-588,rs17622252-<b>?</b>,4e-06,bipolar disorder,CDKAL1,6:21331676
-192,rs17730333-<b>G</b>,4e-06,bipolar disorder,RNA5SP272,8:88364075
-192,rs17730333-<b>G</b>,4e-06,bipolar disorder,MMP16,8:88364075
-489,rs11720452-<b>?</b>,4.9999999999999996e-06,bipolar disorder,SGO1-AS1,3:21207150
-509,rs683395-<b>G</b>,4.9999999999999996e-06,bipolar disorder,LAMP3,3:183152030
-495,rs12436436-<b>C</b>,4.9999999999999996e-06,bipolar disorder,LINC00596,14:23912306
-126,rs2287375-<b>?</b>,4.9999999999999996e-06,bipolar disorder,TMEM63C,14:77218499
-122,rs3750552-<b>?</b>,4.9999999999999996e-06,bipolar disorder,FAM189A2,9:69328086
-119,rs10237317-<b>?</b>,4.9999999999999996e-06,bipolar disorder,AUTS2,7:70580955
-498,rs3821396-<b>A</b>,4.9999999999999996e-06,bipolar disorder,ZNF385D,3:21664877
-196,rs2117096-<b>T</b>,4.9999999999999996e-06,bipolar disorder,MIR378C,10:130881981
-197,rs7015455-<b>C</b>,4.9999999999999996e-06,bipolar disorder,MSRA,8:10367649
-202,rs75677206-<b>C</b>,4.9999999999999996e-06,bipolar disorder,IL12A-AS1,3:160083194
-474,rs307660-<b>?</b>,4.9999999999999996e-06,bipolar disorder,UBAP2,9:33942932
-580,rs2962370-<b>G</b>,4.9999999999999996e-06,bipolar disorder,BASP1-AS1,5:17215335
-580,rs2962370-<b>G</b>,4.9999999999999996e-06,bipolar disorder,BASP1,5:17215335
-579,rs1775715-<b>G</b>,4.9999999999999996e-06,bipolar disorder,KIF5B,10:32020077
-578,rs10255295-<b>G</b>,4.9999999999999996e-06,bipolar disorder,RCC2P3,7:138174020
-578,rs10255295-<b>G</b>,4.9999999999999996e-06,bipolar disorder,Y_RNA,7:138174020
-589,rs9359856-<b>?</b>,4.9999999999999996e-06,bipolar disorder,LYRM2,6:89598266
-589,rs9359856-<b>?</b>,4.9999999999999996e-06,bipolar disorder,ANKRD6,6:89598266
-491,rs8015959-<b>T</b>,4.9999999999999996e-06,bipolar disorder,NPAS3,14:33011716
-534,rs17600642-<b>?</b>,4.9999999999999996e-06,bipolar disorder,ADAMTS14,10:70703238
-662,rs12933065-<b>T</b>,4.9999999999999996e-06,bipolar disorder,CMTR2,16:71347976
-662,rs12933065-<b>T</b>,4.9999999999999996e-06,bipolar disorder,CALB2,16:71347976
-447,rs7427021-<b>G</b>,4.9999999999999996e-06,bipolar disorder,UNKNOWN,3:164044176
-198,rs10492859-<b>A</b>,4.9999999999999996e-06,bipolar disorder,CDH13,16:82828209
-292,rs188076915-<b>G</b>,4.9999999999999996e-06,bipolar disorder,AIFM1,X:130151035
-293,rs7707252-<b>G</b>,4.9999999999999996e-06,bipolar disorder,Y_RNA,5:79544787
-291,rs11162556-<b>A</b>,4.9999999999999996e-06,bipolar disorder,ADGRL4,1:78795698
-459,rs3821396-<b>?</b>,4.9999999999999996e-06,bipolar disorder,ZNF385D,3:21664877
-482,rs289585-<b>?</b>,4.9999999999999996e-06,bipolar disorder,DLC1,8:13403027
-294,rs6829845-<b>A</b>,4.9999999999999996e-06,bipolar disorder,IL21,4:122589611
-481,rs271738-<b>A</b>,4.9999999999999996e-06,bipolar disorder,LINC01354,1:234527144
-481,rs271738-<b>A</b>,4.9999999999999996e-06,bipolar disorder,TARBP1,1:234527144
-467,rs12436436-<b>?</b>,4.9999999999999996e-06,bipolar disorder,LINC00596,14:23912306
-557,rs12730292-<b>C</b>,4.9999999999999996e-06,bipolar disorder,UNKNOWN,1:78789077
-206,rs942516-<b>A</b>,4.9999999999999996e-06,bipolar disorder,BRINP1,9:119363076
-200,rs7581349-<b>G</b>,4.9999999999999996e-06,bipolar disorder,LINC02611,2:98773244
-205,rs1013191-<b>T</b>,4.9999999999999996e-06,bipolar disorder,LINC02096,17:15025416
-205,rs1013191-<b>T</b>,4.9999999999999996e-06,bipolar disorder,CDRT7,17:15025416
-204,chr2_186025770_D-<b>?</b>,4.9999999999999996e-06,bipolar disorder,UNKNOWN,Mapping not available
-201,rs3843751-<b>T</b>,4.9999999999999996e-06,bipolar disorder,SLC44A2,19:10637445
-475,rs7042161-<b>?</b>,6e-06,bipolar disorder,SVEP1,9:110434983
-499,rs1948368-<b>?</b>,6e-06,bipolar disorder,LINC01307,1:101472921
-472,rs1419103-<b>?</b>,6e-06,bipolar disorder,LINC01307,1:101475100
-501,rs2278702-<b>?</b>,6e-06,bipolar disorder,LINC00927,15:80402580
-501,rs2278702-<b>?</b>,6e-06,bipolar disorder,ARNT2,15:80402580
-525,rs2953174-<b>?</b>,6e-06,bipolar disorder,CAPN10-DT,2:240582850
-500,rs544368-<b>T</b>,6e-06,bipolar disorder,SIAE,11:124668099
-465,rs544368-<b>?</b>,6e-06,bipolar disorder,SIAE,11:124668099
-300,rs10005422-<b>T</b>,6e-06,bipolar disorder,LINC02264,4:117740497
-300,rs10005422-<b>T</b>,6e-06,bipolar disorder,LINC01378,4:117740497
-442,rs2905072-<b>A</b>,6e-06,bipolar disorder,GFI1B,9:132969648
-302,chr6_18802039_I-<b>?</b>,6e-06,bipolar disorder,UNKNOWN,Mapping not available
-299,rs8066384-<b>C</b>,6e-06,bipolar disorder,RPTOR,17:80651956
-303,rs189574365-<b>A</b>,6e-06,bipolar disorder,GNA14,9:77685834
-303,rs189574365-<b>A</b>,6e-06,bipolar disorder,GNAQ,9:77685834
-298,rs7971456-<b>C</b>,6e-06,bipolar disorder,WSCD2,12:108202622
-297,rs12392936-<b>A</b>,6e-06,bipolar disorder,RNU6-133P,X:21304805
-297,rs12392936-<b>A</b>,6e-06,bipolar disorder,CNKSR2,X:21304805
-585,rs8040009-<b>C</b>,6e-06,bipolar disorder,C15orf32,15:92501109
-296,rs72673100-<b>C</b>,6e-06,bipolar disorder,LINC00641,14:21205210
-295,chr6_84351889_I-<b>?</b>,6e-06,bipolar disorder,UNKNOWN,Mapping not available
-441,rs6990255-<b>T</b>,6e-06,bipolar disorder,PPP1R3B,8:34269430
-441,rs6990255-<b>T</b>,6e-06,bipolar disorder,RPL10AP3,8:34269430
-301,rs142920219-<b>C</b>,6e-06,bipolar disorder,CAMK1D,10:12489159
-664,rs74680417-<b>T</b>,6e-06,bipolar disorder,TTC39B,9:15216096
-304,rs77015885-<b>A</b>,7e-06,bipolar disorder,LINC02751,11:15509462
-513,rs3761218-<b>C</b>,7e-06,bipolar disorder,CDC25B,20:3795528
-502,rs7226677-<b>G</b>,7e-06,bipolar disorder,COLEC12,18:278796
-502,rs7226677-<b>G</b>,7e-06,bipolar disorder,THOC1-DT,18:278796
-305,rs117450257-<b>G</b>,7e-06,bipolar disorder,SLC12A9,7:100848615
-305,rs117450257-<b>G</b>,7e-06,bipolar disorder,SLC12A9-AS1,7:100848615
-121,rs9995093-<b>?</b>,7e-06,bipolar disorder,PPM1K-DT,4:88299792
-306,rs9895770-<b>T</b>,7e-06,bipolar disorder,PRKCA,17:66538700
-307,rs1378559-<b>T</b>,7e-06,bipolar disorder,CNKSR2,X:21362148
-308,chr16_60146407_D-<b>?</b>,7e-06,bipolar disorder,UNKNOWN,Mapping not available
-311,rs1552246-<b>G</b>,7e-06,bipolar disorder,U2,8:109796715
-314,chr12_57483523_I-<b>?</b>,7e-06,bipolar disorder,UNKNOWN,Mapping not available
-125,rs4467006-<b>?</b>,7e-06,bipolar disorder,TMEM63C,14:77218327
-313,rs7307046-<b>G</b>,7e-06,bipolar disorder,HDAC7,12:47784411
-511,rs10134944-<b>T</b>,7e-06,bipolar disorder,SLC35F4,14:57652478
-581,rs1680005-<b>A</b>,7e-06,bipolar disorder,PIM1,6:37206969
-581,rs1680005-<b>A</b>,7e-06,bipolar disorder,TMEM217,6:37206969
-582,rs12617721-<b>C</b>,7e-06,bipolar disorder,INPP4A,2:98467429
-671,chr11:108892250-<b>?</b>,7e-06,bipolar disorder,UNKNOWN,Mapping not available
-530,rs2609653-<b>?</b>,7e-06,bipolar disorder,RPL10AP3,8:34379474
-510,rs2953145-<b>C</b>,7e-06,bipolar disorder,RNPEPL1,2:240576179
-590,rs4761053-<b>?</b>,7e-06,bipolar disorder,LINC00508,12:128021656
-590,rs4761053-<b>?</b>,7e-06,bipolar disorder,LINC02441,12:128021656
-473,rs1601875-<b>?</b>,7e-06,bipolar disorder,SUMF1,3:3617156
-449,rs6494849-<b>A</b>,7e-06,bipolar disorder,RNU6-745P,15:70188275
-449,rs6494849-<b>A</b>,7e-06,bipolar disorder,TLE3,15:70188275
-663,rs1906292-<b>T</b>,7e-06,bipolar disorder,LINC02513,4:38371374
-478,rs7226677-<b>?</b>,7e-06,bipolar disorder,COLEC12,18:278796
-478,rs7226677-<b>?</b>,7e-06,bipolar disorder,THOC1-DT,18:278796
-469,rs722667-<b>?</b>,7e-06,bipolar disorder,SEPTIN7P14,4:119514966
-469,rs722667-<b>?</b>,7e-06,bipolar disorder,PDE5A,4:119514966
-312,rs12677998-<b>G</b>,7e-06,bipolar disorder,LETM2,8:38391683
-584,rs17079247-<b>T</b>,8e-06,bipolar disorder,LINC00375,13:85091744
-315,rs66506713-<b>T</b>,8e-06,bipolar disorder,RPA1,17:1916217
-315,rs66506713-<b>T</b>,8e-06,bipolar disorder,RTN4RL1,17:1916217
-477,rs703965-<b>?</b>,8e-06,bipolar disorder,ZMIZ1,10:79195310
-208,rs7550853-<b>C</b>,8e-06,bipolar disorder,SMYD3,1:246455643
-123,rs7897194-<b>?</b>,8e-06,bipolar disorder,MIR4675,10:20503405
-209,rs255353-<b>A</b>,8e-06,bipolar disorder,MCTP1,5:94785878
-210,rs73068042-<b>G</b>,8e-06,bipolar disorder,TRANK1,3:36876910
-211,rs16842765-<b>G</b>,8e-06,bipolar disorder,UNKNOWN,2:209292126
-512,rs11622475-<b>C</b>,8e-06,bipolar disorder,TDRD9,14:104042739
-529,rs2286492-<b>?</b>,8e-06,bipolar disorder,FAM126A,7:22945391
-127,rs6510489-<b>?</b>,8e-06,bipolar disorder,KRTDAP,19:35482387
-127,rs6510489-<b>?</b>,8e-06,bipolar disorder,FFAR2,19:35482387
-546,rs1038094-<b>G</b>,9e-06,bipolar disorder,INSYN1,15:73720096
-546,rs1038094-<b>G</b>,9e-06,bipolar disorder,CD276,15:73720096
-556,rs7827290-<b>G</b>,9e-06,bipolar disorder,SLC45A4,8:141290216
-549,rs2289700-<b>A</b>,9e-06,bipolar disorder,CTSH,15:78932341
-124,rs312273-<b>?</b>,9e-06,bipolar disorder,CNTN1,12:40853940
-543,rs7747960-<b>A</b>,9e-06,bipolar disorder,SYNE1,6:152470339
-583,rs1930961-<b>?</b>,9e-06,bipolar disorder,CRYBB2P1,22:25479298
-214,chr7_130876812_D-<b>?</b>,9e-06,bipolar disorder,UNKNOWN,Mapping not available
-215,rs111930716-<b>A</b>,9e-06,bipolar disorder,LINC01505,9:105992588
-544,rs4770394-<b>A</b>,9e-06,bipolar disorder,HMGA1P6,13:23118839
-216,rs6788153-<b>T</b>,9e-06,bipolar disorder,FGF12,3:192499942
-533,rs10982256-<b>?</b>,9e-06,bipolar disorder,WHRN,9:114498554
-666,rs149898505-<b>T</b>,9e-06,bipolar disorder,PHAX,5:126622335
-443,rs1035050-<b>T</b>,9e-06,bipolar disorder,NGFR,17:49486650
-443,rs1035050-<b>T</b>,9e-06,bipolar disorder,LINC02075,17:49486650
-129,rs6124684-<b>?</b>,9e-06,bipolar disorder,KCNS1,20:45092852
-213,chr15_96034210_I-<b>?</b>,9e-06,bipolar disorder,UNKNOWN,Mapping not available
+,variant_and_allele,p_value,trait,gene,location,maf
+72,rs9834970-<b>T</b>,1e-21,bipolar i disorder,LINC02033,3:36814539,0.5017460389214113
+72,rs9834970-<b>T</b>,1e-21,bipolar i disorder,HSPD1P6,3:36814539,0.5017460389214113
+329,rs68188794-<b>T</b>,2e-21,bipolar disorder,UNKNOWN,Mapping not available,0.9314675839066083
+623,rs34706883-<b>?</b>,7e-20,bipolar disorder,H2BC15,6:27837477,-1.0
+623,rs34706883-<b>?</b>,7e-20,bipolar disorder,H4C12,6:27837477,-1.0
+626,rs144447022-<b>?</b>,7e-20,bipolar disorder,OR14J1,6:29276442,-1.0
+626,rs144447022-<b>?</b>,7e-20,bipolar disorder,OR2U2P,6:29276442,-1.0
+780,rs68188794-<b>?</b>,2e-19,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+621,rs75782365-<b>?</b>,3.0000000000000002e-18,bipolar disorder,BTN3A1,6:26408323,-1.0
+755,rs4298967-<b>?</b>,5.0000000000000005e-17,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+778,rs55834529-<b>?</b>,6e-17,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+348,rs4298967-<b>A</b>,1e-16,bipolar disorder,UNKNOWN,Mapping not available,0.32080497905213956
+96,rs11062170-<b>G</b>,2e-16,bipolar i disorder,CACNA1C,12:2239678,0.6950238221281101
+745,rs9834970-<b>?</b>,3e-16,bipolar disorder,LINC02033,3:36814539,-1.0
+745,rs9834970-<b>?</b>,3e-16,bipolar disorder,HSPD1P6,3:36814539,-1.0
+705,rs1487445-<b>C</b>,1e-15,bipolar disorder,EIF4EBP2P3,6:98117335,0.5639898629920013
+705,rs1487445-<b>C</b>,1e-15,bipolar disorder,MIR2113,6:98117335,0.5639898629920013
+703,rs13195402-<b>G</b>,6.0000000000000005e-15,bipolar disorder,BTN2A1,6:26463347,0.973255630985029
+83,rs12154473-<b>A</b>,9.000000000000001e-15,bipolar i disorder,MAD1L1,7:1942546,0.4846093133385951
+31,rs9834970-<b>C</b>,4e-14,bipolar i disorder,LINC02033,3:36814539,0.4982539610785887
+31,rs9834970-<b>C</b>,4e-14,bipolar i disorder,HSPD1P6,3:36814539,0.4982539610785887
+325,rs4481150-<b>T</b>,5e-14,bipolar disorder,ITIH3,3:52803777,0.5096970936610945
+752,rs12241517-<b>?</b>,6e-14,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+693,rs113779084-<b>G</b>,1e-13,bipolar disorder,THSD7A,7:11832161,0.7300688194812069
+722,rs174592-<b>A</b>,1e-13,bipolar disorder,FADS2,11:61851136,0.605993603664074
+746,rs2710323-<b>?</b>,3.0000000000000003e-13,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+791,rs2336147-<b>T</b>,4e-13,bipolar disorder,PBRM1,3:52592427,0.48401270513499206
+342,rs11191582-<b>A</b>,9e-13,bipolar disorder,NT5C2,10:103153896,0.0827621483375959
+618,rs72799190-<b>?</b>,1e-12,bipolar disorder,LINC01470,5:152807563,-1.0
+81,rs12202969-<b>G</b>,1e-12,bipolar i disorder,EIF4EBP2P3,6:98128347,0.5792482795129699
+639,rs7098825-<b>?</b>,1e-12,bipolar disorder,U6,10:102868477,-1.0
+639,rs7098825-<b>?</b>,1e-12,bipolar disorder,BORCS7-ASMT,10:102868477,-1.0
+354,rs71395455-<b>A</b>,2e-12,bipolar disorder,UNKNOWN,Mapping not available,0.8689265536723164
+761,rs71395455-<b>?</b>,2e-12,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+777,rs35050608-<b>?</b>,3e-12,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+650,rs12906474-<b>?</b>,5e-12,bipolar disorder,UBE2Q2P1,15:84566006,-1.0
+373,rs4236274-<b>G</b>,8e-12,bipolar disorder,MAD1L1,7:1856777,0.4205399682371625
+690,rs10994415-<b>T</b>,1e-11,bipolar disorder,ANK3,10:60562276,0.8670314336075206
+352,rs12887734-<b>T</b>,2e-11,bipolar disorder,KLC1,14:103580497,0.27297755188479456
+352,rs12887734-<b>T</b>,2e-11,bipolar disorder,COA8,14:103580497,0.27297755188479456
+110,rs237475-<b>T</b>,2e-11,bipolar i disorder,KCNB1,20:49432969,0.4940464286263711
+789,rs2273738-<b>C</b>,2e-11,bipolar disorder,XPNPEP1,10:109888901,0.9195471596998929
+609,rs769950-<b>?</b>,3e-11,bipolar disorder,FTCDNL1,2:199865305,-1.0
+609,rs769950-<b>?</b>,3e-11,bipolar disorder,RN7SL717P,2:199865305,-1.0
+688,rs10866641-<b>T</b>,3e-11,bipolar disorder,DOCK2,5:169862202,0.5778721085219402
+688,rs10866641-<b>T</b>,3e-11,bipolar disorder,INSYN2B,5:169862202,0.5778721085219402
+357,rs9926049-<b>A</b>,3e-11,bipolar disorder,GRIN2A,16:9846103,0.3420857596611964
+763,rs62489493-<b>C</b>,3e-11,bipolar disorder,MIR124-1HG,8:9906071,0.9333292668049287
+625,rs78676616-<b>?</b>,4e-11,bipolar disorder,RN7SL480P,1:150171103,-1.0
+625,rs78676616-<b>?</b>,4e-11,bipolar disorder,PLEKHO1,1:150171103,-1.0
+765,rs67712855-<b>T</b>,4e-11,bipolar disorder,STK4,20:45053910,0.7183396865734858
+651,rs4702-<b>?</b>,4.9999999999999995e-11,bipolar disorder,FURIN,15:90883330,-1.0
+784,rs58120505-<b>?</b>,4.9999999999999995e-11,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+713,rs4619651-<b>G</b>,4.9999999999999995e-11,bipolar disorder,CNNM4,2:96750416,0.7096876654314452
+713,rs4619651-<b>G</b>,4.9999999999999995e-11,bipolar disorder,LMAN2L,2:96750416,0.7096876654314452
+774,rs748455-<b>T</b>,4.9999999999999995e-11,bipolar disorder,ZSCAN2,15:84606344,0.755214399152991
+95,rs12575685-<b>G</b>,4.9999999999999995e-11,bipolar i disorder,SHANK2,11:70671822,0.7158042069903223
+607,rs2439202-<b>?</b>,6e-11,bipolar disorder,UNKNOWN,2:193513924,-1.0
+414,rs2302417-<b>A</b>,6e-11,bipolar disorder,ITIH1,3:52780240,0.4641831701391445
+76,rs78308718-<b>T</b>,6.999999999999999e-11,bipolar i disorder,ADCY2,5:7533872,0.7942826892535734
+287,rs2302417-<b>T</b>,6.999999999999999e-11,bipolar disorder,ITIH1,3:52780240,0.5358168298608554
+363,rs10994415-<b>C</b>,6.999999999999999e-11,bipolar disorder,ANK3,10:60562276,0.13296856639247945
+602,rs80256351-<b>?</b>,9e-11,bipolar disorder,ACTG1P22,2:57844458,-1.0
+602,rs80256351-<b>?</b>,9e-11,bipolar disorder,VRK2,2:57844458,-1.0
+427,rs11647445-<b>T</b>,9e-11,bipolar disorder,GRIN2A,16:9833109,0.6463404327248141
+317,rs4380187-<b>A</b>,1e-10,bipolar disorder,UNKNOWN,Mapping not available,0.5506331390747535
+759,rs4906338-<b>?</b>,1e-10,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+785,rs80012185-<b>?</b>,1e-10,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+355,rs4702-<b>A</b>,1e-10,bipolar disorder,FURIN,15:90883330,0.5620721222735233
+288,rs11647445-<b>G</b>,1e-10,bipolar disorder,GRIN2A,16:9833109,0.35365956727518594
+385,rs174576-<b>A</b>,1e-10,bipolar disorder,FADS2,11:61836038,0.34132189707366295
+362,rs80256351-<b>A</b>,1e-10,bipolar disorder,ACTG1P22,2:57844458,0.013918872855357346
+362,rs80256351-<b>A</b>,1e-10,bipolar disorder,VRK2,2:57844458,0.013918872855357346
+732,rs72692857-<b>?</b>,1e-10,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+88,rs11137399-<b>T</b>,1e-10,bipolar i disorder,TUBBP5,9:138174172,0.6680254102699841
+87,rs6993953-<b>C</b>,1e-10,bipolar i disorder,PLEC,8:143926153,0.6577554261514028
+648,rs722637-<b>?</b>,1e-10,bipolar disorder,PPP1R13B,14:103795386,-1.0
+93,rs489337-<b>A</b>,2e-10,bipolar i disorder,PACS1,11:66087090,0.3028695846359982
+345,rs2514218-<b>T</b>,2e-10,bipolar disorder,DRD2,11:113522272,0.3516696419922226
+103,rs61074241-<b>C</b>,2e-10,bipolar i disorder,ZNF592,15:84790165,0.7825242718446602
+600,rs2339519-<b>?</b>,2e-10,bipolar disorder,LINC01830,2:22381268,-1.0
+631,rs80195870-<b>?</b>,2e-10,bipolar disorder,GSDME,7:24734849,-1.0
+742,rs2949006-<b>?</b>,2e-10,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+739,rs4380187-<b>?</b>,2e-10,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+724,rs7191999-<b>?</b>,2e-10,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+333,rs116052126-<b>A</b>,2e-10,bipolar disorder,GSDME,7:24735895,0.07866649097377784
+454,rs2271893-<b>G</b>,2e-10,bipolar disorder,LMAN2L,2:96739703,0.7134411217147745
+321,rs1367858-<b>T</b>,3e-10,bipolar disorder,SPATS2L,2:200296048,0.31916357861302275
+407,rs56361249-<b>?</b>,3e-10,bipolar disorder,LMAN2L,2:96714492,-1.0
+795,rs28455634-<b>G</b>,3e-10,bipolar disorder,C16orf72,16:9136959,0.5631357984821572
+795,rs28455634-<b>G</b>,3e-10,bipolar disorder,RPL21P119,16:9136959,0.5631357984821572
+790,rs228768-<b>G</b>,3e-10,bipolar disorder,HDAC5,17:44114525,0.40709860268916426
+455,rs7618915-<b>G</b>,3e-10,bipolar disorder,TWF2,3:52245578,0.6664956735515593
+436,rs72692857-<b>T</b>,4e-10,bipolar disorder,UNKNOWN,Mapping not available,0.8633668607728957
+289,rs10744560-<b>T</b>,4e-10,bipolar disorder,CACNA1C,12:2277933,0.3375225063017645
+289,rs10744560-<b>T</b>,4e-10,bipolar disorder,CACNA1C-IT3,12:2277933,0.3375225063017645
+457,rs4948418-<b>T</b>,4e-10,bipolar disorder,ANK3,10:60425736,0.07232371990712452
+101,rs1197546-<b>A</b>,4e-10,bipolar i disorder,STARD9,15:42610048,0.18496559025939652
+316,rs4619651-<b>A</b>,5e-10,bipolar disorder,CNNM4,2:96750416,0.29031233456855476
+316,rs4619651-<b>A</b>,5e-10,bipolar disorder,LMAN2L,2:96750416,0.29031233456855476
+431,rs111444407-<b>T</b>,5e-10,bipolar disorder,NCAN,19:19247398,0.19814716781365802
+611,rs35346733-<b>?</b>,5e-10,bipolar disorder,CNTN4,3:2479638,-1.0
+389,rs4926298-<b>G</b>,6e-10,bipolar disorder,NFIX,19:13042221,0.6185671749103214
+290,chr7_140700006_I-<b>?</b>,6e-10,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+770,rs6954854-<b>G</b>,6e-10,bipolar disorder,SP4,7:21452971,0.4665960825833774
+429,rs884303-<b>A</b>,6e-10,bipolar disorder,HLF,17:55289939,0.589869966442953
+608,rs6434928-<b>?</b>,8e-10,bipolar disorder,RNU6-1029P,2:197439853,-1.0
+608,rs6434928-<b>?</b>,8e-10,bipolar disorder,SF3B1,2:197439853,-1.0
+67,rs10917509-<b>T</b>,8e-10,bipolar i disorder,HTR6,1:19665573,0.43982844167858043
+217,chr2_194465711_D-<b>?</b>,8e-10,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+596,rs111444407-<b>?</b>,9e-10,bipolar disorder,NCAN,19:19247398,-1.0
+412,chr2:194465711-<b>?</b>,9e-10,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+80,rs55706012-<b>A</b>,1e-09,bipolar i disorder,H2BC9,6:26266083,0.931981141341715
+80,rs55706012-<b>A</b>,1e-09,bipolar i disorder,H3C8,6:26266083,0.931981141341715
+100,rs6495988-<b>C</b>,1e-09,bipolar i disorder,LINC02694,15:38677344,0.8171983356449376
+660,rs10946817-<b>?</b>,1e-09,bipolar disorder,BTN3A2,6:26363828,-1.0
+660,rs10946817-<b>?</b>,1e-09,bipolar disorder,H3C9P,6:26363828,-1.0
+659,rs11682175-<b>?</b>,1e-09,bipolar disorder,ACTG1P22,2:57760458,-1.0
+653,rs12691307-<b>?</b>,1e-09,bipolar disorder,TMEM219,16:29928556,-1.0
+653,rs12691307-<b>?</b>,1e-09,bipolar disorder,KCTD13,16:29928556,-1.0
+637,rs11167136-<b>?</b>,1e-09,bipolar disorder,TSNARE1,8:142229454,-1.0
+719,rs6032110-<b>A</b>,1e-09,bipolar disorder,RBPJL,20:45315683,0.510284139100933
+757,rs4762557-<b>?</b>,1e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+218,rs12226877-<b>A</b>,1e-09,bipolar disorder,FADS1,11:61824435,-1.0
+218,rs12226877-<b>A</b>,1e-09,bipolar disorder,FADS2,11:61824435,-1.0
+219,rs73188321-<b>C</b>,1e-09,bipolar disorder,SRPK2,7:105407711,0.650926416093171
+219,rs73188321-<b>C</b>,1e-09,bipolar disorder,PUS7,7:105407711,0.650926416093171
+675,rs6079469-<b>A</b>,1e-09,bipolar disorder,MACROD2,20:14520495,0.1934435261707989
+632,rs12704290-<b>?</b>,1e-09,bipolar disorder,GRM3-AS1,7:86798310,-1.0
+632,rs12704290-<b>?</b>,1e-09,bipolar disorder,GRM3,7:86798310,-1.0
+628,rs60730-<b>?</b>,1e-09,bipolar disorder,SNAP91,6:83663339,-1.0
+108,rs6073621-<b>A</b>,1e-09,bipolar i disorder,STK4,20:45066802,0.817541883711108
+78,rs10043984-<b>C</b>,1e-09,bipolar i disorder,KDM3B,5:138376432,0.745363299149029
+603,rs4619651-<b>?</b>,1e-09,bipolar disorder,CNNM4,2:96750416,-1.0
+603,rs4619651-<b>?</b>,1e-09,bipolar disorder,LMAN2L,2:96750416,-1.0
+380,rs10994299-<b>?</b>,1e-09,bipolar disorder,ANK3,10:60316870,-1.0
+365,rs12290811-<b>A</b>,1e-09,bipolar disorder,TENM4,11:79372576,0.14632234209356204
+726,rs2011503-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+438,rs2339519-<b>A</b>,2e-09,bipolar disorder,LINC01830,2:22381268,0.4594914718888187
+404,rs4332037-<b>T</b>,2e-09,bipolar disorder,MAD1L1,7:1911173,0.19074312612311753
+699,rs12668848-<b>G</b>,2e-09,bipolar disorder,MAD1L1,7:1981360,0.7658227848101266
+740,rs13003404-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+421,chr10:111745562-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+737,rs6746896-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+221,rs17183814-<b>G</b>,2e-09,bipolar disorder,SCN2A,2:165295879,0.929591712283068
+415,rs3804640-<b>A</b>,2e-09,bipolar disorder,CD47,3:108074862,0.6020850631977119
+716,rs475805-<b>G</b>,2e-09,bipolar disorder,PACS1,11:66081267,0.30167410714285714
+411,rs17183814-<b>A</b>,2e-09,bipolar disorder,SCN2A,2:165295879,0.070408287716932
+692,rs112481526-<b>A</b>,2e-09,bipolar disorder,KIAA1109,4:122154852,0.7566966649020646
+706,rs28565152-<b>G</b>,2e-09,bipolar disorder,ADCY2,5:7542798,0.7773425092641609
+319,rs6434928-<b>A</b>,2e-09,bipolar disorder,RNU6-1029P,2:197439853,0.6667041366906474
+319,rs6434928-<b>A</b>,2e-09,bipolar disorder,SF3B1,2:197439853,0.6667041366906474
+743,rs2880986-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+82,rs10455979-<b>C</b>,2e-09,bipolar i disorder,RPS6KA2,6:166581772,0.7767216642754663
+74,rs9831123-<b>C</b>,2e-09,bipolar i disorder,CADM2,3:85002999,0.5066701958708312
+634,rs13236223-<b>?</b>,2e-09,bipolar disorder,BRAF,7:140967165,-1.0
+634,rs13236223-<b>?</b>,2e-09,bipolar disorder,CCT4P1,7:140967165,-1.0
+73,rs7614498-<b>A</b>,2e-09,bipolar i disorder,PBRM1,3:52584925,0.706754991602911
+361,rs138321-<b>A</b>,2e-09,bipolar disorder,SLC25A17,22:40813300,0.514081524616199
+515,rs1064395-<b>A</b>,2e-09,bipolar disorder,NCAN,19:19250926,0.17690677368987695
+652,rs11647445-<b>?</b>,2e-09,bipolar disorder,GRIN2A,16:9833109,-1.0
+341,rs11191356-<b>A</b>,2e-09,bipolar disorder,SUFU,10:102633732,0.8781766200762389
+341,rs11191356-<b>A</b>,2e-09,bipolar disorder,TRIM8,10:102633732,0.8781766200762389
+772,rs6992333-<b>A</b>,2e-09,bipolar disorder,PLEC,8:143919209,0.5917846522568905
+750,rs4284148-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+606,rs59979824-<b>?</b>,2e-09,bipolar disorder,UNKNOWN,2:192983614,-1.0
+788,rs2126180-<b>G</b>,2e-09,bipolar disorder,LINC01748,1:60639996,0.718839747271683
+359,rs3814883-<b>T</b>,2e-09,bipolar disorder,TAOK2,16:29983601,0.44543650793650796
+695,rs11764361-<b>A</b>,3.0000000000000004e-09,bipolar disorder,PUS7,7:105402782,0.6622113412294052
+695,rs11764361-<b>A</b>,3.0000000000000004e-09,bipolar disorder,SRPK2,7:105402782,0.6622113412294052
+335,rs12704290-<b>A</b>,3.0000000000000004e-09,bipolar disorder,GRM3-AS1,7:86798310,0.11201694017998941
+335,rs12704290-<b>A</b>,3.0000000000000004e-09,bipolar disorder,GRM3,7:86798310,0.11201694017998941
+674,rs12921204-<b>T</b>,3.0000000000000004e-09,bipolar disorder,C16orf72,16:9133864,0.5689506172839506
+674,rs12921204-<b>T</b>,3.0000000000000004e-09,bipolar disorder,RPL21P119,16:9133864,0.5689506172839506
+682,rs1180221-<b>T</b>,3.0000000000000004e-09,bipolar disorder,ME1,6:83243557,-1.0
+382,rs4765913-<b>?</b>,3.0000000000000004e-09,bipolar disorder,CACNA1C,12:2310730,-1.0
+673,rs62533709-<b>T</b>,3.0000000000000004e-09,bipolar disorder,PAX5,9:37003707,0.12408371401253586
+647,rs11624408-<b>?</b>,3.0000000000000004e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+222,rs113779084-<b>A</b>,3.0000000000000004e-09,bipolar disorder,THSD7A,7:11832161,0.269931180518793
+90,rs61846516-<b>C</b>,3.0000000000000004e-09,bipolar i disorder,ANK3,10:60363680,0.9584755403868032
+658,rs760648-<b>?</b>,3.0000000000000004e-09,bipolar disorder,TCF20,22:42175022,-1.0
+387,rs12576775-<b>G</b>,3.0000000000000004e-09,bipolar disorder,UNKNOWN,Mapping not available,0.16357627566757732
+378,rs2302417-<b>?</b>,3.0000000000000004e-09,bipolar disorder,ITIH1,3:52780240,-1.0
+700,rs12672003-<b>A</b>,3.0000000000000004e-09,bipolar disorder,MPP6,7:24607603,0.8984118581259926
+725,rs12919683-<b>?</b>,3.0000000000000004e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+751,rs7095057-<b>?</b>,3.0000000000000004e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+712,rs4447398-<b>A</b>,3.0000000000000004e-09,bipolar disorder,STARD9,15:42612706,0.16929010736995725
+723,rs8039305-<b>?</b>,3.0000000000000004e-09,bipolar disorder,FURIN,15:90879313,-1.0
+736,rs77071813-<b>?</b>,3.0000000000000004e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+714,rs4672-<b>G</b>,3.0000000000000004e-09,bipolar disorder,FKBP2,11:64242407,0.9276200805487818
+792,rs237460-<b>C</b>,4e-09,bipolar disorder,KCNB1,20:49416590,0.5102170460561144
+734,rs12474906-<b>?</b>,4e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+223,chr2_97376407_I-<b>?</b>,4e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+224,rs2388334-<b>G</b>,4e-09,bipolar disorder,EIF4EBP2P3,6:98143746,0.4235574377977766
+224,rs2388334-<b>G</b>,4e-09,bipolar disorder,HLA-DRB5,6:98143746,0.4235574377977766
+418,rs2388334-<b>A</b>,4e-09,bipolar disorder,EIF4EBP2P3,6:98143746,0.5764425622022235
+418,rs2388334-<b>A</b>,4e-09,bipolar disorder,HLA-DRB5,6:98143746,0.5764425622022235
+339,rs11167136-<b>A</b>,4e-09,bipolar disorder,TSNARE1,8:142229454,0.4450014160294534
+598,rs6519227-<b>?</b>,4e-09,bipolar disorder,SLC25A17,22:40723895,-1.0
+598,rs6519227-<b>?</b>,4e-09,bipolar disorder,MCHR1,22:40723895,-1.0
+709,rs35306827-<b>G</b>,4e-09,bipolar disorder,CUL4A,13:113214731,0.779142403388036
+776,rs56208248-<b>?</b>,4e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+715,rs4702-<b>G</b>,4e-09,bipolar disorder,FURIN,15:90883330,0.4379278777264767
+327,rs12055234-<b>A</b>,4e-09,bipolar disorder,RNU6-334P,5:104702059,0.2641933069603336
+410,rs41335055-<b>T</b>,5e-09,bipolar disorder,ACTG1P22,2:57734094,0.056940537394509654
+642,rs2514218-<b>?</b>,5e-09,bipolar disorder,DRD2,11:113522272,-1.0
+350,rs10745843-<b>A</b>,5e-09,bipolar disorder,ANKS1B,12:99102252,0.5881948120698782
+323,rs35346733-<b>A</b>,5e-09,bipolar disorder,CNTN4,3:2479638,0.079292350770014
+679,rs1948246-<b>G</b>,5e-09,bipolar disorder,LINC01378,4:117534962,0.4291344123856439
+680,rs113799727-<b>G</b>,5e-09,bipolar disorder,LINC01470,5:152698812,0.8808599167822468
+344,rs12805133-<b>A</b>,5e-09,bipolar disorder,SPTBN2,11:66715794,0.5577626381893795
+434,rs12136984-<b>T</b>,5e-09,bipolar disorder,RN7SKP19,1:73260315,0.5434218406867638
+434,rs12136984-<b>T</b>,5e-09,bipolar disorder,LINC01360,1:73260315,0.5434218406867638
+766,rs678397-<b>T</b>,5e-09,bipolar disorder,ACTN3,11:66557112,0.4403335235558937
+620,rs215011-<b>?</b>,5e-09,bipolar disorder,CMAHP,6:25384133,-1.0
+620,rs215011-<b>?</b>,5e-09,bipolar disorder,CARMIL1,6:25384133,-1.0
+69,rs2314398-<b>C</b>,5e-09,bipolar i disorder,CNNM4,2:96747751,0.7025963622655734
+69,rs2314398-<b>C</b>,5e-09,bipolar i disorder,LMAN2L,2:96747751,0.7025963622655734
+376,rs2517959-<b>T</b>,5e-09,bipolar disorder,ERBB2,17:39690259,0.641036717062635
+376,rs2517959-<b>T</b>,5e-09,bipolar disorder,PGAP3,17:39690259,0.641036717062635
+94,rs7122539-<b>G</b>,5e-09,bipolar i disorder,PC,11:66895260,0.6501099481585219
+107,rs112219496-<b>G</b>,5e-09,bipolar i disorder,NCAN,19:19247277,0.8019057702488089
+405,rs28456-<b>G</b>,6.000000000000001e-09,bipolar disorder,FADS1,11:61822009,0.20546456570674532
+405,rs28456-<b>G</b>,6.000000000000001e-09,bipolar disorder,FADS2,11:61822009,0.20546456570674532
+328,rs111294930-<b>A</b>,6.000000000000001e-09,bipolar disorder,LINC01470,5:152797561,0.7604552673372155
+644,rs4762559-<b>?</b>,6.000000000000001e-09,bipolar disorder,ANKS1B,12:99104862,-1.0
+432,rs6130764-<b>T</b>,6.000000000000001e-09,bipolar disorder,WFDC12,20:45121769,0.5938334445927904
+432,rs6130764-<b>T</b>,6.000000000000001e-09,bipolar disorder,WFDC5,20:45121769,0.5938334445927904
+747,rs6449529-<b>?</b>,6.000000000000001e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+347,rs2238044-<b>A</b>,6.000000000000001e-09,bipolar disorder,CACNA1C,12:2176565,0.3940160309563295
+374,rs12553324-<b>C</b>,6.000000000000001e-09,bipolar disorder,LINC01239,9:23347867,0.7794964620701004
+374,rs12553324-<b>C</b>,6.000000000000001e-09,bipolar disorder,SUMO2P2,9:23347867,0.7794964620701004
+707,rs2953928-<b>G</b>,6.000000000000001e-09,bipolar disorder,RPL10AP3,8:34294974,0.9444866198519644
+707,rs2953928-<b>G</b>,6.000000000000001e-09,bipolar disorder,VENTXP5,8:34294974,0.9444866198519644
+33,rs10950456-<b>A</b>,6.000000000000001e-09,bipolar i disorder,MAD1L1,7:1940114,0.5870472861442858
+728,rs103197-<b>?</b>,7.000000000000001e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+661,rs740417-<b>?</b>,7.000000000000001e-09,bipolar disorder,CACNA1C,12:2390683,-1.0
+748,rs75836205-<b>?</b>,7.000000000000001e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+77,rs11744542-<b>G</b>,7.000000000000001e-09,bipolar i disorder,Y_RNA,5:79552534,0.7238236424531928
+701,rs12932628-<b>G</b>,7.000000000000001e-09,bipolar disorder,RPL13,16:89566317,0.5326597682337724
+701,rs12932628-<b>G</b>,7.000000000000001e-09,bipolar disorder,CPNE7,16:89566317,0.5326597682337724
+741,rs4685-<b>?</b>,7.000000000000001e-09,bipolar disorder,SF3B1,2:197393071,-1.0
+34,chr5_7587236_D-<b>?</b>,7.000000000000001e-09,bipolar i disorder,UNKNOWN,Mapping not available,-1.0
+225,rs10994318-<b>C</b>,7.000000000000001e-09,bipolar disorder,ANK3,10:60366098,0.07623080995235575
+686,rs10737496-<b>C</b>,7.000000000000001e-09,bipolar disorder,RNA5SP63,1:163776152,0.4404923874311629
+686,rs10737496-<b>C</b>,7.000000000000001e-09,bipolar disorder,U3,1:163776152,0.4404923874311629
+426,rs12902052-<b>A</b>,7.000000000000001e-09,bipolar disorder,ZSCAN2,15:84582607,0.7703563714902808
+426,rs12902052-<b>A</b>,7.000000000000001e-09,bipolar disorder,LINC00933,15:84582607,0.7703563714902808
+226,rs12575685-<b>A</b>,8e-09,bipolar disorder,SHANK2,11:70671822,0.2841957930096777
+638,rs10764493-<b>?</b>,8e-09,bipolar disorder,CACNB2,10:18439070,-1.0
+439,rs12474906-<b>A</b>,8e-09,bipolar disorder,UNKNOWN,Mapping not available,0.8576148136063301
+353,rs28681284-<b>T</b>,8e-09,bipolar disorder,CHRNA3,15:78616223,0.20833333333333334
+654,rs10423874-<b>?</b>,8e-09,bipolar disorder,NCAN,19:19248691,-1.0
+453,rs4650608-<b>T</b>,8e-09,bipolar disorder,UNKNOWN,1:78772330,0.6877519328619573
+519,rs420259-<b>?</b>,9.000000000000001e-09,bipolar disorder,PALB2,16:23622705,-1.0
+487,rs10994336-<b>T</b>,9.000000000000001e-09,bipolar disorder,ANK3,10:60420054,0.06773924578358916
+462,rs109944336-<b>?</b>,9.000000000000001e-09,bipolar disorder,ANK3,10:60420054,-1.0
+753,rs7121067-<b>?</b>,9.000000000000001e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+768,rs6887473-<b>G</b>,9.000000000000001e-09,bipolar disorder,SSBP2,5:81665250,0.7555849655902594
+783,rs9283801-<b>?</b>,9.000000000000001e-09,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+702,rs13044225-<b>A</b>,9.000000000000001e-09,bipolar disorder,OSBPL2,20:62290759,0.5636671077782679
+343,rs484201-<b>T</b>,9.000000000000001e-09,bipolar disorder,MACROD1,11:64023459,0.38764551565830463
+36,rs35958438-<b>G</b>,1e-08,bipolar i disorder,LINC02694,15:38681592,0.7901005823186872
+71,rs735931-<b>A</b>,1e-08,bipolar i disorder,ATP2B2,3:10483412,0.48658685984932526
+79,rs6875495-<b>C</b>,1e-08,bipolar i disorder,VTRNA1-3,5:140727646,0.7914769719428268
+79,rs6875495-<b>C</b>,1e-08,bipolar i disorder,PCDHA1,5:140727646,0.7914769719428268
+629,rs9320913-<b>?</b>,1e-08,bipolar disorder,EIF4EBP2P3,6:98136857,-1.0
+614,rs13135092-<b>?</b>,1e-08,bipolar disorder,SLC39A8,4:102276925,-1.0
+762,rs62011709-<b>T</b>,1e-08,bipolar disorder,HOMER2,15:82863022,0.8551310652537646
+627,rs169738-<b>?</b>,1e-08,bipolar disorder,GGNBP1,6:33569769,-1.0
+318,rs2719169-<b>A</b>,1e-08,bipolar disorder,CNTNAP5,2:193579493,0.41684226369656835
+430,rs11557713-<b>A</b>,1e-08,bipolar disorder,ZCCHC2,18:62576643,0.2402717441538035
+636,rs6984358-<b>?</b>,1e-08,bipolar disorder,FGFR1,8:38427063,-1.0
+646,rs7161596-<b>?</b>,1e-08,bipolar disorder,RGS6,14:71975895,-1.0
+754,rs4309187-<b>?</b>,1e-08,bipolar disorder,TMPRSS5,11:113541721,-1.0
+754,rs4309187-<b>?</b>,1e-08,bipolar disorder,DRD2,11:113541721,-1.0
+338,rs7001340-<b>T</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available,0.8058231868713605
+517,rs9378249-<b>?</b>,1e-08,bipolar disorder,DHFRP2,6:31359924,-1.0
+517,rs9378249-<b>?</b>,1e-08,bipolar disorder,HLA-B,6:31359924,-1.0
+729,rs6694545-<b>?</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+610,rs778353-<b>?</b>,1e-08,bipolar disorder,NGEF,2:232923640,-1.0
+228,chr20_43682549_I-<b>?</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+356,rs11648559-<b>T</b>,1e-08,bipolar disorder,GRIN2A,16:9780842,0.29702371350217777
+229,chr10_111745562_I-<b>?</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+463,rs1938526-<b>?</b>,1e-08,bipolar disorder,ANK3,10:60540625,-1.0
+360,rs4239639-<b>A</b>,1e-08,bipolar disorder,MAU2,19:19325067,0.8356496104443041
+85,rs4722033-<b>G</b>,1e-08,bipolar i disorder,SP4,7:21460210,0.3525674960296453
+375,rs1054442-<b>A</b>,1e-08,bipolar disorder,DDN,12:48995537,0.6242968184682898
+366,rs17826816-<b>G</b>,1e-08,bipolar disorder,ADCY2,5:7519185,0.20873478030704076
+330,rs55648125-<b>A</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available,0.9173696145124717
+367,rs12202969-<b>A</b>,1e-08,bipolar disorder,EIF4EBP2P3,6:98128347,0.4207517204870302
+744,rs34771152-<b>?</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+595,rs10744560-<b>?</b>,1e-08,bipolar disorder,CACNA1C,12:2277933,-1.0
+595,rs10744560-<b>?</b>,1e-08,bipolar disorder,CACNA1C-IT3,12:2277933,-1.0
+435,rs12563424-<b>T</b>,1e-08,bipolar disorder,UNKNOWN,Mapping not available,0.6695140664961636
+337,rs13236223-<b>T</b>,1e-08,bipolar disorder,BRAF,7:140967165,0.7112452350698857
+337,rs13236223-<b>T</b>,1e-08,bipolar disorder,CCT4P1,7:140967165,0.7112452350698857
+351,rs10129264-<b>T</b>,1e-08,bipolar disorder,BCL11B,14:99237631,0.3645697664322306
+433,rs11887562-<b>A</b>,2e-08,bipolar disorder,LINC01830,2:22400520,0.5218932038834951
+793,rs2693698-<b>A</b>,2e-08,bipolar disorder,BCL11B,14:99252882,0.43991885143570536
+368,rs6550435-<b>G</b>,2e-08,bipolar disorder,TRANK1,3:36822998,0.3669190600522193
+368,rs6550435-<b>G</b>,2e-08,bipolar disorder,LINC02033,3:36822998,0.3669190600522193
+507,rs1012053-<b>A</b>,2e-08,bipolar disorder,DGKH,13:42079301,0.8261581341705645
+326,rs13135092-<b>A</b>,2e-08,bipolar disorder,SLC39A8,4:102276925,0.935627316040233
+622,rs6922815-<b>?</b>,2e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+617,rs10043984-<b>?</b>,2e-08,bipolar disorder,KDM3B,5:138376432,-1.0
+616,rs329319-<b>?</b>,2e-08,bipolar disorder,JADE2,5:134570919,-1.0
+98,rs3803277-<b>C</b>,2e-08,bipolar i disorder,ALOX5AP,13:30744171,0.5497206703910614
+340,rs912983-<b>T</b>,2e-08,bipolar disorder,CACNB2,10:18454538,0.05655452436194896
+560,rs4765913-<b>A</b>,2e-08,bipolar disorder,CACNA1C,12:2310730,0.206872420173649
+102,rs28379895-<b>T</b>,2e-08,bipolar i disorder,INSYN1-AS1,15:73856091,0.4941768131286395
+102,rs28379895-<b>T</b>,2e-08,bipolar i disorder,TBC1D21,15:73856091,0.4941768131286395
+106,rs7248205-<b>C</b>,2e-08,bipolar i disorder,ILF3,19:10659629,0.38519791268932163
+322,rs2592118-<b>T</b>,2e-08,bipolar disorder,NGEF,2:232927715,0.4322447248436009
+624,rs1023330-<b>?</b>,2e-08,bipolar disorder,TLCD4-RWDD3,1:95121217,-1.0
+624,rs1023330-<b>?</b>,2e-08,bipolar disorder,TLCD4,1:95121217,-1.0
+417,chr6:72519394-<b>?</b>,2e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+40,rs489337-<b>G</b>,2e-08,bipolar i disorder,PACS1,11:66087090,0.6971304153640018
+383,rs10459221-<b>?</b>,2e-08,bipolar disorder,RHEBL1,12:49073211,-1.0
+383,rs10459221-<b>?</b>,2e-08,bipolar disorder,DHH,12:49073211,-1.0
+749,rs7001340-<b>?</b>,2e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+437,rs72769124-<b>A</b>,2e-08,bipolar disorder,UNKNOWN,1:239046758,0.07524091919940697
+604,rs10497655-<b>?</b>,2e-08,bipolar disorder,MIR548AE1,2:184597314,-1.0
+604,rs10497655-<b>?</b>,2e-08,bipolar disorder,ZNF804A,2:184597314,-1.0
+689,rs10973201-<b>T</b>,2e-08,bipolar disorder,EBLN3P,9:37090541,0.9055816775367814
+597,rs6079463-<b>?</b>,2e-08,bipolar disorder,MACROD2,20:14495111,-1.0
+408,rs9863544-<b>T</b>,2e-08,bipolar disorder,NPHP3-AS1,3:132893820,0.4342380620204198
+767,rs6865469-<b>G</b>,2e-08,bipolar disorder,Y_RNA,5:79553682,0.7319508150994856
+483,rs1039002-<b>?</b>,2e-08,bipolar disorder,PDE10A,6:165741969,-1.0
+684,rs10255167-<b>G</b>,2e-08,bipolar disorder,BRAF,7:140976353,0.29345174197326046
+684,rs10255167-<b>G</b>,2e-08,bipolar disorder,CCT4P1,7:140976353,0.29345174197326046
+681,rs11742527-<b>G</b>,2e-08,bipolar disorder,DOCK2,5:169916213,0.6232413131528459
+681,rs11742527-<b>G</b>,2e-08,bipolar disorder,INSYN2B,5:169916213,0.6232413131528459
+676,rs8118905-<b>C</b>,2e-08,bipolar disorder,KCNG1,20:50994060,0.26211649622054245
+676,rs8118905-<b>C</b>,2e-08,bipolar disorder,MOCS3,20:50994060,0.26211649622054245
+234,rs112114764-<b>G</b>,2e-08,bipolar disorder,HDAC5,17:44123673,0.5344243792325056
+233,rs11724116-<b>C</b>,2e-08,bipolar disorder,FSTL5,4:161372886,0.8508219342452604
+231,rs10896090-<b>A</b>,2e-08,bipolar disorder,PACS1,11:66177715,0.817787188988883
+733,rs13006508-<b>?</b>,2e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+599,rs8179328-<b>?</b>,2e-08,bipolar disorder,UNKNOWN,1:163783451,-1.0
+423,rs968369-<b>T</b>,2e-08,bipolar disorder,TENM4,11:79442036,0.10830097087378641
+773,rs7199910-<b>T</b>,2e-08,bipolar disorder,GRIN2A,16:9832491,0.6249338274219164
+656,rs6125656-<b>?</b>,2e-08,bipolar disorder,KCNB1,20:49474242,-1.0
+718,rs5758064-<b>T</b>,2e-08,bipolar disorder,MCHR1,22:40757875,0.5043188643188643
+718,rs5758064-<b>T</b>,2e-08,bipolar disorder,SLC25A17,22:40757875,0.5043188643188643
+694,rs115694474-<b>T</b>,2e-08,bipolar disorder,SAMMSON,3:70439637,0.9295852280556703
+756,rs2239063-<b>?</b>,2e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+711,rs4331993-<b>T</b>,2e-08,bipolar disorder,SYNE1,6:152472437,0.8595581171950049
+38,rs57957974-<b>A</b>,2e-08,bipolar i disorder,PARP10,8:144002361,0.32795129698253045
+645,rs10149407-<b>?</b>,2e-08,bipolar disorder,PRKD1,14:29718199,-1.0
+708,rs3088186-<b>C</b>,2e-08,bipolar disorder,MSRA,8:10368845,0.7034074524535816
+720,rs61554907-<b>G</b>,2e-08,bipolar disorder,THRA,17:40064179,0.8913710958178931
+39,rs2305929-<b>G</b>,2e-08,bipolar i disorder,BABAM2,2:27891044,0.17215640376439115
+39,rs2305929-<b>G</b>,2e-08,bipolar i disorder,MRPL33,2:27891044,0.17215640376439115
+704,rs13417268-<b>C</b>,2e-08,bipolar disorder,CERS6,2:168625327,0.8654285279342365
+371,rs1487441-<b>G</b>,3.0000000000000004e-08,bipolar disorder,MIR2113,6:98106018,0.5743250397035469
+371,rs1487441-<b>G</b>,3.0000000000000004e-08,bipolar disorder,EIF4EBP2P3,6:98106018,0.5743250397035469
+677,rs994280-<b>A</b>,3.0000000000000004e-08,bipolar disorder,SPATS2L,2:200375363,0.6952718912435026
+678,rs1440518-<b>A</b>,3.0000000000000004e-08,bipolar disorder,RBMS3,3:29707867,0.5385433019361591
+416,rs10035291-<b>T</b>,3.0000000000000004e-08,bipolar disorder,SSBP2,5:81500549,0.5922710428798306
+5,rs7720655-<b>T</b>,3.0000000000000004e-08,bipolar ii disorder,SLIT3,5:169039564,0.8116677581314123
+697,rs12289486-<b>C</b>,3.0000000000000004e-08,bipolar disorder,TENM4,11:79381483,0.9136700521548174
+86,rs7013693-<b>G</b>,3.0000000000000004e-08,bipolar i disorder,MSRA,8:10023626,0.8461698801459093
+696,rs11870683-<b>T</b>,3.0000000000000004e-08,bipolar disorder,GSDMA,17:39973588,0.6996841646700065
+485,rs2727943-<b>?</b>,3.0000000000000004e-08,bipolar disorder,RPL21P17,3:1856289,-1.0
+717,rs4790841-<b>C</b>,3.0000000000000004e-08,bipolar disorder,RPA1,17:1932188,0.8648348157560356
+717,rs4790841-<b>C</b>,3.0000000000000004e-08,bipolar disorder,RTN4RL1,17:1932188,0.8648348157560356
+89,rs4748468-<b>G</b>,3.0000000000000004e-08,bipolar i disorder,CACNB2,10:18453325,0.8943356273160402
+760,rs1700006-<b>?</b>,3.0000000000000004e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+655,rs2068756-<b>?</b>,3.0000000000000004e-08,bipolar disorder,MACROD2,20:14512564,-1.0
+640,rs72830427-<b>?</b>,3.0000000000000004e-08,bipolar disorder,MXI1,10:110175792,-1.0
+640,rs72830427-<b>?</b>,3.0000000000000004e-08,bipolar disorder,SNRPGP12,10:110175792,-1.0
+641,rs12805133-<b>?</b>,3.0000000000000004e-08,bipolar disorder,SPTBN2,11:66715794,-1.0
+381,rs10884920-<b>?</b>,3.0000000000000004e-08,bipolar disorder,ADD3,10:110015049,-1.0
+782,rs55648125-<b>?</b>,3.0000000000000004e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+425,rs7969091-<b>A</b>,3.0000000000000004e-08,bipolar disorder,DHH,12:49070666,0.5835918340831209
+425,rs7969091-<b>A</b>,3.0000000000000004e-08,bipolar disorder,RHEBL1,12:49070666,0.5835918340831209
+428,rs112114764-<b>T</b>,3.0000000000000004e-08,bipolar disorder,HDAC5,17:44123673,0.46557562076749437
+649,rs28681284-<b>?</b>,3.0000000000000004e-08,bipolar disorder,CHRNA3,15:78616223,-1.0
+42,rs112968809-<b>A</b>,3.0000000000000004e-08,bipolar i disorder,CDAN1,15:42738205,0.12231203294189416
+42,rs112968809-<b>A</b>,3.0000000000000004e-08,bipolar i disorder,TTBK2,15:42738205,0.12231203294189416
+346,rs35774874-<b>T</b>,3.0000000000000004e-08,bipolar disorder,SNX19,11:130941461,0.7144408251900108
+346,rs35774874-<b>T</b>,3.0000000000000004e-08,bipolar disorder,RN7SL167P,11:130941461,0.7144408251900108
+336,rs2966424-<b>A</b>,3.0000000000000004e-08,bipolar disorder,UNKNOWN,7:110549887,0.8345078693915903
+68,rs1510606-<b>G</b>,3.0000000000000004e-08,bipolar i disorder,NUTF2P8,2:21308394,0.6397838178192885
+334,rs17156675-<b>T</b>,3.0000000000000004e-08,bipolar disorder,PCLO,7:82793089,0.2842271891686849
+238,chr6_72519394_D-<b>?</b>,3.0000000000000004e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+764,rs62581014-<b>C</b>,3.0000000000000004e-08,bipolar disorder,TUBBP5,9:138172038,0.6574599507859188
+235,chr15_85357857_I-<b>?</b>,3.0000000000000004e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+731,rs12563424-<b>?</b>,3.0000000000000004e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+70,rs4676412-<b>G</b>,3.0000000000000004e-08,bipolar i disorder,GPR35,2:240614075,0.22568716874152595
+70,rs4676412-<b>G</b>,3.0000000000000004e-08,bipolar i disorder,CAPN10,2:240614075,0.22568716874152595
+379,rs1203233-<b>?</b>,4e-08,bipolar disorder,SYNE1,6:152393471,-1.0
+786,rs1998820-<b>T</b>,4e-08,bipolar disorder,CACNB2,10:18462174,0.8947591318157755
+241,rs10455979-<b>G</b>,4e-08,bipolar disorder,RPS6KA2,6:166581772,0.2232783357245337
+787,rs2011302-<b>T</b>,4e-08,bipolar disorder,PCGEM1,2:192873610,0.5850714663843304
+787,rs2011302-<b>T</b>,4e-08,bipolar disorder,SLC44A3P1,2:192873610,0.5850714663843304
+99,rs1924817-<b>A</b>,4e-08,bipolar i disorder,B3GLCT,13:31269461,0.271148755955532
+97,rs12315174-<b>G</b>,4e-08,bipolar i disorder,IFT81,12:110148473,0.7932789144492738
+769,rs6946056-<b>A</b>,4e-08,bipolar disorder,PLXNA4,7:132185838,0.4433497536945813
+771,rs696366-<b>C</b>,4e-08,bipolar disorder,LINC00636,3:108038213,0.5872948650079407
+771,rs696366-<b>C</b>,4e-08,bipolar disorder,CD47,3:108038213,0.5872948650079407
+358,rs7499750-<b>A</b>,4e-08,bipolar disorder,UNKNOWN,16:13655408,0.2883826879271071
+349,rs740417-<b>A</b>,4e-08,bipolar disorder,CACNA1C,12:2390683,0.6322273308538573
+320,rs34388051-<b>A</b>,4e-08,bipolar disorder,PLCL1,2:198064359,0.6959466139396935
+615,rs4604142-<b>?</b>,4e-08,bipolar disorder,ZSWIM6,5:61346768,-1.0
+331,rs9350984-<b>T</b>,4e-08,bipolar disorder,SNAP91,6:83570203,0.2813834329632792
+633,rs2966422-<b>?</b>,4e-08,bipolar disorder,UNKNOWN,7:110538893,-1.0
+619,rs2910032-<b>?</b>,4e-08,bipolar disorder,LINC01470,5:153160794,-1.0
+112,rs11127876-<b>?</b>,5e-08,bipolar i disorder,CADM2,3:85075546,-1.0
+104,rs11650008-<b>C</b>,5e-08,bipolar i disorder,PIGW,17:36536882,0.5297458831973719
+104,rs11650008-<b>C</b>,5e-08,bipolar i disorder,MYO19,17:36536882,0.5297458831973719
+727,rs7267348-<b>?</b>,5e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+44,rs2240917-<b>T</b>,5e-08,bipolar i disorder,ITIH4,3:52817121,0.5526733721545791
+794,rs2719164-<b>A</b>,5e-08,bipolar disorder,SEC61GP1,2:193573164,0.5831522215406187
+794,rs2719164-<b>A</b>,5e-08,bipolar disorder,DNAJC17P1,2:193573164,0.5831522215406187
+242,rs7544145-<b>T</b>,5e-08,bipolar disorder,PLEKHO1,1:150166501,0.7789835892006353
+242,rs7544145-<b>T</b>,5e-08,bipolar disorder,RN7SL480P,1:150166501,0.7789835892006353
+687,rs10761661-<b>C</b>,5e-08,bipolar disorder,ALDH7A1P4,10:62765375,0.6223398623610376
+687,rs10761661-<b>C</b>,5e-08,bipolar disorder,ADO,10:62765375,0.6223398623610376
+730,rs1841565-<b>?</b>,5e-08,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+243,rs11624408-<b>A</b>,5e-08,bipolar disorder,UNKNOWN,Mapping not available,0.5959319716263567
+406,rs10875914-<b>G</b>,6.000000000000001e-08,bipolar disorder,KMT2D,12:49028311,0.40141276765603173
+244,rs11231677-<b>G</b>,6.000000000000001e-08,bipolar disorder,MACROD1,11:64017876,0.6138993120700438
+45,rs1850-<b>C</b>,6.000000000000001e-08,bipolar i disorder,KCNG1,20:51003734,0.34828202581926515
+514,rs420259-<b>A</b>,6.000000000000001e-08,bipolar disorder,PALB2,16:23622705,0.725380979521811
+484,rs12563333-<b>?</b>,6.000000000000001e-08,bipolar disorder,LINC02779,1:220484892,-1.0
+484,rs12563333-<b>?</b>,6.000000000000001e-08,bipolar disorder,PRELID3BP1,1:220484892,-1.0
+403,rs4523096-<b>A</b>,7e-08,bipolar disorder,SYNE1,6:152472277,0.7433321301086913
+370,rs1006737-<b>?</b>,7e-08,bipolar disorder,CACNA1C,12:2236129,-1.0
+504,rs1006737-<b>A</b>,7e-08,bipolar disorder,CACNA1C,12:2236129,0.3195679498724298
+46,rs9295358-<b>A</b>,7e-08,bipolar i disorder,RPS6KA2,6:166646138,0.6924298570672314
+246,rs55648125-<b>G</b>,8e-08,bipolar disorder,UNKNOWN,Mapping not available,0.08263038548752834
+245,rs62535709-<b>T</b>,8e-08,bipolar disorder,ZCCHC7,9:37166192,0.04878178529630812
+111,rs75928006-<b>?</b>,9e-08,bipolar i disorder,RNU6-751P,19:53751134,-1.0
+111,rs75928006-<b>?</b>,9e-08,bipolar i disorder,MIR522,19:53751134,-1.0
+247,rs17150022-<b>C</b>,9e-08,bipolar disorder,GSDME,7:24732158,0.10760160033691303
+2,chr21_26773583_D-<b>?</b>,9e-08,bipolar ii disorder,UNKNOWN,Mapping not available,-1.0
+4,rs79143696-<b>C</b>,9e-08,bipolar ii disorder,KRTAP5-11,11:71576909,0.057181425485961127
+4,rs79143696-<b>C</b>,9e-08,bipolar ii disorder,KRTAP5-10,11:71576909,0.057181425485961127
+48,rs6848834-<b>T</b>,1e-07,bipolar i disorder,IL21,4:122588558,0.2532553443353527
+386,rs10896135-<b>G</b>,1e-07,bipolar disorder,C11orf80,11:66783531,0.7592443019763245
+568,rs1171113-<b>C</b>,1e-07,bipolar disorder,PRSS35,6:83516876,0.2635093486747483
+114,rs10106565-<b>?</b>,1e-07,bipolar i disorder,ERI1,8:8997522,-1.0
+114,rs10106565-<b>?</b>,1e-07,bipolar i disorder,RPL10P19,8:8997522,-1.0
+47,rs4794820-<b>G</b>,1e-07,bipolar i disorder,LRRC3C,17:39933091,0.552178256789077
+396,rs329674-<b>A</b>,1e-07,bipolar disorder,IGSF9B,11:133907053,0.22604672270234008
+448,rs17418283-<b>C</b>,1e-07,bipolar disorder,MCTP1,5:94818883,0.2845789497654507
+250,rs2635253-<b>T</b>,1e-07,bipolar disorder,LINC01378,4:117551578,0.49920592906299627
+249,rs9371601-<b>T</b>,1e-07,bipolar disorder,SYNE1,6:152469438,0.374805308909863
+248,rs74446114-<b>C</b>,1e-07,bipolar disorder,MRPL33,2:27843255,0.18074917260054157
+248,rs74446114-<b>C</b>,1e-07,bipolar disorder,RBKS,2:27843255,0.18074917260054157
+251,rs72745470-<b>G</b>,1e-07,bipolar disorder,IQCH,15:67361344,0.2796188459502382
+251,rs72745470-<b>G</b>,1e-07,bipolar disorder,IQCH-AS1,15:67361344,0.2796188459502382
+446,rs1042779-<b>A</b>,2e-07,bipolar disorder,ITIH1,3:52786995,0.6107463393236365
+50,rs57681866-<b>G</b>,2e-07,bipolar i disorder,ACTG1P22,2:57748579,0.9399152991000529
+6,rs960145-<b>A</b>,2e-07,bipolar i disorder,RPS6KA2,6:166583503,0.5082308063816376
+49,rs10147900-<b>T</b>,2e-07,bipolar i disorder,LINC02280,14:104625694,0.16438946331856227
+49,rs10147900-<b>T</b>,2e-07,bipolar i disorder,TMEM179,14:104625694,0.16438946331856227
+51,rs10092482-<b>T</b>,2e-07,bipolar i disorder,RRS1-AS1,8:66342488,0.1920881313792201
+116,"rs12568010-<b>A</b>, rs1125777-<b>C</b>",2e-07,bipolar disorder,NFIA; No mapped genes,1:61366266,0.9220955221965614
+52,rs2052387-<b>A</b>,2e-07,bipolar i disorder,RPSAP12,12:68483007,0.33153153153153153
+52,rs2052387-<b>A</b>,2e-07,bipolar i disorder,LINC02384,12:68483007,0.33153153153153153
+257,rs2463709-<b>T</b>,2e-07,bipolar disorder,RIMS1,6:72155201,0.42020928711576194
+256,rs4301023-<b>T</b>,2e-07,bipolar disorder,UNKNOWN,Mapping not available,0.49005875599378673
+255,rs884301-<b>T</b>,2e-07,bipolar disorder,HLF,17:55290103,0.40739740820734344
+391,rs72874541-<b>G</b>,2e-07,bipolar disorder,LINC00698,3:63148173,0.9182636315510853
+391,rs72874541-<b>G</b>,2e-07,bipolar disorder,UBL5P3,3:63148173,0.9182636315510853
+440,rs472913-<b>C</b>,2e-07,bipolar disorder,LINC01748,1:60629886,0.2828418230563003
+253,rs12594483-<b>A</b>,2e-07,bipolar disorder,CDAN1,15:42729788,0.14532068908787515
+398,rs76317718-<b>G</b>,2e-07,bipolar disorder,ARHGEF15,17:8319459,0.983041958041958
+668,rs6066295-<b>A</b>,2e-07,bipolar disorder,LINC01754,20:47381100,0.8140553992642285
+668,rs6066295-<b>A</b>,2e-07,bipolar disorder,ZMYND8,20:47381100,0.8140553992642285
+254,rs329319-<b>A</b>,2e-07,bipolar disorder,JADE2,5:134570919,0.44086247037355536
+670,rs211137-<b>T</b>,2e-07,bipolar disorder,SERGEF,11:18004914,0.4837480148226575
+53,rs10058613-<b>C</b>,2e-07,bipolar i disorder,KDM3B,5:138358306,0.7665087768180552
+54,rs11972012-<b>G</b>,2e-07,bipolar i disorder,MYO1G,7:44946070,0.672725054891437
+54,rs11972012-<b>G</b>,2e-07,bipolar i disorder,PURB,7:44946070,0.672725054891437
+55,rs13231398-<b>G</b>,2e-07,bipolar i disorder,UNKNOWN,7:110557355,0.9343715239154616
+115,"rs12568010-<b>A</b>, rs1125777-<b>C</b>, rs41453448-<b>G</b>",2e-07,bipolar disorder,NFIA; No mapped genes; No mapped genes,1:61366266,0.9220955221965614
+1,rs72761817-<b>G</b>,3e-07,bipolar ii disorder,OXCT1,5:41654144,0.026205936920222633
+384,rs12334475-<b>T</b>,3e-07,bipolar disorder,UNKNOWN,8:142064186,0.03619098867350019
+259,rs62085738-<b>A</b>,3e-07,bipolar disorder,ARIH2P1,18:28736659,0.30376015129602846
+7,rs181957530-<b>C</b>,3e-07,bipolar i disorder,FSTL5,4:161420812,0.0010058231868713605
+8,rs6090435-<b>G</b>,3e-07,bipolar i disorder,EEF1A2,20:63501358,0.5387734278502766
+8,rs6090435-<b>G</b>,3e-07,bipolar i disorder,PPDPF,20:63501358,0.5387734278502766
+669,rs8039223-<b>A</b>,3e-07,bipolar disorder,TUBGCP5,15:23015662,-1.0
+9,rs17395886-<b>C</b>,3e-07,bipolar i disorder,FSTL5,4:161358233,0.8634872842625948
+10,rs6065777-<b>T</b>,3e-07,bipolar i disorder,STK4,20:45041000,0.7167284277395447
+12,rs73222936-<b>A</b>,3e-07,bipolar i disorder,MESTP3,4:28921093,0.050764622418414
+12,rs73222936-<b>A</b>,3e-07,bipolar i disorder,LINC02364,4:28921093,0.050764622418414
+128,rs41350144-<b>T</b>,3e-07,bipolar disorder,NFIA,1:61350127,0.29489024829075206
+132,rs7567409-<b>A</b>,3e-07,bipolar disorder,BABAM2,2:28293404,0.1882799996072386
+133,rs12898460-<b>C</b>,3e-07,bipolar disorder,LINC02694,15:38694612,0.734893945695443
+13,chr2_181742430_D-<b>?</b>,3e-07,bipolar i disorder,UNKNOWN,Mapping not available,-1.0
+14,rs12754946-<b>T</b>,3e-07,bipolar i disorder,AK5,1:77524238,0.6334282542593754
+134,rs63722863-<b>G</b>,3e-07,bipolar disorder,KIF15,3:44780094,-1.0
+559,rs10994397-<b>T</b>,3e-07,bipolar disorder,ANK3,10:60519366,0.0750350120950874
+479,rs17746001-<b>T</b>,3e-07,bipolar disorder,UNKNOWN,4:179734472,0.05503520886032679
+490,rs12899449-<b>?</b>,4e-07,bipolar disorder,LINC02694,15:38703290,-1.0
+667,rs17679321-<b>A</b>,4e-07,bipolar disorder,PEBP4,8:22916776,0.040449554588771496
+397,rs185880008-<b>T</b>,4e-07,bipolar disorder,CPNE8,12:38807668,0.9359071274298056
+140,rs12833856-<b>G</b>,4e-07,bipolar disorder,RPL29P25,12:110824378,0.3302984319676277
+140,rs12833856-<b>G</b>,4e-07,bipolar disorder,PPP1CC,12:110824378,0.3302984319676277
+395,rs78089757-<b>A</b>,4e-07,bipolar disorder,RPS27P18,10:125424260,0.0076081292339760295
+118,"rs7556462-<b>C</b>, rs4915737-<b>C</b>",4e-07,bipolar disorder,NFIA; No mapped genes,1:61356147,0.45983094730429486
+402,rs2205829-<b>G</b>,4e-07,bipolar disorder,ZNF184,6:27512448,0.46247278509029477
+402,rs2205829-<b>G</b>,4e-07,bipolar disorder,HNRNPA1P1,6:27512448,0.46247278509029477
+409,rs4245147-<b>C</b>,4e-07,bipolar disorder,DRD2,11:113447285,0.48547701195538795
+135,rs66752127-<b>G</b>,4e-07,bipolar disorder,PDE3B,11:14767417,-1.0
+136,rs1477143-<b>T</b>,4e-07,bipolar disorder,HLF,17:55258467,0.25157651410078596
+136,rs1477143-<b>T</b>,4e-07,bipolar disorder,STXBP4,17:55258467,0.25157651410078596
+137,chr17_49345320_D-<b>?</b>,4e-07,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+138,rs73496688-<b>A</b>,4e-07,bipolar disorder,TENM4,11:79445704,0.14489147697194282
+393,rs3931398-<b>A</b>,4e-07,bipolar disorder,MAD1L1,7:1991957,-1.0
+117,"rs7556462-<b>C</b>, rs17121983-<b>C</b>",4e-07,bipolar disorder,NFIA; No mapped genes,1:61356147,0.45983094730429486
+22,rs1331621-<b>T</b>,4e-07,bipolar i disorder,BRINP1,9:119412084,0.3679863481228669
+21,rs546671-<b>A</b>,4e-07,bipolar i disorder,LINC01748,1:60628168,0.45108005082592123
+20,rs56158970-<b>G</b>,4e-07,bipolar i disorder,LINC01392,7:115282097,0.011100687929956223
+19,rs35755081-<b>A</b>,4e-07,bipolar i disorder,RNU4-74P,7:141068359,0.42515390430932065
+19,rs35755081-<b>A</b>,4e-07,bipolar i disorder,TMEM178B,7:141068359,0.42515390430932065
+17,rs60960031-<b>G</b>,4e-07,bipolar i disorder,NUTF2P8,2:21307787,0.6617045454545455
+388,rs1842329-<b>T</b>,4e-07,bipolar disorder,UNKNOWN,12:98170438,0.3676986835689907
+142,chr11_47580062_D-<b>?</b>,5e-07,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+518,rs12938916-<b>?</b>,5e-07,bipolar disorder,RN7SKP94,17:57788926,-1.0
+518,rs12938916-<b>?</b>,5e-07,bipolar disorder,CCDC182,17:57788926,-1.0
+141,rs7222752-<b>G</b>,5e-07,bipolar disorder,NPTX1,17:80489926,0.1336199629067611
+141,rs7222752-<b>G</b>,5e-07,bipolar disorder,RPL32P31,17:80489926,0.1336199629067611
+401,rs9393813-<b>A</b>,5e-07,bipolar disorder,ZNF204P,6:27363817,0.3645833333333333
+401,rs9393813-<b>A</b>,5e-07,bipolar disorder,ZNF391,6:27363817,0.3645833333333333
+586,rs2709736-<b>G</b>,5e-07,bipolar disorder,SP8,7:20822683,-1.0
+586,rs2709736-<b>G</b>,5e-07,bipolar disorder,RPL23P8,7:20822683,-1.0
+28,rs7314975-<b>A</b>,5e-07,bipolar i disorder,DHH,12:49083734,-1.0
+28,rs7314975-<b>A</b>,5e-07,bipolar i disorder,RHEBL1,12:49083734,-1.0
+25,rs8047469-<b>G</b>,5e-07,bipolar i disorder,PRSS36,16:31140200,0.9840632173759492
+24,rs78381888-<b>A</b>,5e-07,bipolar i disorder,ANKRD23,2:96835038,0.839565594663485
+24,rs78381888-<b>A</b>,5e-07,bipolar i disorder,CNNM3,2:96835038,0.839565594663485
+23,rs78014668-<b>C</b>,5e-07,bipolar i disorder,MAPK8IP1,11:45892443,0.02515979081929111
+144,rs72966520-<b>C</b>,6e-07,bipolar disorder,TLCD4-RWDD3,1:95142777,0.9154579142403388
+144,rs72966520-<b>C</b>,6e-07,bipolar disorder,TLCD4,1:95142777,0.9154579142403388
+130,rs114034759-<b>A</b>,6e-07,bipolar disorder,MKLN1,7:131128204,0.07765124555160142
+56,rs1948223-<b>C</b>,6e-07,bipolar i disorder,LINC01378,4:117624232,0.33973447649876426
+29,rs3026433-<b>G</b>,6e-07,bipolar i disorder,ATP2A2,12:110281387,0.10821433250360278
+143,rs8067817-<b>T</b>,6e-07,bipolar disorder,PSMD3,17:40007683,0.5643752798925212
+143,rs8067817-<b>T</b>,6e-07,bipolar disorder,CSF3,17:40007683,0.5643752798925212
+146,rs5754941-<b>C</b>,6e-07,bipolar disorder,MAPK1,22:21747706,0.5722504978977649
+146,rs5754941-<b>C</b>,6e-07,bipolar disorder,YPEL1,22:21747706,0.5722504978977649
+145,rs11709009-<b>A</b>,6e-07,bipolar disorder,VIPR1,3:42473630,0.06962873609435732
+145,rs11709009-<b>A</b>,6e-07,bipolar disorder,RPL35AP8,3:42473630,0.06962873609435732
+394,rs35425515-<b>C</b>,7e-07,bipolar disorder,SLIT1,10:97119904,0.11524277811923786
+527,rs514636-<b>?</b>,7e-07,bipolar disorder,LAMP3,3:183152648,-1.0
+390,rs186197500-<b>A</b>,7e-07,bipolar disorder,RASAL2,1:178131084,0.005510534846029173
+150,rs10878840-<b>G</b>,7e-07,bipolar disorder,LINC02384,12:68487269,0.383676161757579
+150,rs10878840-<b>G</b>,7e-07,bipolar disorder,RPSAP12,12:68487269,0.383676161757579
+0,rs147650109-<b>G</b>,7e-07,bipolar ii disorder,ADGRE1,19:6908884,0.020063525674960298
+571,rs2333194-<b>?</b>,7e-07,bipolar disorder,NUMB,14:73300506,-1.0
+57,rs7613933-<b>G</b>,7e-07,bipolar i disorder,WDR49,3:167586401,0.4791178299765584
+113,rs7914868-<b>?</b>,7e-07,bipolar i disorder,CUBN,10:16931723,-1.0
+149,rs778433-<b>A</b>,7e-07,bipolar disorder,LGMNP1,13:65233151,0.42561736986519266
+149,rs778433-<b>A</b>,7e-07,bipolar disorder,STARP1,13:65233151,0.42561736986519266
+147,rs74577022-<b>A</b>,7e-07,bipolar disorder,BICRA,19:47601390,-1.0
+147,rs74577022-<b>A</b>,7e-07,bipolar disorder,RN7SL322P,19:47601390,-1.0
+148,rs116403057-<b>A</b>,7e-07,bipolar disorder,TSBP1-AS1,6:32335895,-1.0
+148,rs116403057-<b>A</b>,7e-07,bipolar disorder,TSBP1,6:32335895,-1.0
+58,rs6079463-<b>G</b>,8e-07,bipolar i disorder,MACROD2,20:14495111,0.2319551506657323
+59,rs998817-<b>T</b>,8e-07,bipolar i disorder,LINC01378,4:117548415,0.5393210309117807
+60,rs115858175-<b>G</b>,8e-07,bipolar i disorder,LINC01221,1:199032122,-1.0
+61,rs111998037-<b>C</b>,8e-07,bipolar i disorder,ANKHD1-EIF4EBP3,5:140418422,0.2148724600086468
+61,rs111998037-<b>C</b>,8e-07,bipolar i disorder,ANKHD1,5:140418422,0.2148724600086468
+62,rs9521159-<b>G</b>,8e-07,bipolar i disorder,MYO16,13:109076822,0.5898283122772918
+151,rs907162-<b>C</b>,8e-07,bipolar disorder,ASAP2,2:9270500,0.37390153520381153
+152,rs13411201-<b>A</b>,8e-07,bipolar disorder,IFITM3P9,2:60680195,0.14257975716462665
+152,rs13411201-<b>A</b>,8e-07,bipolar disorder,RN7SL361P,2:60680195,0.14257975716462665
+153,rs2956395-<b>C</b>,8e-07,bipolar disorder,MYRF-AS1,11:61752514,0.8284306405853367
+154,rs17680579-<b>A</b>,8e-07,bipolar disorder,LAMA4-AS1,6:112269480,0.8758422930894911
+392,rs115769866-<b>A</b>,8e-07,bipolar disorder,ZBED9,6:28545105,-1.0
+392,rs115769866-<b>A</b>,8e-07,bipolar disorder,GPX5,6:28545105,-1.0
+399,rs61580878-<b>A</b>,9e-07,bipolar disorder,LINC01643,22:34102046,0.9903137502632133
+262,rs62433108-<b>G</b>,9e-07,bipolar disorder,DCBLD1,6:117483634,0.2342513576415826
+63,rs11917269-<b>G</b>,9e-07,bipolar i disorder,CACNA2D2,3:50443604,0.7791935318800532
+480,rs17040430-<b>T</b>,9e-07,bipolar disorder,CMKLR1,12:108349043,0.05544255063789328
+480,rs17040430-<b>T</b>,9e-07,bipolar disorder,LINC01498,12:108349043,0.05544255063789328
+528,rs6844851-<b>?</b>,9e-07,bipolar disorder,UNKNOWN,4:179766847,-1.0
+270,rs2345964-<b>A</b>,1e-06,bipolar disorder,UNKNOWN,1:163781667,0.4410269984118581
+452,rs2242663-<b>T</b>,1e-06,bipolar disorder,CTSF,11:66567837,0.755741127348643
+263,rs1819204-<b>A</b>,1e-06,bipolar disorder,CUL4A,13:113229001,0.6966649020645844
+264,rs184148144-<b>T</b>,1e-06,bipolar disorder,SLAIN2,4:48443799,0.8071814254859612
+264,rs184148144-<b>T</b>,1e-06,bipolar disorder,SLC10A4,4:48443799,0.8071814254859612
+265,rs143577122-<b>C</b>,1e-06,bipolar disorder,UNKNOWN,7:145943513,0.965450755601876
+266,rs4845399-<b>T</b>,1e-06,bipolar disorder,KCNN3,1:154893617,0.32192374350086655
+266,rs4845399-<b>T</b>,1e-06,bipolar disorder,PMVK,1:154893617,0.32192374350086655
+268,rs35955717-<b>T</b>,1e-06,bipolar disorder,AKAP6,14:32925854,0.8510141922104854
+268,rs35955717-<b>T</b>,1e-06,bipolar disorder,NPAS3,14:32925854,0.8510141922104854
+269,chr1_95580645_I-<b>?</b>,1e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+272,rs206949-<b>A</b>,1e-06,bipolar disorder,COX6A1,12:120384246,0.2634226411098168
+272,rs206949-<b>A</b>,1e-06,bipolar disorder,RPS27P25,12:120384246,0.2634226411098168
+273,rs6529693-<b>G</b>,1e-06,bipolar disorder,HUWE1,X:53707621,0.6211663066954644
+274,rs976498-<b>T</b>,1e-06,bipolar disorder,PPIAP48,16:64687040,0.8196225253872192
+275,rs3911862-<b>A</b>,1e-06,bipolar disorder,RPS15AP15,2:65532537,0.4676943584735081
+275,rs3911862-<b>A</b>,1e-06,bipolar disorder,RN7SL635P,2:65532537,0.4676943584735081
+276,rs12153740-<b>C</b>,1e-06,bipolar disorder,LINC01470,5:152697204,-1.0
+277,chr12_110877946_I-<b>?</b>,1e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+278,rs142370491-<b>C</b>,1e-06,bipolar disorder,AKAP6,14:32749087,0.007741436036384749
+569,rs11710433-<b>?</b>,1e-06,bipolar disorder,UNKNOWN,3:5663365,-1.0
+532,rs914715-<b>?</b>,1e-06,bipolar disorder,TLE4,9:79695983,-1.0
+542,rs12618769-<b>T</b>,1e-06,bipolar disorder,MGAT4A,2:98623468,0.16150526623756584
+672,rs62009532-<b>A</b>,1e-06,bipolar disorder,TUBGCP5,15:22996158,-1.0
+550,rs2070615-<b>G</b>,1e-06,bipolar disorder,CACNB3,12:48824388,0.5825529578920176
+536,rs10134944-<b>?</b>,1e-06,bipolar disorder,SLC35F4,14:57652478,-1.0
+64,rs7858026-<b>T</b>,1e-06,bipolar i disorder,ASTN2,9:117186184,0.5060878771836951
+520,rs3761218-<b>?</b>,1e-06,bipolar disorder,CDC25B,20:3795528,-1.0
+65,rs143685090-<b>C</b>,1e-06,bipolar i disorder,RPSAP74,8:89152810,0.0011433322939403388
+131,rs10168049-<b>G</b>,1e-06,bipolar disorder,CLASP1,2:121320830,0.10312334568554792
+131,rs10168049-<b>G</b>,1e-06,bipolar disorder,RPS17P7,2:121320830,0.10312334568554792
+282,rs62002181-<b>C</b>,2e-06,bipolar disorder,KRT8P2,14:43505794,0.06039098493338314
+281,rs13006127-<b>C</b>,2e-06,bipolar disorder,CERS6,2:168535393,0.5878547579298832
+283,rs4906364-<b>G</b>,2e-06,bipolar disorder,PPP1R13B,14:103748005,0.3161564440570868
+516,rs2111504-<b>T</b>,2e-06,bipolar disorder,DPY19L3,19:32426549,0.832048118445404
+521,rs2989476-<b>?</b>,2e-06,bipolar disorder,LINC01748,1:60593587,-1.0
+165,rs10122788-<b>G</b>,2e-06,bipolar disorder,MVB12B,9:126444553,0.4490807625846293
+284,rs77626951-<b>G</b>,2e-06,bipolar disorder,LINC02149,5:15113630,0.0032616832424339644
+120,rs2245641-<b>?</b>,2e-06,bipolar disorder,TTC39B,9:15309930,-1.0
+120,rs2245641-<b>?</b>,2e-06,bipolar disorder,RPL7P33,9:15309930,-1.0
+280,rs5990908-<b>C</b>,2e-06,bipolar disorder,UNKNOWN,X:20638387,0.8909287257019438
+285,rs181957530-<b>?</b>,2e-06,bipolar disorder,FSTL5,4:161420812,-1.0
+538,rs11622475-<b>?</b>,2e-06,bipolar disorder,TDRD9,14:104042739,-1.0
+166,rs6714647-<b>A</b>,2e-06,bipolar disorder,LYARP1,2:82237883,0.8944566813509545
+167,rs814197-<b>G</b>,2e-06,bipolar disorder,LINC01748,1:60626784,0.4585272958104105
+168,rs10136228-<b>G</b>,2e-06,bipolar disorder,SLC8A3,14:70118552,0.482881928349116
+170,rs28627084-<b>C</b>,2e-06,bipolar disorder,INSYN1,15:73731297,0.8493615865254007
+170,rs28627084-<b>C</b>,2e-06,bipolar disorder,CD276,15:73731297,0.8493615865254007
+163,rs10860416-<b>G</b>,2e-06,bipolar disorder,ANKS1B,12:99298229,0.30449160369020545
+161,rs6902652-<b>G</b>,2e-06,bipolar disorder,OFCC1,6:10167324,0.9772705383800443
+160,rs56397913-<b>C</b>,2e-06,bipolar disorder,TMEM131,2:97983036,0.9271042879830598
+159,rs191580074-<b>A</b>,2e-06,bipolar disorder,RNA5SP149,3:180084126,0.02631578947368421
+159,rs191580074-<b>A</b>,2e-06,bipolar disorder,PEX5L,3:180084126,0.02631578947368421
+158,rs76420936-<b>A</b>,2e-06,bipolar disorder,KCNN2,5:114086246,0.012677081954190388
+157,rs115462819-<b>C</b>,2e-06,bipolar disorder,RNU6-239P,1:154293485,0.9800416883793642
+157,rs115462819-<b>C</b>,2e-06,bipolar disorder,HAX1,1:154293485,0.9800416883793642
+526,rs4627791-<b>?</b>,2e-06,bipolar disorder,CMTM8,3:32306332,-1.0
+524,rs1375144-<b>?</b>,2e-06,bipolar disorder,DPP10,2:115483610,-1.0
+535,rs1568889-<b>?</b>,2e-06,bipolar disorder,HSP90AA2P,11:27987916,-1.0
+535,rs1568889-<b>?</b>,2e-06,bipolar disorder,KIF18A,11:27987916,-1.0
+279,rs75580062-<b>T</b>,2e-06,bipolar disorder,CFAP221,2:119565915,0.008382936507936508
+539,rs1344484-<b>?</b>,2e-06,bipolar disorder,PHBP21,16:52878387,-1.0
+164,rs3004668-<b>G</b>,2e-06,bipolar disorder,IL9RP1,9:138141056,0.49883663972569187
+547,rs8099939-<b>T</b>,2e-06,bipolar disorder,GRIK5,19:42016956,0.4747208480565371
+444,rs7250872-<b>T</b>,2e-06,bipolar disorder,ATP8B3,19:1811604,0.30859203111470707
+564,rs736408-<b>C</b>,2e-06,bipolar disorder,ITIH3,3:52801338,0.6254552273422619
+540,rs7247513-<b>?</b>,2e-06,bipolar disorder,ZNF490,19:12580371,-1.0
+572,rs4450798-<b>T</b>,2e-06,bipolar disorder,LINC00620,3:13695501,0.18269665096470283
+545,rs17197037-<b>A</b>,2e-06,bipolar disorder,HNRNPC,14:21257495,0.4009477267270236
+558,rs6746896-<b>A</b>,2e-06,bipolar disorder,UNKNOWN,Mapping not available,0.7031384715149996
+574,rs10865974-<b>?</b>,2e-06,bipolar disorder,PBRM1,3:52684264,-1.0
+574,rs10865974-<b>?</b>,2e-06,bipolar disorder,GNL3,3:52684264,-1.0
+552,rs3845817-<b>T</b>,2e-06,bipolar disorder,RPS15AP15,2:65531391,0.40005394049511694
+552,rs3845817-<b>T</b>,2e-06,bipolar disorder,RN7SL635P,2:65531391,0.40005394049511694
+573,rs11773966-<b>A</b>,2e-06,bipolar disorder,ATP6V1H,8:53642640,0.013410749152194019
+461,rs7041940-<b>?</b>,3e-06,bipolar disorder,GARNL3,9:127347467,-1.0
+523,rs7570682-<b>?</b>,3e-06,bipolar disorder,TCF23,2:104366809,-1.0
+523,rs7570682-<b>?</b>,3e-06,bipolar disorder,AHCYP3,2:104366809,-1.0
+458,rs2314398-<b>?</b>,3e-06,bipolar disorder,CNNM4,2:96747751,-1.0
+458,rs2314398-<b>?</b>,3e-06,bipolar disorder,LMAN2L,2:96747751,-1.0
+575,rs3744728-<b>C</b>,3e-06,bipolar disorder,WSCD1,17:6190631,0.07548967707781895
+575,rs3744728-<b>C</b>,3e-06,bipolar disorder,RNU6-1264P,17:6190631,0.07548967707781895
+565,rs12912251-<b>G</b>,3e-06,bipolar disorder,LINC02694,15:38694167,0.7091270489571421
+576,rs2860031-<b>?</b>,3e-06,bipolar disorder,LINC01648,1:30052867,-1.0
+562,rs7578035-<b>G</b>,3e-06,bipolar disorder,LINC02611,2:98766429,0.4787151382896064
+548,rs6122972-<b>A</b>,3e-06,bipolar disorder,PARD6B,20:50758705,0.8202840794837577
+548,rs6122972-<b>A</b>,3e-06,bipolar disorder,BCAS4,20:50758705,0.8202840794837577
+541,rs2989476-<b>C</b>,3e-06,bipolar disorder,LINC01748,1:60593587,0.43413649851632047
+554,rs4660531-<b>T</b>,3e-06,bipolar disorder,FOXO6,1:41374150,0.3322856156117701
+555,rs2287921-<b>C</b>,3e-06,bipolar disorder,RASIP1,19:48725015,0.4835548201095208
+171,rs140643378-<b>G</b>,3e-06,bipolar disorder,PABPC1L2B,X:73035874,-1.0
+171,rs140643378-<b>G</b>,3e-06,bipolar disorder,PABPC1L2A,X:73035874,-1.0
+172,rs59811079-<b>G</b>,3e-06,bipolar disorder,DLGAP2,8:1677566,0.7689652269091521
+173,chr7_131863813_D-<b>?</b>,3e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+174,chr10_116615129_I-<b>?</b>,3e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+184,rs17073012-<b>G</b>,3e-06,bipolar disorder,FYN,6:111858435,0.13091221695970934
+175,rs190905111-<b>A</b>,3e-06,bipolar disorder,SEMG1,20:45212068,0.9967776584317938
+175,rs190905111-<b>A</b>,3e-06,bipolar disorder,SEMG2,20:45212068,0.9967776584317938
+177,rs78781559-<b>A</b>,3e-06,bipolar disorder,C12orf76,12:110075511,0.07022544700699664
+177,rs78781559-<b>A</b>,3e-06,bipolar disorder,IFT81,12:110075511,0.07022544700699664
+178,rs4938784-<b>T</b>,3e-06,bipolar disorder,LAYN,11:111542740,0.324377926353023
+179,rs56662938-<b>A</b>,3e-06,bipolar disorder,TNKS,8:9836046,0.13795659078877712
+179,rs56662938-<b>A</b>,3e-06,bipolar disorder,MIR124-1HG,8:9836046,0.13795659078877712
+181,chr20_33361359_I-<b>?</b>,3e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+182,rs68093531-<b>C</b>,3e-06,bipolar disorder,SLAMF9,1:159954778,0.8802172977624785
+182,rs68093531-<b>C</b>,3e-06,bipolar disorder,LINC01133,1:159954778,0.8802172977624785
+176,rs142204301-<b>A</b>,3e-06,bipolar disorder,LINC01203,X:13358691,0.012008501594048884
+183,rs79032349-<b>T</b>,3e-06,bipolar disorder,HIVEP2,6:142872951,0.9729949874686716
+665,rs72734311-<b>A</b>,3e-06,bipolar disorder,TLE4,9:79664433,0.059979155810317875
+522,rs4027132-<b>?</b>,3e-06,bipolar disorder,MIR3681HG,2:11897366,-1.0
+493,rs4130590-<b>?</b>,3e-06,bipolar disorder,GARNL3,9:127345685,-1.0
+450,rs13409348-<b>G</b>,3e-06,bipolar disorder,CTNNA2,2:79312862,0.7474854420328216
+445,rs6733011-<b>G</b>,3e-06,bipolar disorder,CRACDL,2:98849039,0.5494377522737572
+587,rs17099448-<b>?</b>,3e-06,bipolar disorder,TPI1P1,1:76682734,-1.0
+587,rs17099448-<b>?</b>,3e-06,bipolar disorder,ST6GALNAC3,1:76682734,-1.0
+194,rs12468729-<b>G</b>,4e-06,bipolar disorder,SLC4A10,2:161476919,0.604807063440157
+185,rs436129-<b>G</b>,4e-06,bipolar disorder,VAV3-AS1,1:107969525,0.8004620759607799
+476,rs16966460-<b>?</b>,4e-06,bipolar disorder,SPRED1,15:38219782,-1.0
+531,rs4739466-<b>?</b>,4e-06,bipolar disorder,SMARCE1P4,8:37084024,-1.0
+186,rs77516904-<b>G</b>,4e-06,bipolar disorder,NRF1,7:129627460,0.0347273689782954
+187,rs58377812-<b>T</b>,4e-06,bipolar disorder,KPNA4,3:160530034,0.053839599531366494
+188,rs113123846-<b>G</b>,4e-06,bipolar disorder,LINC00970,1:168967834,0.008547008547008548
+189,rs78785751-<b>C</b>,4e-06,bipolar disorder,SRPK2,7:105230141,0.02465496015032722
+460,rs17082664-<b>?</b>,4e-06,bipolar disorder,SYNE1,6:152417619,-1.0
+494,rs16966460-<b>G</b>,4e-06,bipolar disorder,SPRED1,15:38219782,0.10275064779748853
+464,rs12290811-<b>?</b>,4e-06,bipolar disorder,TENM4,11:79372576,-1.0
+191,chr12_49463279_D-<b>?</b>,4e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+508,rs6458307-<b>?</b>,4e-06,bipolar disorder,BICRAL,6:42763377,-1.0
+190,rs1889339-<b>G</b>,4e-06,bipolar disorder,WNK2,9:93291646,0.21638307021315806
+470,rs216345-<b>?</b>,4e-06,bipolar disorder,UBE2R2-AS1,9:33799372,-1.0
+496,rs4380451-<b>?</b>,4e-06,bipolar disorder,CMTM8,3:32288005,-1.0
+451,rs2537859-<b>T</b>,4e-06,bipolar disorder,KIT,4:54616651,0.43540248904633166
+451,rs2537859-<b>T</b>,4e-06,bipolar disorder,LINC02260,4:54616651,0.43540248904633166
+505,rs17082664-<b>G</b>,4e-06,bipolar disorder,SYNE1,6:152417619,0.07410207939508506
+577,rs3934861-<b>?</b>,4e-06,bipolar disorder,MYOM3,1:24105466,-1.0
+497,rs216345-<b>T</b>,4e-06,bipolar disorder,UBE2R2-AS1,9:33799372,0.3833415024670784
+195,rs7210415-<b>G</b>,4e-06,bipolar disorder,KCTD2,17:75041773,0.37647554806070826
+195,rs7210415-<b>G</b>,4e-06,bipolar disorder,ATP5PD,17:75041773,0.37647554806070826
+195,rs7210415-<b>G</b>,4e-06,bipolar disorder,RN7SL573P,17:75041773,0.37647554806070826
+553,rs2176528-<b>C</b>,4e-06,bipolar disorder,UNKNOWN,2:194007459,0.7246430111345017
+537,rs6574988-<b>?</b>,4e-06,bipolar disorder,LINC01146,14:88093648,-1.0
+588,rs17622252-<b>?</b>,4e-06,bipolar disorder,CDKAL1,6:21331676,-1.0
+192,rs17730333-<b>G</b>,4e-06,bipolar disorder,RNA5SP272,8:88364075,0.010265763418447107
+192,rs17730333-<b>G</b>,4e-06,bipolar disorder,MMP16,8:88364075,0.010265763418447107
+489,rs11720452-<b>?</b>,4.9999999999999996e-06,bipolar disorder,SGO1-AS1,3:21207150,-1.0
+509,rs683395-<b>G</b>,4.9999999999999996e-06,bipolar disorder,LAMP3,3:183152030,0.0983046946916232
+495,rs12436436-<b>C</b>,4.9999999999999996e-06,bipolar disorder,LINC00596,14:23912306,0.09503384118318803
+126,rs2287375-<b>?</b>,4.9999999999999996e-06,bipolar disorder,TMEM63C,14:77218499,-1.0
+122,rs3750552-<b>?</b>,4.9999999999999996e-06,bipolar disorder,FAM189A2,9:69328086,-1.0
+119,rs10237317-<b>?</b>,4.9999999999999996e-06,bipolar disorder,AUTS2,7:70580955,-1.0
+498,rs3821396-<b>A</b>,4.9999999999999996e-06,bipolar disorder,ZNF385D,3:21664877,0.11144281688396147
+196,rs2117096-<b>T</b>,4.9999999999999996e-06,bipolar disorder,MIR378C,10:130881981,0.7409417264985807
+197,rs7015455-<b>C</b>,4.9999999999999996e-06,bipolar disorder,MSRA,8:10367649,0.5732743483689714
+202,rs75677206-<b>C</b>,4.9999999999999996e-06,bipolar disorder,IL12A-AS1,3:160083194,0.018422445738485973
+474,rs307660-<b>?</b>,4.9999999999999996e-06,bipolar disorder,UBAP2,9:33942932,-1.0
+580,rs2962370-<b>G</b>,4.9999999999999996e-06,bipolar disorder,BASP1-AS1,5:17215335,0.44632086851628466
+580,rs2962370-<b>G</b>,4.9999999999999996e-06,bipolar disorder,BASP1,5:17215335,0.44632086851628466
+579,rs1775715-<b>G</b>,4.9999999999999996e-06,bipolar disorder,KIF5B,10:32020077,0.5051727315708917
+578,rs10255295-<b>G</b>,4.9999999999999996e-06,bipolar disorder,RCC2P3,7:138174020,0.11945550725078284
+578,rs10255295-<b>G</b>,4.9999999999999996e-06,bipolar disorder,Y_RNA,7:138174020,0.11945550725078284
+589,rs9359856-<b>?</b>,4.9999999999999996e-06,bipolar disorder,LYRM2,6:89598266,-1.0
+589,rs9359856-<b>?</b>,4.9999999999999996e-06,bipolar disorder,ANKRD6,6:89598266,-1.0
+491,rs8015959-<b>T</b>,4.9999999999999996e-06,bipolar disorder,NPAS3,14:33011716,0.03666949226856859
+534,rs17600642-<b>?</b>,4.9999999999999996e-06,bipolar disorder,ADAMTS14,10:70703238,-1.0
+662,rs12933065-<b>T</b>,4.9999999999999996e-06,bipolar disorder,CMTR2,16:71347976,0.6132498217741115
+662,rs12933065-<b>T</b>,4.9999999999999996e-06,bipolar disorder,CALB2,16:71347976,0.6132498217741115
+447,rs7427021-<b>G</b>,4.9999999999999996e-06,bipolar disorder,UNKNOWN,3:164044176,0.4625245737436557
+198,rs10492859-<b>A</b>,4.9999999999999996e-06,bipolar disorder,CDH13,16:82828209,0.7885112819640732
+292,rs188076915-<b>G</b>,4.9999999999999996e-06,bipolar disorder,AIFM1,X:130151035,0.006349901467046201
+293,rs7707252-<b>G</b>,4.9999999999999996e-06,bipolar disorder,Y_RNA,5:79544787,0.26814607058292933
+291,rs11162556-<b>A</b>,4.9999999999999996e-06,bipolar disorder,ADGRL4,1:78795698,0.6644095030414323
+459,rs3821396-<b>?</b>,4.9999999999999996e-06,bipolar disorder,ZNF385D,3:21664877,-1.0
+482,rs289585-<b>?</b>,4.9999999999999996e-06,bipolar disorder,DLC1,8:13403027,-1.0
+294,rs6829845-<b>A</b>,4.9999999999999996e-06,bipolar disorder,IL21,4:122589611,0.26295108259823574
+481,rs271738-<b>A</b>,4.9999999999999996e-06,bipolar disorder,LINC01354,1:234527144,0.4946505901333107
+481,rs271738-<b>A</b>,4.9999999999999996e-06,bipolar disorder,TARBP1,1:234527144,0.4946505901333107
+467,rs12436436-<b>?</b>,4.9999999999999996e-06,bipolar disorder,LINC00596,14:23912306,-1.0
+557,rs12730292-<b>C</b>,4.9999999999999996e-06,bipolar disorder,UNKNOWN,1:78789077,0.6754585795306234
+206,rs942516-<b>A</b>,4.9999999999999996e-06,bipolar disorder,BRINP1,9:119363076,0.14502662546841102
+200,rs7581349-<b>G</b>,4.9999999999999996e-06,bipolar disorder,LINC02611,2:98773244,0.4914198827021939
+205,rs1013191-<b>T</b>,4.9999999999999996e-06,bipolar disorder,LINC02096,17:15025416,0.4172578083642139
+205,rs1013191-<b>T</b>,4.9999999999999996e-06,bipolar disorder,CDRT7,17:15025416,0.4172578083642139
+204,chr2_186025770_D-<b>?</b>,4.9999999999999996e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+201,rs3843751-<b>T</b>,4.9999999999999996e-06,bipolar disorder,SLC44A2,19:10637445,0.7262958280657396
+475,rs7042161-<b>?</b>,6e-06,bipolar disorder,SVEP1,9:110434983,-1.0
+499,rs1948368-<b>?</b>,6e-06,bipolar disorder,LINC01307,1:101472921,-1.0
+472,rs1419103-<b>?</b>,6e-06,bipolar disorder,LINC01307,1:101475100,-1.0
+501,rs2278702-<b>?</b>,6e-06,bipolar disorder,LINC00927,15:80402580,-1.0
+501,rs2278702-<b>?</b>,6e-06,bipolar disorder,ARNT2,15:80402580,-1.0
+525,rs2953174-<b>?</b>,6e-06,bipolar disorder,CAPN10-DT,2:240582850,-1.0
+500,rs544368-<b>T</b>,6e-06,bipolar disorder,SIAE,11:124668099,0.11937884935345457
+465,rs544368-<b>?</b>,6e-06,bipolar disorder,SIAE,11:124668099,-1.0
+300,rs10005422-<b>T</b>,6e-06,bipolar disorder,LINC02264,4:117740497,0.4849442379182156
+300,rs10005422-<b>T</b>,6e-06,bipolar disorder,LINC01378,4:117740497,0.4849442379182156
+442,rs2905072-<b>A</b>,6e-06,bipolar disorder,GFI1B,9:132969648,0.7955581275411684
+302,chr6_18802039_I-<b>?</b>,6e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+299,rs8066384-<b>C</b>,6e-06,bipolar disorder,RPTOR,17:80651956,0.6630157921548651
+303,rs189574365-<b>A</b>,6e-06,bipolar disorder,GNA14,9:77685834,0.013822894168466522
+303,rs189574365-<b>A</b>,6e-06,bipolar disorder,GNAQ,9:77685834,0.013822894168466522
+298,rs7971456-<b>C</b>,6e-06,bipolar disorder,WSCD2,12:108202622,0.44065643197458976
+297,rs12392936-<b>A</b>,6e-06,bipolar disorder,RNU6-133P,X:21304805,1.0
+297,rs12392936-<b>A</b>,6e-06,bipolar disorder,CNKSR2,X:21304805,1.0
+585,rs8040009-<b>C</b>,6e-06,bipolar disorder,C15orf32,15:92501109,0.1862277240977423
+296,rs72673100-<b>C</b>,6e-06,bipolar disorder,LINC00641,14:21205210,0.5491659635230739
+295,chr6_84351889_I-<b>?</b>,6e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+441,rs6990255-<b>T</b>,6e-06,bipolar disorder,PPP1R3B,8:34269430,0.048947371735529904
+441,rs6990255-<b>T</b>,6e-06,bipolar disorder,RPL10AP3,8:34269430,0.048947371735529904
+301,rs142920219-<b>C</b>,6e-06,bipolar disorder,CAMK1D,10:12489159,0.9388565378507147
+664,rs74680417-<b>T</b>,6e-06,bipolar disorder,TTC39B,9:15216096,0.11048173636844892
+304,rs77015885-<b>A</b>,7e-06,bipolar disorder,LINC02751,11:15509462,0.04053398058252427
+513,rs3761218-<b>C</b>,7e-06,bipolar disorder,CDC25B,20:3795528,0.39219547031218116
+502,rs7226677-<b>G</b>,7e-06,bipolar disorder,COLEC12,18:278796,0.1508956034014836
+502,rs7226677-<b>G</b>,7e-06,bipolar disorder,THOC1-DT,18:278796,0.1508956034014836
+305,rs117450257-<b>G</b>,7e-06,bipolar disorder,SLC12A9,7:100848615,0.04335627316040233
+305,rs117450257-<b>G</b>,7e-06,bipolar disorder,SLC12A9-AS1,7:100848615,0.04335627316040233
+121,rs9995093-<b>?</b>,7e-06,bipolar disorder,PPM1K-DT,4:88299792,-1.0
+306,rs9895770-<b>T</b>,7e-06,bipolar disorder,PRKCA,17:66538700,0.25739605365318197
+307,rs1378559-<b>T</b>,7e-06,bipolar disorder,CNKSR2,X:21362148,0.8667296786389413
+308,chr16_60146407_D-<b>?</b>,7e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+311,rs1552246-<b>G</b>,7e-06,bipolar disorder,U2,8:109796715,0.5986273620987619
+314,chr12_57483523_I-<b>?</b>,7e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+125,rs4467006-<b>?</b>,7e-06,bipolar disorder,TMEM63C,14:77218327,-1.0
+313,rs7307046-<b>G</b>,7e-06,bipolar disorder,HDAC7,12:47784411,0.5797953315290933
+511,rs10134944-<b>T</b>,7e-06,bipolar disorder,SLC35F4,14:57652478,0.1019239942757195
+581,rs1680005-<b>A</b>,7e-06,bipolar disorder,PIM1,6:37206969,0.35213281992298845
+581,rs1680005-<b>A</b>,7e-06,bipolar disorder,TMEM217,6:37206969,0.35213281992298845
+582,rs12617721-<b>C</b>,7e-06,bipolar disorder,INPP4A,2:98467429,0.274135830668494
+671,chr11:108892250-<b>?</b>,7e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+530,rs2609653-<b>?</b>,7e-06,bipolar disorder,RPL10AP3,8:34379474,-1.0
+510,rs2953145-<b>C</b>,7e-06,bipolar disorder,RNPEPL1,2:240576179,0.7744421440073614
+590,rs4761053-<b>?</b>,7e-06,bipolar disorder,LINC00508,12:128021656,-1.0
+590,rs4761053-<b>?</b>,7e-06,bipolar disorder,LINC02441,12:128021656,-1.0
+473,rs1601875-<b>?</b>,7e-06,bipolar disorder,SUMF1,3:3617156,-1.0
+449,rs6494849-<b>A</b>,7e-06,bipolar disorder,RNU6-745P,15:70188275,0.1317971156337258
+449,rs6494849-<b>A</b>,7e-06,bipolar disorder,TLE3,15:70188275,0.1317971156337258
+663,rs1906292-<b>T</b>,7e-06,bipolar disorder,LINC02513,4:38371374,0.572664944265408
+478,rs7226677-<b>?</b>,7e-06,bipolar disorder,COLEC12,18:278796,-1.0
+478,rs7226677-<b>?</b>,7e-06,bipolar disorder,THOC1-DT,18:278796,-1.0
+469,rs722667-<b>?</b>,7e-06,bipolar disorder,SEPTIN7P14,4:119514966,-1.0
+469,rs722667-<b>?</b>,7e-06,bipolar disorder,PDE5A,4:119514966,-1.0
+312,rs12677998-<b>G</b>,7e-06,bipolar disorder,LETM2,8:38391683,0.8932429610221944
+584,rs17079247-<b>T</b>,8e-06,bipolar disorder,LINC00375,13:85091744,0.18825448613376836
+315,rs66506713-<b>T</b>,8e-06,bipolar disorder,RPA1,17:1916217,0.3940179461615155
+315,rs66506713-<b>T</b>,8e-06,bipolar disorder,RTN4RL1,17:1916217,0.3940179461615155
+477,rs703965-<b>?</b>,8e-06,bipolar disorder,ZMIZ1,10:79195310,-1.0
+208,rs7550853-<b>C</b>,8e-06,bipolar disorder,SMYD3,1:246455643,0.26509088853536616
+123,rs7897194-<b>?</b>,8e-06,bipolar disorder,MIR4675,10:20503405,-1.0
+209,rs255353-<b>A</b>,8e-06,bipolar disorder,MCTP1,5:94785878,0.35746037881716275
+210,rs73068042-<b>G</b>,8e-06,bipolar disorder,TRANK1,3:36876910,0.9483064095883272
+211,rs16842765-<b>G</b>,8e-06,bipolar disorder,UNKNOWN,2:209292126,0.6809198023565184
+512,rs11622475-<b>C</b>,8e-06,bipolar disorder,TDRD9,14:104042739,0.7149851339817481
+529,rs2286492-<b>?</b>,8e-06,bipolar disorder,FAM126A,7:22945391,-1.0
+127,rs6510489-<b>?</b>,8e-06,bipolar disorder,KRTDAP,19:35482387,-1.0
+127,rs6510489-<b>?</b>,8e-06,bipolar disorder,FFAR2,19:35482387,-1.0
+546,rs1038094-<b>G</b>,9e-06,bipolar disorder,INSYN1,15:73720096,0.8785307390178
+546,rs1038094-<b>G</b>,9e-06,bipolar disorder,CD276,15:73720096,0.8785307390178
+556,rs7827290-<b>G</b>,9e-06,bipolar disorder,SLC45A4,8:141290216,0.31472428001110136
+549,rs2289700-<b>A</b>,9e-06,bipolar disorder,CTSH,15:78932341,-1.0
+124,rs312273-<b>?</b>,9e-06,bipolar disorder,CNTN1,12:40853940,-1.0
+543,rs7747960-<b>A</b>,9e-06,bipolar disorder,SYNE1,6:152470339,0.1379486948593555
+583,rs1930961-<b>?</b>,9e-06,bipolar disorder,CRYBB2P1,22:25479298,-1.0
+214,chr7_130876812_D-<b>?</b>,9e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
+215,rs111930716-<b>A</b>,9e-06,bipolar disorder,LINC01505,9:105992588,0.023875066172578084
+544,rs4770394-<b>A</b>,9e-06,bipolar disorder,HMGA1P6,13:23118839,0.9515680323722813
+216,rs6788153-<b>T</b>,9e-06,bipolar disorder,FGF12,3:192499942,0.9439319887106766
+533,rs10982256-<b>?</b>,9e-06,bipolar disorder,WHRN,9:114498554,-1.0
+666,rs149898505-<b>T</b>,9e-06,bipolar disorder,PHAX,5:126622335,0.964425622022234
+443,rs1035050-<b>T</b>,9e-06,bipolar disorder,NGFR,17:49486650,0.5828858864128209
+443,rs1035050-<b>T</b>,9e-06,bipolar disorder,LINC02075,17:49486650,0.5828858864128209
+129,rs6124684-<b>?</b>,9e-06,bipolar disorder,KCNS1,20:45092852,-1.0
+213,chr15_96034210_I-<b>?</b>,9e-06,bipolar disorder,UNKNOWN,Mapping not available,-1.0
